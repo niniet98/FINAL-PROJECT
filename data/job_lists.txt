@@ -1,27 +1,171 @@
 <ul class="scaffold-layout__list-container">
-<li class="ember-view jobs-search-results__list-item occludable-update p0 relative scaffold-layout__list-item" data-occludable-job-id="3752806851" id="ember593">
+<li class="ember-view jobs-search-results__list-item occludable-update p0 relative scaffold-layout__list-item" data-occludable-job-id="3771782000" id="ember480">
 <div>
-<div aria-hidden="false" class="job-card-container relative job-card-list job-card-container--clickable job-card-list--underline-title-on-hover jobs-search-results-list__list-item--active jobs-search-two-pane__job-card-container--viewport-tracking-0" data-job-id="3752806851" data-view-name="job-card">
-<div class="job-card-list__entity-lockup artdeco-entity-lockup artdeco-entity-lockup--size-4 ember-view" id="ember594">
-<div class="mr1 job-card-list__logo artdeco-entity-lockup__image artdeco-entity-lockup__image--type-square ember-view" id="ember595" type="square">
+<div aria-hidden="false" class="job-card-container relative job-card-list job-card-container--clickable job-card-list--underline-title-on-hover jobs-search-results-list__list-item--active jobs-search-two-pane__job-card-container--viewport-tracking-0" data-job-id="3771782000" data-view-name="job-card">
+<div class="job-card-list__entity-lockup artdeco-entity-lockup artdeco-entity-lockup--size-4 ember-view" id="ember481">
+<div class="mr1 job-card-list__logo artdeco-entity-lockup__image artdeco-entity-lockup__image--type-square ember-view" id="ember482" type="square">
 <div class="ivm-image-view-model job-card-list__logo-ivm">
 <div class="ivm-view-attr__img-wrapper display-flex">
-<!-- --> <img alt="Logotipo de Zoetis" class="ivm-view-attr__img--centered EntityPhoto-square-4 evi-image lazy-image ember-view" height="56" id="ember596" loading="lazy" src="https://media.licdn.com/dms/image/C4D0BAQEt-j2WyFxLEg/company-logo_100_100/0/1630510471552/zoetis_logo?e=1709164800&amp;v=beta&amp;t=auC-6bSG2exLEDJTgvcWSCyp72qI_6YdV-ASDWwTMgo" width="56"/>
+<!-- --> <img alt="Logotipo de Wild Alaskan Company" class="ivm-view-attr__img--centered EntityPhoto-square-4 evi-image lazy-image ember-view" height="56" id="ember483" loading="lazy" src="https://media.licdn.com/dms/image/C4E0BAQHjoc7bpSMY5A/company-logo_100_100/0/1630568566096/wildalaskan_logo?e=1709164800&amp;v=beta&amp;t=xm10M8YIye_07YtMbCSk8Nat2IGHJ8t5i04mqhAa8ak" width="56"/>
 </div>
 </div>
 </div>
-<div class="flex-grow-1 artdeco-entity-lockup__content ember-view" id="ember597">
-<div class="full-width artdeco-entity-lockup__title ember-view" id="ember598">
-<a aria-label="Finance Analyst (Benelux)" class="disabled ember-view job-card-container__link job-card-list__title" data-control-id="QZxQe4OrHHK7EQPcAMpaRw==" href="/jobs/view/3752806851/?eBP=CwEAAAGMG8RH6l9TkVts3JtimFEcfmzV4DZ4O2WrCMc7T7l2oaQtaFPrrwvpBTQXC68HzH9T7p5zItYw9Do7hMONLP1rIxndfX3rXjwb2Ck7__uR1Zk425hbGmqAdOwBnTqxgS6ImcaXN7TUxLG_ZCmgOby2rhHmC-OyQMzS44S5v463QWEdUilo9luWf4VQwBXLgKOmkXGy2ALAw9aa0uhrf8juWWw2WoYumuKSOfr4dfnLyq7sVVpBnygyPvZGzy1thMSWafMLp-Ce47siWqXf1U62sxJanyAyqd5ThaJeIfrP3N0jIF3w-ASg3jWRWsG4fO4WrPCvC7xkrbuN7c-nLjtYE-2OpoIN3jXVF8TluPr1ye2ZvxUcpIyH8PSWkesBxVoV&amp;refId=q4c4XQnAbPwMZq8by4lORg%3D%3D&amp;trackingId=QZxQe4OrHHK7EQPcAMpaRw%3D%3D&amp;trk=flagship3_search_srp_jobs" id="ember599" tabindex="0">
+<div class="flex-grow-1 artdeco-entity-lockup__content ember-view" id="ember484">
+<div class="full-width artdeco-entity-lockup__title ember-view" id="ember485">
+<a aria-label="Senior Growth Product Manager" class="disabled ember-view job-card-container__link job-card-list__title" data-control-id="5+ytw0xxK9aZ+ZD9BdwNJw==" href="/jobs/view/3771782000/?eBP=CwEAAAGMHKLx0QbXkIM1nnvmlQ9JbM3UNHWicWOnHGrVRiZfgkGJqrJhyLbJDzya7QP97v6L4Avpo1Fa_Ab0rmgoOKF0ErKq2mUvglWVh50W4uH127sr74TTzbAAsMS9GcchOPHJqzTzBRTCJg_5tunbth8rjb3E1ECZWE5SNfaxoZmg9Si4IZm5Qsl7NcV0q_0Mpg3NTFDKIKCz0w5tvXZ2G7GtEISJ9spEOocdq1ewgVQt_mQNNQSyi5FXaYIh0yJ4Th3c4UwbxYGCe-yxrqrzqfanmfM0AyXQYN80qfW8Id2_B6FXIqK1x_oqKYAxQAm_f2ZIbHegjyxRit3MnSsCcHw1oihUJm2Wnn0sBBEtzuGlY-u1g2Gvan1LAHqihK64gqpXhw&amp;refId=w4X8SJhRpWoBZ3jgRMpq7Q%3D%3D&amp;trackingId=5%2Bytw0xxK9aZ%2BZD9BdwNJw%3D%3D&amp;trk=flagship3_search_srp_jobs" id="ember486" tabindex="0">
+                  Senior Growth Product Manager
+                </a>
+</div>
+<div class="artdeco-entity-lockup__subtitle ember-view" id="ember487">
+<span class="job-card-container__primary-description">
+                Wild Alaskan Company
+              </span>
+</div>
+<div class="artdeco-entity-lockup__caption ember-view" id="ember488">
+<ul class="job-card-container__metadata-wrapper">
+<li class="job-card-container__metadata-item">
+<!-- -->Estados Unidos (En remoto)<!-- -->
+</li>
+<!-- --> </ul>
+</div>
+<div class="mt1 t-sans t-12 t-black--light t-normal t-roman artdeco-entity-lockup__metadata ember-view" id="ember489">
+<ul class="job-card-container__metadata-wrapper">
+<li class="job-card-container__metadata-item">
+<!-- -->130 $K/año - 180 $K/año<!-- -->
+</li>
+</ul>
+</div>
+</div>
+<div class="job-card-container__action-container flex-shrink-zero display-flex">
+<div class="job-card-list__dismiss">
+<button aria-label="Descartar empleo «Senior Growth Product Manager»" class="job-card-container__action artdeco-button artdeco-button--circle artdeco-button--muted artdeco-button--2 artdeco-button--tertiary ember-view" id="ember490" type="button"> <li-icon aria-hidden="true" class="artdeco-button__icon" size="large" type="visibility-off"><svg aria-hidden="true" class="mercado-match" data-supported-dps="32x32" fill="currentColor" focusable="false" height="32" role="none" viewbox="0 0 32 32" width="32" xmlns="http://www.w3.org/2000/svg">
+<path d="M16 11.5c2.55 0 4.5 1.95 4.5 4.5 0 .71-.16 1.36-.43 1.95l-6.01-6.01c.59-.27 1.24-.43 1.95-.43zm0-2c3.64 0 6.5 2.86 6.5 6.5 0 1.27-.35 2.43-.96 3.42l3.04 3.04c2.31-1.55 4.17-3.76 5.41-6.46-2.55-5.53-7.64-9-14-9-2.09 0-4.03.38-5.8 1.08l2.38 2.38c.99-.6 2.16-.96 3.42-.96zM3.71 3L29 28.29l-.71.71-5.51-5.51c-2.02.97-4.3 1.51-6.79 1.51-6.36 0-11.45-3.47-14-9 1.4-3.04 3.57-5.44 6.29-7.01L3 3.71 3.71 3zM9.5 16c0 3.64 2.86 6.5 6.5 6.5 1.64 0 3.11-.58 4.24-1.55l-1.43-1.43c-.76.6-1.73.98-2.82.98-2.55 0-4.5-1.95-4.5-4.5 0-1.09.37-2.05.98-2.82l-1.43-1.43a6.474 6.474 0 00-1.55 4.24z"></path>
+</svg></li-icon>
+<span class="artdeco-button__text">
+</span></button>
+</div>
+<!-- -->
+</div>
+</div>
+<div class="job-card-list__insight">
+<div class="display-flex align-items-center t-black--light t-12">
+<div class="mv1">
+<div class="ivm-image-view-model">
+<div class="ivm-view-attr__img-wrapper display-flex">
+<li-icon aria-label="En busca de personal" class="ivm-view-attr__icon--signal-positive job-card-container__job-insight-image" role="img" size="large" type="radar-screen"><svg class="mercado-match" data-supported-dps="24x24" fill="currentColor" focusable="false" height="24" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+<path d="M12 20a8 8 0 010-16 7.91 7.91 0 014.9 1.69l-1.43 1.42a6 6 0 101.42 1.42l3.82-3.82a1 1 0 000-1.41A1 1 0 0020 3a1 1 0 00-.7.29l-1 1A10 10 0 1022 12h-2a8 8 0 01-8 8zm5-8a5 5 0 11-5-5 4.93 4.93 0 012.76.82l-2.24 2.24A2.24 2.24 0 0012 10a2 2 0 102 2 2.24 2.24 0 00-.07-.51l2.24-2.24A5 5 0 0117 12z"></path>
+</svg></li-icon>
+</div>
+</div>
+</div>
+<div class="job-card-container__job-insight-text">
+                En busca de personal
+              </div>
+</div>
+</div>
+<ul class="job-card-list__footer-wrapper job-card-container__footer-wrapper flex-shrink-zero display-flex t-sans t-12 t-black--light t-normal t-roman">
+<li class="job-card-container__footer-item job-card-container__footer-job-state t-bold">
+<svg aria-hidden="true" class="job-card-container__footer-job-state-check-icon" data-supported-dps="16x16" data-test-icon="check-small" height="16" role="none" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg">
+<!-- -->
+<use height="16" href="#check-small" width="16"></use>
+</svg>
+
+                      Visto
+                    </li>
+<li class="job-card-container__footer-item inline-flex align-items-center">
+<!-- -->Promocionado<!-- -->
+</li>
+<!-- --> </ul>
+<!-- --> <span aria-live="polite" class="visually-hidden">
+<!-- --> </span>
+</div>
+<div class="ember-view" id="ember491"><!-- --></div>
+</div>
+</li>
+<li class="ember-view jobs-search-results__list-item occludable-update p0 relative scaffold-layout__list-item" data-occludable-job-id="3744950123" id="ember492">
+<div>
+<div aria-hidden="false" class="job-card-container relative job-card-list job-card-container--clickable job-card-list--underline-title-on-hover jobs-search-two-pane__job-card-container--viewport-tracking-1" data-job-id="3744950123" data-view-name="job-card">
+<div class="job-card-list__entity-lockup artdeco-entity-lockup artdeco-entity-lockup--size-4 ember-view" id="ember493">
+<div class="mr1 job-card-list__logo artdeco-entity-lockup__image artdeco-entity-lockup__image--type-square ember-view" id="ember494" type="square">
+<div class="ivm-image-view-model job-card-list__logo-ivm">
+<div class="ivm-view-attr__img-wrapper display-flex">
+<!-- --> <img alt="Logotipo de Spotlight 29 Casino" class="ivm-view-attr__img--centered EntityPhoto-square-4 evi-image lazy-image ember-view" height="56" id="ember495" loading="lazy" src="https://media.licdn.com/dms/image/C560BAQHJrBrsrCvndQ/company-logo_100_100/0/1630648679422/spotlight_29_casino_logo?e=1709164800&amp;v=beta&amp;t=fN9AUsm4cy6NxZAxvStnUEPLG9yEEjQ-VwwlNw3WGSc" width="56"/>
+</div>
+</div>
+</div>
+<div class="flex-grow-1 artdeco-entity-lockup__content ember-view" id="ember496">
+<div class="full-width artdeco-entity-lockup__title ember-view" id="ember497">
+<a aria-label="Project Scheduler" class="disabled ember-view job-card-container__link job-card-list__title" data-control-id="CzSP97WolplqQdAn9DPkBQ==" href="/jobs/view/3744950123/?eBP=CwEAAAGMHKLx0VqYRI5vcz8Hemg3WQ4BKhmTDrNB_N-BFzS29EiafroJbjmhjT_XQoeGIPirk64QwOEeMX2mN9QalV98o7nJIsacSBJMYRVtGBd-6dfqUabt7v7SZRM5ElKT3P4iTxDpOA_dtcN-rI9M98oyZK8PRKZIKk4oiwfOIyUsGNBkjHRy5s9xPpmLfUtKwRFv5KoVHUgs_4oQllHhqzN3gigqRu-IsihYQGMlTlHb2R0E1dD92wdP-6BtUX_BxYADi2I_B4O3KWZkD1KfiPcDxYJW4H4hVomUcIyN0kgoV20oNZOi2Uwqa24UfyyqiHTI-KNbc79gscZWaSA76mfTh0EtgA&amp;refId=w4X8SJhRpWoBZ3jgRMpq7Q%3D%3D&amp;trackingId=CzSP97WolplqQdAn9DPkBQ%3D%3D&amp;trk=flagship3_search_srp_jobs" id="ember498" tabindex="0">
+                  Project Scheduler
+                </a>
+</div>
+<div class="artdeco-entity-lockup__subtitle ember-view" id="ember499">
+<span class="job-card-container__primary-description">
+                Spotlight 29 Casino
+              </span>
+</div>
+<div class="artdeco-entity-lockup__caption ember-view" id="ember500">
+<ul class="job-card-container__metadata-wrapper">
+<li class="job-card-container__metadata-item">
+<!-- -->Coachella, CA (Presencial)<!-- -->
+</li>
+<!-- --> </ul>
+</div>
+<!-- --> </div>
+<div class="job-card-container__action-container flex-shrink-zero display-flex">
+<div class="job-card-list__dismiss">
+<button aria-label="Descartar empleo «Project Scheduler»" class="job-card-container__action artdeco-button artdeco-button--circle artdeco-button--muted artdeco-button--2 artdeco-button--tertiary ember-view" id="ember501" type="button"> <li-icon aria-hidden="true" class="artdeco-button__icon" size="large" type="visibility-off"><svg aria-hidden="true" class="mercado-match" data-supported-dps="32x32" fill="currentColor" focusable="false" height="32" role="none" viewbox="0 0 32 32" width="32" xmlns="http://www.w3.org/2000/svg">
+<path d="M16 11.5c2.55 0 4.5 1.95 4.5 4.5 0 .71-.16 1.36-.43 1.95l-6.01-6.01c.59-.27 1.24-.43 1.95-.43zm0-2c3.64 0 6.5 2.86 6.5 6.5 0 1.27-.35 2.43-.96 3.42l3.04 3.04c2.31-1.55 4.17-3.76 5.41-6.46-2.55-5.53-7.64-9-14-9-2.09 0-4.03.38-5.8 1.08l2.38 2.38c.99-.6 2.16-.96 3.42-.96zM3.71 3L29 28.29l-.71.71-5.51-5.51c-2.02.97-4.3 1.51-6.79 1.51-6.36 0-11.45-3.47-14-9 1.4-3.04 3.57-5.44 6.29-7.01L3 3.71 3.71 3zM9.5 16c0 3.64 2.86 6.5 6.5 6.5 1.64 0 3.11-.58 4.24-1.55l-1.43-1.43c-.76.6-1.73.98-2.82.98-2.55 0-4.5-1.95-4.5-4.5 0-1.09.37-2.05.98-2.82l-1.43-1.43a6.474 6.474 0 00-1.55 4.24z"></path>
+</svg></li-icon>
+<span class="artdeco-button__text">
+</span></button>
+</div>
+<!-- -->
+</div>
+</div>
+<!-- -->
+<ul class="job-card-list__footer-wrapper job-card-container__footer-wrapper flex-shrink-zero display-flex t-sans t-12 t-black--light t-normal t-roman">
+<li class="job-card-container__footer-item job-card-container__footer-job-state t-bold">
+<svg aria-hidden="true" class="job-card-container__footer-job-state-check-icon" data-supported-dps="16x16" data-test-icon="check-small" height="16" role="none" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg">
+<!-- -->
+<use height="16" href="#check-small" width="16"></use>
+</svg>
+
+                      Visto
+                    </li>
+<li class="job-card-container__footer-item inline-flex align-items-center">
+<!-- -->Promocionado<!-- -->
+</li>
+<!-- --> </ul>
+<!-- --> <span aria-live="polite" class="visually-hidden">
+<!-- --> </span>
+</div>
+<div class="ember-view" id="ember502"><!-- --></div>
+</div>
+</li>
+<li class="ember-view jobs-search-results__list-item occludable-update p0 relative scaffold-layout__list-item" data-occludable-job-id="3752806851" id="ember503">
+<div>
+<div aria-hidden="false" class="job-card-container relative job-card-list job-card-container--clickable job-card-list--underline-title-on-hover jobs-search-two-pane__job-card-container--viewport-tracking-2" data-job-id="3752806851" data-view-name="job-card">
+<div class="job-card-list__entity-lockup artdeco-entity-lockup artdeco-entity-lockup--size-4 ember-view" id="ember504">
+<div class="mr1 job-card-list__logo artdeco-entity-lockup__image artdeco-entity-lockup__image--type-square ember-view" id="ember505" type="square">
+<div class="ivm-image-view-model job-card-list__logo-ivm">
+<div class="ivm-view-attr__img-wrapper display-flex">
+<!-- --> <img alt="Logotipo de Zoetis" class="ivm-view-attr__img--centered EntityPhoto-square-4 evi-image lazy-image ember-view" height="56" id="ember506" loading="lazy" src="https://media.licdn.com/dms/image/C4D0BAQEt-j2WyFxLEg/company-logo_100_100/0/1630510471552/zoetis_logo?e=1709164800&amp;v=beta&amp;t=auC-6bSG2exLEDJTgvcWSCyp72qI_6YdV-ASDWwTMgo" width="56"/>
+</div>
+</div>
+</div>
+<div class="flex-grow-1 artdeco-entity-lockup__content ember-view" id="ember507">
+<div class="full-width artdeco-entity-lockup__title ember-view" id="ember508">
+<a aria-label="Finance Analyst (Benelux)" class="disabled ember-view job-card-container__link job-card-list__title" data-control-id="H0j8G1s44PT1XQPWCA7Grw==" href="/jobs/view/3752806851/?eBP=CwEAAAGMHKLx0fjZxe1_ROh7f-cgXP6kKpnj_lMv_rlh2t_9b0R0s-QxJP53vnW53bebaNBXekqVpB-h-AYtS0zFwpatLNkJg8JOhUiihdAmGJgAbsZxgqZGkXt07uz86-QxphTQmAnqQAAAT08dKFBu2WByYDBn1rv5fvS60Y2lG-9TUDwYdbJZHxRTN6ONNuTZ0TE-IHW8NR3OQhwNlS8_pXwRK_HAPLC0bh4e1Z0wQWFLHtdQf-KCONLES1VeZAhPGYStbJqtOlxXS8Y4KZTDKyFteoWGKo9xZA7MqPj6HKLEp5D8AbMy-d9JfM5cLOczqhvsT082Bnfp7QzWxi6PQXTKF3BWTkS7y_RSxDNO1CaVhWXt8dl0dx5ebANMI2f4ltZWB6UM&amp;refId=w4X8SJhRpWoBZ3jgRMpq7Q%3D%3D&amp;trackingId=H0j8G1s44PT1XQPWCA7Grw%3D%3D&amp;trk=flagship3_search_srp_jobs" id="ember509" tabindex="0">
                   Finance Analyst (Benelux)
                 </a>
 </div>
-<div class="artdeco-entity-lockup__subtitle ember-view" id="ember600">
+<div class="artdeco-entity-lockup__subtitle ember-view" id="ember510">
 <span class="job-card-container__primary-description">
                 Zoetis
               </span>
 </div>
-<div class="artdeco-entity-lockup__caption ember-view" id="ember601">
+<div class="artdeco-entity-lockup__caption ember-view" id="ember511">
 <ul class="job-card-container__metadata-wrapper">
 <li class="job-card-container__metadata-item">
 <!-- -->Belgium, WI (Híbrido)<!-- -->
@@ -31,7 +175,7 @@
 <!-- --> </div>
 <div class="job-card-container__action-container flex-shrink-zero display-flex">
 <div class="job-card-list__dismiss">
-<button aria-label="Descartar empleo «Finance Analyst (Benelux)»" class="job-card-container__action artdeco-button artdeco-button--circle artdeco-button--muted artdeco-button--2 artdeco-button--tertiary ember-view" id="ember602" type="button"> <li-icon aria-hidden="true" class="artdeco-button__icon" size="large" type="visibility-off"><svg aria-hidden="true" class="mercado-match" data-supported-dps="32x32" fill="currentColor" focusable="false" height="32" role="none" viewbox="0 0 32 32" width="32" xmlns="http://www.w3.org/2000/svg">
+<button aria-label="Descartar empleo «Finance Analyst (Benelux)»" class="job-card-container__action artdeco-button artdeco-button--circle artdeco-button--muted artdeco-button--2 artdeco-button--tertiary ember-view" id="ember512" type="button"> <li-icon aria-hidden="true" class="artdeco-button__icon" size="large" type="visibility-off"><svg aria-hidden="true" class="mercado-match" data-supported-dps="32x32" fill="currentColor" focusable="false" height="32" role="none" viewbox="0 0 32 32" width="32" xmlns="http://www.w3.org/2000/svg">
 <path d="M16 11.5c2.55 0 4.5 1.95 4.5 4.5 0 .71-.16 1.36-.43 1.95l-6.01-6.01c.59-.27 1.24-.43 1.95-.43zm0-2c3.64 0 6.5 2.86 6.5 6.5 0 1.27-.35 2.43-.96 3.42l3.04 3.04c2.31-1.55 4.17-3.76 5.41-6.46-2.55-5.53-7.64-9-14-9-2.09 0-4.03.38-5.8 1.08l2.38 2.38c.99-.6 2.16-.96 3.42-.96zM3.71 3L29 28.29l-.71.71-5.51-5.51c-2.02.97-4.3 1.51-6.79 1.51-6.36 0-11.45-3.47-14-9 1.4-3.04 3.57-5.44 6.29-7.01L3 3.71 3.71 3zM9.5 16c0 3.64 2.86 6.5 6.5 6.5 1.64 0 3.11-.58 4.24-1.55l-1.43-1.43c-.76.6-1.73.98-2.82.98-2.55 0-4.5-1.95-4.5-4.5 0-1.09.37-2.05.98-2.82l-1.43-1.43a6.474 6.474 0 00-1.55 4.24z"></path>
 </svg></li-icon>
 <span class="artdeco-button__text">
@@ -45,66 +189,64 @@
 <div class="mv1">
 <div class="ivm-image-view-model">
 <div class="ivm-view-attr__img-wrapper display-flex">
-<!-- --> <img alt="" class="ivm-view-attr__img--centered EntityPhoto-square-1 job-card-container__job-insight-image evi-image lazy-image ember-view" height="32" id="ember603" loading="lazy" src="https://media.licdn.com/dms/image/D560BAQF3yEz9odOtlw/company-logo_100_100/0/1688376092638/nttdata_logo?e=1709164800&amp;v=beta&amp;t=xbClL-7uhULwUIcFtIeGvWYs_ov1osvy81e7ZLIIYxE" width="32"/>
+<!-- --> <img alt="" class="ivm-view-attr__img--centered EntityPhoto-square-1 job-card-container__job-insight-image evi-image lazy-image ember-view" height="32" id="ember513" loading="lazy" src="https://media.licdn.com/dms/image/D4D0BAQEyUV6w_gu7xw/company-logo_100_100/0/1694764811277/uoc_logo?e=1709164800&amp;v=beta&amp;t=YrGHT0afuCLpWxSv1S4cEYp8DRSQ1o6qDIiNavTTr4U" width="32"/>
 </div>
 </div>
 </div>
 <div class="job-card-container__job-insight-text">
-                1 antiguo empleado de la empresa trabaja aquí
+                12 antiguos alumnos de la universidad trabajan aquí 
               </div>
 </div>
 </div>
 <ul class="job-card-list__footer-wrapper job-card-container__footer-wrapper flex-shrink-zero display-flex t-sans t-12 t-black--light t-normal t-roman">
-<li class="job-card-container__footer-item inline-flex align-items-center">
+<!-- --> <li class="job-card-container__footer-item inline-flex align-items-center">
 <!-- -->Promocionado<!-- -->
+</li>
+<li class="job-card-container__footer-item">
+<time datetime="2023-11-08">
+                                Hace 3 semanas
+<!-- --> </time>
 </li>
 </ul>
 <!-- --> <span aria-live="polite" class="visually-hidden">
 <!-- --> </span>
 </div>
-<div class="ember-view" id="ember604"><!-- --></div>
+<div class="ember-view" id="ember514"><!-- --></div>
 </div>
 </li>
-<li class="ember-view jobs-search-results__list-item occludable-update p0 relative scaffold-layout__list-item" data-occludable-job-id="3769019036" id="ember605">
+<li class="ember-view jobs-search-results__list-item occludable-update p0 relative scaffold-layout__list-item" data-occludable-job-id="3324071738" id="ember515">
 <div>
-<div aria-hidden="false" class="job-card-container relative job-card-list job-card-container--clickable job-card-list--underline-title-on-hover jobs-search-two-pane__job-card-container--viewport-tracking-1" data-job-id="3769019036" data-view-name="job-card">
-<div class="job-card-list__entity-lockup artdeco-entity-lockup artdeco-entity-lockup--size-4 ember-view" id="ember606">
-<div class="mr1 job-card-list__logo artdeco-entity-lockup__image artdeco-entity-lockup__image--type-square ember-view" id="ember607" type="square">
+<div aria-hidden="false" class="job-card-container relative job-card-list job-card-container--clickable job-card-list--underline-title-on-hover jobs-search-two-pane__job-card-container--viewport-tracking-3" data-job-id="3324071738" data-view-name="job-card">
+<div class="job-card-list__entity-lockup artdeco-entity-lockup artdeco-entity-lockup--size-4 ember-view" id="ember516">
+<div class="mr1 job-card-list__logo artdeco-entity-lockup__image artdeco-entity-lockup__image--type-square ember-view" id="ember517" type="square">
 <div class="ivm-image-view-model job-card-list__logo-ivm">
 <div class="ivm-view-attr__img-wrapper display-flex">
-<!-- --> <img alt="Logotipo de Coders Data" class="ivm-view-attr__img--centered EntityPhoto-square-4 evi-image lazy-image ember-view" height="56" id="ember608" loading="lazy" src="https://media.licdn.com/dms/image/C510BAQFkOlS-dCHocA/company-logo_100_100/0/1630584787684/coders_data_logo?e=1709164800&amp;v=beta&amp;t=pHcwjpqMbU3hobxVCaizevrN9QrY_eL0zL51OXwDsyo" width="56"/>
+<!-- --> <img alt="Logotipo de KACE Company" class="ivm-view-attr__img--centered EntityPhoto-square-4 evi-image lazy-image ember-view" height="56" id="ember518" loading="lazy" src="https://media.licdn.com/dms/image/C560BAQENl0pavUi3Yg/company-logo_100_100/0/1651252161438/kace_company_logo?e=1709164800&amp;v=beta&amp;t=gkdtSNmjN6inCyVv1uZU8vFkSUOy4rg0GEUZ7Rf5WE0" width="56"/>
 </div>
 </div>
 </div>
-<div class="flex-grow-1 artdeco-entity-lockup__content ember-view" id="ember609">
-<div class="full-width artdeco-entity-lockup__title ember-view" id="ember610">
-<a aria-label="Junior Data Analyst" class="disabled ember-view job-card-container__link job-card-list__title" data-control-id="GI83IxuWlOhVB9xnAh2m2A==" href="/jobs/view/3769019036/?eBP=NOT_ELIGIBLE_FOR_CHARGING&amp;refId=q4c4XQnAbPwMZq8by4lORg%3D%3D&amp;trackingId=GI83IxuWlOhVB9xnAh2m2A%3D%3D&amp;trk=flagship3_search_srp_jobs" id="ember611" tabindex="0">
-                  Junior Data Analyst
+<div class="flex-grow-1 artdeco-entity-lockup__content ember-view" id="ember519">
+<div class="full-width artdeco-entity-lockup__title ember-view" id="ember520">
+<a aria-label="CYBER INTEL ANALYST - PEN TESTER" class="disabled ember-view job-card-container__link job-card-list__title" data-control-id="dRN+5HZpsaZ3rGNmLgqGZw==" href="/jobs/view/3324071738/?eBP=CwEAAAGMHKLx0TM6ng8m4VcUjWfoavZqnFfa2EnhevUqyGgBGSPmI3Qub7neKmxW1B5j7zkbsiQWrHdZRW--B_997WL0-ILflUIQO4AfvYO2M45olw4zgJhKp7YwKuhhyRwifMLqUJ-1scJkOLK_5ABtip2sDhFzX31xT3bOmF2j2AXVXRIyEsezW9I3LyNT00G3WhSm9Aosy2ZozOFD7J_2LzJxrdv-8cap83TWX1ys-nVf5zueEdvo0RhpHQFyhzVsW57XwC2B5LcUdGrZKvgVHN4oy1oolJ_fUi-vvNgd9TelYUofw0XCM1bLuWRLty2VdfOpgCFQ6T-pxwNAXTYTC85wu-JRQ7UsZRMGQhWi-A7iDpYzib4YL02oh4HQwQ6Q0GbIUI0f&amp;refId=w4X8SJhRpWoBZ3jgRMpq7Q%3D%3D&amp;trackingId=dRN%2B5HZpsaZ3rGNmLgqGZw%3D%3D&amp;trk=flagship3_search_srp_jobs" id="ember521" tabindex="0">
+                  CYBER INTEL ANALYST - PEN TESTER
                 </a>
 </div>
-<div class="artdeco-entity-lockup__subtitle ember-view" id="ember612">
+<div class="artdeco-entity-lockup__subtitle ember-view" id="ember522">
 <span class="job-card-container__primary-description">
-                Coders Data
+                KACE Company
               </span>
 </div>
-<div class="artdeco-entity-lockup__caption ember-view" id="ember613">
+<div class="artdeco-entity-lockup__caption ember-view" id="ember523">
 <ul class="job-card-container__metadata-wrapper">
 <li class="job-card-container__metadata-item">
-<!-- -->California, Estados Unidos (En remoto)<!-- -->
+<!-- -->Arlington, VA (En remoto)<!-- -->
 </li>
 <!-- --> </ul>
 </div>
-<div class="mt1 t-sans t-12 t-black--light t-normal t-roman artdeco-entity-lockup__metadata ember-view" id="ember614">
-<ul class="job-card-container__metadata-wrapper">
-<li class="job-card-container__metadata-item">
-<!-- -->4 beneficios<!-- -->
-</li>
-</ul>
-</div>
-</div>
+<!-- --> </div>
 <div class="job-card-container__action-container flex-shrink-zero display-flex">
 <div class="job-card-list__dismiss">
-<button aria-label="Descartar empleo «Junior Data Analyst»" class="job-card-container__action artdeco-button artdeco-button--circle artdeco-button--muted artdeco-button--2 artdeco-button--tertiary ember-view" id="ember615" type="button"> <li-icon aria-hidden="true" class="artdeco-button__icon" size="large" type="visibility-off"><svg aria-hidden="true" class="mercado-match" data-supported-dps="32x32" fill="currentColor" focusable="false" height="32" role="none" viewbox="0 0 32 32" width="32" xmlns="http://www.w3.org/2000/svg">
+<button aria-label="Descartar empleo «CYBER INTEL ANALYST - PEN TESTER»" class="job-card-container__action artdeco-button artdeco-button--circle artdeco-button--muted artdeco-button--2 artdeco-button--tertiary ember-view" id="ember524" type="button"> <li-icon aria-hidden="true" class="artdeco-button__icon" size="large" type="visibility-off"><svg aria-hidden="true" class="mercado-match" data-supported-dps="32x32" fill="currentColor" focusable="false" height="32" role="none" viewbox="0 0 32 32" width="32" xmlns="http://www.w3.org/2000/svg">
 <path d="M16 11.5c2.55 0 4.5 1.95 4.5 4.5 0 .71-.16 1.36-.43 1.95l-6.01-6.01c.59-.27 1.24-.43 1.95-.43zm0-2c3.64 0 6.5 2.86 6.5 6.5 0 1.27-.35 2.43-.96 3.42l3.04 3.04c2.31-1.55 4.17-3.76 5.41-6.46-2.55-5.53-7.64-9-14-9-2.09 0-4.03.38-5.8 1.08l2.38 2.38c.99-.6 2.16-.96 3.42-.96zM3.71 3L29 28.29l-.71.71-5.51-5.51c-2.02.97-4.3 1.51-6.79 1.51-6.36 0-11.45-3.47-14-9 1.4-3.04 3.57-5.44 6.29-7.01L3 3.71 3.71 3zM9.5 16c0 3.64 2.86 6.5 6.5 6.5 1.64 0 3.11-.58 4.24-1.55l-1.43-1.43c-.76.6-1.73.98-2.82.98-2.55 0-4.5-1.95-4.5-4.5 0-1.09.37-2.05.98-2.82l-1.43-1.43a6.474 6.474 0 00-1.55 4.24z"></path>
 </svg></li-icon>
 <span class="artdeco-button__text">
@@ -115,137 +257,113 @@
 </div>
 <!-- -->
 <ul class="job-card-list__footer-wrapper job-card-container__footer-wrapper flex-shrink-zero display-flex t-sans t-12 t-black--light t-normal t-roman">
-<li class="job-card-container__footer-item">
-<time datetime="2023-11-29">
-                            Hace 1 hora
-                          <span class="visually-hidden">En las últimas 24 horas</span>
-</time>
+<!-- --> <li class="job-card-container__footer-item inline-flex align-items-center">
+<!-- -->Promocionado<!-- -->
 </li>
-<li class="job-card-container__apply-method job-card-container__footer-item inline-flex align-items-center">
-<svg aria-hidden="true" class="job-card-list__icon" data-supported-dps="16x16" data-test-icon="linkedin-bug-color-small" height="16" role="none" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg">
-<!-- --> <svg display="var(--hue-web-svg-display-light)">
-<image height="16" href="https://static.licdn.com/aero-v1/sc/h/cukxdu7s8ldmqz13xdao5xe75" width="16" x="0" y="0"/>
-</svg>
-<svg display="var(--hue-web-svg-display-dark)">
-<image height="16" href="https://static.licdn.com/aero-v1/sc/h/exohk8uu9mmik88nwnvw1t2uk" width="16" x="0" y="0"/>
-</svg>
-</svg>
-<!-- -->Solicitud sencilla<!-- -->
+<li class="job-card-container__footer-item">
+<time datetime="2023-11-21">
+<span>
+                                    Publicado de nuevo
+                                    hace 1 semana
+                                  </span>
+<!-- --> </time>
 </li>
 </ul>
 <!-- --> <span aria-live="polite" class="visually-hidden">
 <!-- --> </span>
 </div>
-<div class="ember-view" id="ember616"><!-- --></div>
+<div class="ember-view" id="ember525"><!-- --></div>
 </div>
 </li>
-<li class="ember-view jobs-search-results__list-item occludable-update p0 relative scaffold-layout__list-item" data-occludable-job-id="3775273073" id="ember617">
+<li class="ember-view jobs-search-results__list-item occludable-update p0 relative scaffold-layout__list-item" data-occludable-job-id="3772973391" id="ember526">
 <div>
-<div aria-hidden="false" class="job-card-container relative job-card-list job-card-container--clickable job-card-list--underline-title-on-hover jobs-search-two-pane__job-card-container--viewport-tracking-2" data-job-id="3775273073" data-view-name="job-card">
-<div class="job-card-list__entity-lockup artdeco-entity-lockup artdeco-entity-lockup--size-4 ember-view" id="ember618">
-<div class="mr1 job-card-list__logo artdeco-entity-lockup__image artdeco-entity-lockup__image--type-square ember-view" id="ember619" type="square">
+<div aria-hidden="false" class="job-card-container relative job-card-list job-card-container--clickable job-card-list--underline-title-on-hover jobs-search-two-pane__job-card-container--viewport-tracking-4" data-job-id="3772973391" data-view-name="job-card">
+<div class="job-card-list__entity-lockup artdeco-entity-lockup artdeco-entity-lockup--size-4 ember-view" id="ember527">
+<div class="mr1 job-card-list__logo artdeco-entity-lockup__image artdeco-entity-lockup__image--type-square ember-view" id="ember528" type="square">
 <div class="ivm-image-view-model job-card-list__logo-ivm">
 <div class="ivm-view-attr__img-wrapper display-flex">
-<!-- --> <img alt="Logotipo de Coders Data" class="ivm-view-attr__img--centered EntityPhoto-square-4 evi-image lazy-image ember-view" height="56" id="ember620" loading="lazy" src="https://media.licdn.com/dms/image/C510BAQFkOlS-dCHocA/company-logo_100_100/0/1630584787684/coders_data_logo?e=1709164800&amp;v=beta&amp;t=pHcwjpqMbU3hobxVCaizevrN9QrY_eL0zL51OXwDsyo" width="56"/>
+<!-- --> <img alt="Logotipo de DART (Dallas Area Rapid Transit)" class="ivm-view-attr__img--centered EntityPhoto-square-4 evi-image lazy-image ember-view" height="56" id="ember529" loading="lazy" src="https://media.licdn.com/dms/image/C560BAQGK4xJLAPGFgg/company-logo_100_100/0/1630647003192/dallas_area_rapid_transit_logo?e=1709164800&amp;v=beta&amp;t=ham_4wM1YhkjyJyggqAhAesGFQlKF2d1j4CNmWuple8" width="56"/>
 </div>
 </div>
 </div>
-<div class="flex-grow-1 artdeco-entity-lockup__content ember-view" id="ember621">
-<div class="full-width artdeco-entity-lockup__title ember-view" id="ember622">
-<a aria-label="Junior Data Analyst" class="disabled ember-view job-card-container__link job-card-list__title" data-control-id="ckTlW2umsUbhUbufIwHlHw==" href="/jobs/view/3775273073/?eBP=NOT_ELIGIBLE_FOR_CHARGING&amp;refId=q4c4XQnAbPwMZq8by4lORg%3D%3D&amp;trackingId=ckTlW2umsUbhUbufIwHlHw%3D%3D&amp;trk=flagship3_search_srp_jobs" id="ember623" tabindex="0">
-                  Junior Data Analyst
+<div class="flex-grow-1 artdeco-entity-lockup__content ember-view" id="ember530">
+<div class="full-width artdeco-entity-lockup__title ember-view" id="ember531">
+<a aria-label="Data Analyst I" class="disabled ember-view job-card-container__link job-card-list__title" data-control-id="DKF1rJJkMzQvFr4ZdWwYUg==" href="/jobs/view/3772973391/?eBP=JOB_SEARCH_ORGANIC&amp;refId=w4X8SJhRpWoBZ3jgRMpq7Q%3D%3D&amp;trackingId=DKF1rJJkMzQvFr4ZdWwYUg%3D%3D&amp;trk=flagship3_search_srp_jobs" id="ember532" tabindex="0">
+                  Data Analyst I
                 </a>
 </div>
-<div class="artdeco-entity-lockup__subtitle ember-view" id="ember624">
+<div class="artdeco-entity-lockup__subtitle ember-view" id="ember533">
 <span class="job-card-container__primary-description">
-                Coders Data
+                DART (Dallas Area Rapid Transit)
               </span>
 </div>
-<div class="artdeco-entity-lockup__caption ember-view" id="ember625">
+<div class="artdeco-entity-lockup__caption ember-view" id="ember534">
+<ul class="job-card-container__metadata-wrapper">
+<li class="job-card-container__metadata-item">
+<!-- -->Dallas, TX (Presencial)<!-- -->
+</li>
+<!-- --> </ul>
+</div>
+<!-- --> </div>
+<div class="job-card-container__action-container flex-shrink-zero display-flex">
+<div class="job-card-list__dismiss">
+<button aria-label="Descartar empleo «Data Analyst I»" class="job-card-container__action artdeco-button artdeco-button--circle artdeco-button--muted artdeco-button--2 artdeco-button--tertiary ember-view" id="ember535" type="button"> <li-icon aria-hidden="true" class="artdeco-button__icon" size="large" type="visibility-off"><svg aria-hidden="true" class="mercado-match" data-supported-dps="32x32" fill="currentColor" focusable="false" height="32" role="none" viewbox="0 0 32 32" width="32" xmlns="http://www.w3.org/2000/svg">
+<path d="M16 11.5c2.55 0 4.5 1.95 4.5 4.5 0 .71-.16 1.36-.43 1.95l-6.01-6.01c.59-.27 1.24-.43 1.95-.43zm0-2c3.64 0 6.5 2.86 6.5 6.5 0 1.27-.35 2.43-.96 3.42l3.04 3.04c2.31-1.55 4.17-3.76 5.41-6.46-2.55-5.53-7.64-9-14-9-2.09 0-4.03.38-5.8 1.08l2.38 2.38c.99-.6 2.16-.96 3.42-.96zM3.71 3L29 28.29l-.71.71-5.51-5.51c-2.02.97-4.3 1.51-6.79 1.51-6.36 0-11.45-3.47-14-9 1.4-3.04 3.57-5.44 6.29-7.01L3 3.71 3.71 3zM9.5 16c0 3.64 2.86 6.5 6.5 6.5 1.64 0 3.11-.58 4.24-1.55l-1.43-1.43c-.76.6-1.73.98-2.82.98-2.55 0-4.5-1.95-4.5-4.5 0-1.09.37-2.05.98-2.82l-1.43-1.43a6.474 6.474 0 00-1.55 4.24z"></path>
+</svg></li-icon>
+<span class="artdeco-button__text">
+</span></button>
+</div>
+<!-- -->
+</div>
+</div>
+<!-- -->
+<ul class="job-card-list__footer-wrapper job-card-container__footer-wrapper flex-shrink-zero display-flex t-sans t-12 t-black--light t-normal t-roman">
+<!-- --> <li class="job-card-container__footer-item">
+<time datetime="2023-11-29">
+                                Hace 11 horas
+                              <span class="visually-hidden">En las últimas 24 horas</span>
+</time>
+</li>
+</ul>
+<!-- --> <span aria-live="polite" class="visually-hidden">
+<!-- --> </span>
+</div>
+<div class="ember-view" id="ember536"><!-- --></div>
+</div>
+</li>
+<li class="ember-view jobs-search-results__list-item occludable-update p0 relative scaffold-layout__list-item" data-occludable-job-id="3773357270" id="ember537">
+<div>
+<div aria-hidden="false" class="job-card-container relative job-card-list job-card-container--clickable job-card-list--underline-title-on-hover jobs-search-two-pane__job-card-container--viewport-tracking-5" data-job-id="3773357270" data-view-name="job-card">
+<div class="job-card-list__entity-lockup artdeco-entity-lockup artdeco-entity-lockup--size-4 ember-view" id="ember538">
+<div class="mr1 job-card-list__logo artdeco-entity-lockup__image artdeco-entity-lockup__image--type-square ember-view" id="ember539" type="square">
+<div class="ivm-image-view-model job-card-list__logo-ivm">
+<div class="ivm-view-attr__img-wrapper display-flex">
+<!-- --> <img alt="Logotipo de UNICEF" class="ivm-view-attr__img--centered EntityPhoto-square-4 evi-image lazy-image ember-view" height="56" id="ember540" loading="lazy" src="https://media.licdn.com/dms/image/C510BAQE5WFsvU5iicw/company-logo_100_100/0/1631310285230?e=1709164800&amp;v=beta&amp;t=2aIkRvrz8eTtrmNffCDP0xXXUlN-M0137_m9-7LivDI" width="56"/>
+</div>
+</div>
+</div>
+<div class="flex-grow-1 artdeco-entity-lockup__content ember-view" id="ember541">
+<div class="full-width artdeco-entity-lockup__title ember-view" id="ember542">
+<a aria-label="Consultancy – PSEA Risk Analysis &amp; Mapping Consultant Req.#567862" class="disabled ember-view job-card-container__link job-card-list__title" data-control-id="Q/swhLJP46gLfxozo2EuLQ==" href="/jobs/view/3773357270/?eBP=JOB_SEARCH_ORGANIC&amp;refId=w4X8SJhRpWoBZ3jgRMpq7Q%3D%3D&amp;trackingId=Q%2FswhLJP46gLfxozo2EuLQ%3D%3D&amp;trk=flagship3_search_srp_jobs" id="ember543" tabindex="0">
+                  Consultancy – PSEA Risk Analysis &amp; Mapping Consultant Req.#567862
+                </a>
+</div>
+<div class="artdeco-entity-lockup__subtitle ember-view" id="ember544">
+<span class="job-card-container__primary-description">
+                UNICEF
+              </span>
+</div>
+<div class="artdeco-entity-lockup__caption ember-view" id="ember545">
 <ul class="job-card-container__metadata-wrapper">
 <li class="job-card-container__metadata-item">
 <!-- -->Nueva York, Estados Unidos (En remoto)<!-- -->
 </li>
 <!-- --> </ul>
 </div>
-<div class="mt1 t-sans t-12 t-black--light t-normal t-roman artdeco-entity-lockup__metadata ember-view" id="ember626">
-<ul class="job-card-container__metadata-wrapper">
-<li class="job-card-container__metadata-item">
-<!-- -->75 $K/año - 85 $K/año<!-- -->
-</li>
-</ul>
-</div>
-</div>
-<div class="job-card-container__action-container flex-shrink-zero display-flex">
-<div class="job-card-list__dismiss">
-<button aria-label="Descartar empleo «Junior Data Analyst»" class="job-card-container__action artdeco-button artdeco-button--circle artdeco-button--muted artdeco-button--2 artdeco-button--tertiary ember-view" id="ember627" type="button"> <li-icon aria-hidden="true" class="artdeco-button__icon" size="large" type="visibility-off"><svg aria-hidden="true" class="mercado-match" data-supported-dps="32x32" fill="currentColor" focusable="false" height="32" role="none" viewbox="0 0 32 32" width="32" xmlns="http://www.w3.org/2000/svg">
-<path d="M16 11.5c2.55 0 4.5 1.95 4.5 4.5 0 .71-.16 1.36-.43 1.95l-6.01-6.01c.59-.27 1.24-.43 1.95-.43zm0-2c3.64 0 6.5 2.86 6.5 6.5 0 1.27-.35 2.43-.96 3.42l3.04 3.04c2.31-1.55 4.17-3.76 5.41-6.46-2.55-5.53-7.64-9-14-9-2.09 0-4.03.38-5.8 1.08l2.38 2.38c.99-.6 2.16-.96 3.42-.96zM3.71 3L29 28.29l-.71.71-5.51-5.51c-2.02.97-4.3 1.51-6.79 1.51-6.36 0-11.45-3.47-14-9 1.4-3.04 3.57-5.44 6.29-7.01L3 3.71 3.71 3zM9.5 16c0 3.64 2.86 6.5 6.5 6.5 1.64 0 3.11-.58 4.24-1.55l-1.43-1.43c-.76.6-1.73.98-2.82.98-2.55 0-4.5-1.95-4.5-4.5 0-1.09.37-2.05.98-2.82l-1.43-1.43a6.474 6.474 0 00-1.55 4.24z"></path>
-</svg></li-icon>
-<span class="artdeco-button__text">
-</span></button>
-</div>
-<!-- -->
-</div>
-</div>
-<!-- -->
-<ul class="job-card-list__footer-wrapper job-card-container__footer-wrapper flex-shrink-zero display-flex t-sans t-12 t-black--light t-normal t-roman">
-<li class="job-card-container__footer-item">
-<time datetime="2023-11-29">
-                            Hace 1 hora
-                          <span class="visually-hidden">En las últimas 24 horas</span>
-</time>
-</li>
-<li class="job-card-container__apply-method job-card-container__footer-item inline-flex align-items-center">
-<svg aria-hidden="true" class="job-card-list__icon" data-supported-dps="16x16" data-test-icon="linkedin-bug-color-small" height="16" role="none" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg">
-<!-- --> <svg display="var(--hue-web-svg-display-light)">
-<image height="16" href="https://static.licdn.com/aero-v1/sc/h/cukxdu7s8ldmqz13xdao5xe75" width="16" x="0" y="0"/>
-</svg>
-<svg display="var(--hue-web-svg-display-dark)">
-<image height="16" href="https://static.licdn.com/aero-v1/sc/h/exohk8uu9mmik88nwnvw1t2uk" width="16" x="0" y="0"/>
-</svg>
-</svg>
-<!-- -->Solicitud sencilla<!-- -->
-</li>
-</ul>
-<!-- --> <span aria-live="polite" class="visually-hidden">
-<!-- --> </span>
-</div>
-<div class="ember-view" id="ember628"><!-- --></div>
-</div>
-</li>
-<li class="ember-view jobs-search-results__list-item occludable-update p0 relative scaffold-layout__list-item" data-occludable-job-id="3769408548" id="ember629">
-<div>
-<div aria-hidden="false" class="job-card-container relative job-card-list job-card-container--clickable job-card-list--underline-title-on-hover jobs-search-two-pane__job-card-container--viewport-tracking-3" data-job-id="3769408548" data-view-name="job-card">
-<div class="job-card-list__entity-lockup artdeco-entity-lockup artdeco-entity-lockup--size-4 ember-view" id="ember630">
-<div class="mr1 job-card-list__logo artdeco-entity-lockup__image artdeco-entity-lockup__image--type-square ember-view" id="ember631" type="square">
-<div class="ivm-image-view-model job-card-list__logo-ivm">
-<div class="ivm-view-attr__img-wrapper display-flex">
-<!-- --> <img alt="Logotipo de TEKsystems" class="ivm-view-attr__img--centered EntityPhoto-square-4 evi-image lazy-image ember-view" height="56" id="ember632" loading="lazy" src="https://media.licdn.com/dms/image/D4E0BAQFLrODAdU8Mdw/company-logo_100_100/0/1688568814937/teksystems_logo?e=1709164800&amp;v=beta&amp;t=0Yxrbc5xjfN_VvLoog5F8ExqiDd4i_HoWMIEa5xlYbw" width="56"/>
-</div>
-</div>
-</div>
-<div class="flex-grow-1 artdeco-entity-lockup__content ember-view" id="ember633">
-<div class="full-width artdeco-entity-lockup__title ember-view" id="ember634">
-<a aria-label="Junior Data Analyst" class="disabled ember-view job-card-container__link job-card-list__title" data-control-id="eEzrr7tTXa+RUkeQlaA3aw==" href="/jobs/view/3769408548/?eBP=NOT_ELIGIBLE_FOR_CHARGING&amp;refId=q4c4XQnAbPwMZq8by4lORg%3D%3D&amp;trackingId=eEzrr7tTXa%2BRUkeQlaA3aw%3D%3D&amp;trk=flagship3_search_srp_jobs" id="ember635" tabindex="0">
-                  Junior Data Analyst
-                </a>
-</div>
-<div class="artdeco-entity-lockup__subtitle ember-view" id="ember636">
-<span class="job-card-container__primary-description">
-                TEKsystems
-              </span>
-</div>
-<div class="artdeco-entity-lockup__caption ember-view" id="ember637">
-<ul class="job-card-container__metadata-wrapper">
-<li class="job-card-container__metadata-item">
-<!-- -->Honolulú, HI (Híbrido)<!-- -->
-</li>
-<!-- --> </ul>
-</div>
 <!-- --> </div>
 <div class="job-card-container__action-container flex-shrink-zero display-flex">
 <div class="job-card-list__dismiss">
-<button aria-label="Descartar empleo «Junior Data Analyst»" class="job-card-container__action artdeco-button artdeco-button--circle artdeco-button--muted artdeco-button--2 artdeco-button--tertiary ember-view" id="ember638" type="button"> <li-icon aria-hidden="true" class="artdeco-button__icon" size="large" type="visibility-off"><svg aria-hidden="true" class="mercado-match" data-supported-dps="32x32" fill="currentColor" focusable="false" height="32" role="none" viewbox="0 0 32 32" width="32" xmlns="http://www.w3.org/2000/svg">
+<button aria-label="Descartar empleo «Consultancy – PSEA Risk Analysis &amp;amp; Mapping Consultant Req.#567862»" class="job-card-container__action artdeco-button artdeco-button--circle artdeco-button--muted artdeco-button--2 artdeco-button--tertiary ember-view" id="ember546" type="button"> <li-icon aria-hidden="true" class="artdeco-button__icon" size="large" type="visibility-off"><svg aria-hidden="true" class="mercado-match" data-supported-dps="32x32" fill="currentColor" focusable="false" height="32" role="none" viewbox="0 0 32 32" width="32" xmlns="http://www.w3.org/2000/svg">
 <path d="M16 11.5c2.55 0 4.5 1.95 4.5 4.5 0 .71-.16 1.36-.43 1.95l-6.01-6.01c.59-.27 1.24-.43 1.95-.43zm0-2c3.64 0 6.5 2.86 6.5 6.5 0 1.27-.35 2.43-.96 3.42l3.04 3.04c2.31-1.55 4.17-3.76 5.41-6.46-2.55-5.53-7.64-9-14-9-2.09 0-4.03.38-5.8 1.08l2.38 2.38c.99-.6 2.16-.96 3.42-.96zM3.71 3L29 28.29l-.71.71-5.51-5.51c-2.02.97-4.3 1.51-6.79 1.51-6.36 0-11.45-3.47-14-9 1.4-3.04 3.57-5.44 6.29-7.01L3 3.71 3.71 3zM9.5 16c0 3.64 2.86 6.5 6.5 6.5 1.64 0 3.11-.58 4.24-1.55l-1.43-1.43c-.76.6-1.73.98-2.82.98-2.55 0-4.5-1.95-4.5-4.5 0-1.09.37-2.05.98-2.82l-1.43-1.43a6.474 6.474 0 00-1.55 4.24z"></path>
 </svg></li-icon>
 <span class="artdeco-button__text">
@@ -259,255 +377,131 @@
 <div class="mv1">
 <div class="ivm-image-view-model">
 <div class="ivm-view-attr__img-wrapper display-flex">
-<!-- --> <img alt="" class="ivm-view-attr__img--centered EntityPhoto-square-1 job-card-container__job-insight-image evi-image lazy-image ember-view" height="32" id="ember639" loading="lazy" src="https://media.licdn.com/dms/image/D560BAQF3yEz9odOtlw/company-logo_100_100/0/1688376092638/nttdata_logo?e=1709164800&amp;v=beta&amp;t=xbClL-7uhULwUIcFtIeGvWYs_ov1osvy81e7ZLIIYxE" width="32"/>
+<!-- --> <img alt="" class="ivm-view-attr__img--centered EntityPhoto-square-1 job-card-container__job-insight-image evi-image lazy-image ember-view" height="32" id="ember547" loading="lazy" src="https://media.licdn.com/dms/image/D4D0BAQEyUV6w_gu7xw/company-logo_100_100/0/1694764811277/uoc_logo?e=1709164800&amp;v=beta&amp;t=YrGHT0afuCLpWxSv1S4cEYp8DRSQ1o6qDIiNavTTr4U" width="32"/>
 </div>
 </div>
 </div>
 <div class="job-card-container__job-insight-text">
-                23 antiguos empleados de la empresa trabajan aquí
+                26 antiguos alumnos de la universidad trabajan aquí 
               </div>
 </div>
 </div>
 <ul class="job-card-list__footer-wrapper job-card-container__footer-wrapper flex-shrink-zero display-flex t-sans t-12 t-black--light t-normal t-roman">
-<li class="job-card-container__footer-item">
-<time datetime="2023-11-18">
-                            Hace 1 semana
+<!-- --> <li class="job-card-container__footer-item">
+<time datetime="2023-11-29">
+                                Hace 3 horas
+                              <span class="visually-hidden">En las últimas 24 horas</span>
+</time>
+</li>
+</ul>
+<!-- --> <span aria-live="polite" class="visually-hidden">
+<!-- --> </span>
+</div>
+<div class="ember-view" id="ember548"><!-- --></div>
+</div>
+</li>
+<li class="ember-view jobs-search-results__list-item occludable-update p0 relative scaffold-layout__list-item" data-occludable-job-id="3766786357" id="ember549">
+<div>
+<div aria-hidden="false" class="job-card-container relative job-card-list job-card-container--clickable job-card-list--underline-title-on-hover jobs-search-two-pane__job-card-container--viewport-tracking-6" data-job-id="3766786357" data-view-name="job-card">
+<div class="job-card-list__entity-lockup artdeco-entity-lockup artdeco-entity-lockup--size-4 ember-view" id="ember550">
+<div class="mr1 job-card-list__logo artdeco-entity-lockup__image artdeco-entity-lockup__image--type-square ember-view" id="ember551" type="square">
+<div class="ivm-image-view-model job-card-list__logo-ivm">
+<div class="ivm-view-attr__img-wrapper display-flex">
+<!-- --> <img alt="Logotipo de Wayfair" class="ivm-view-attr__img--centered EntityPhoto-square-4 evi-image lazy-image ember-view" height="56" id="ember552" loading="lazy" src="https://media.licdn.com/dms/image/C4E0BAQHHS2RPVTXtRw/company-logo_100_100/0/1630610081926/wayfair_logo?e=1709164800&amp;v=beta&amp;t=Kd9AICiUhx4yDiEOTQmlO3vXzqqPpZYrz-iy5SHCyIo" width="56"/>
+</div>
+</div>
+</div>
+<div class="flex-grow-1 artdeco-entity-lockup__content ember-view" id="ember553">
+<div class="full-width artdeco-entity-lockup__title ember-view" id="ember554">
+<a aria-label="Business Analyst Intern - Summer 2024" class="disabled ember-view job-card-container__link job-card-list__title" data-control-id="X77AZi/71kDxTv2eYWgRVQ==" href="/jobs/view/3766786357/?eBP=JOB_SEARCH_ORGANIC&amp;refId=w4X8SJhRpWoBZ3jgRMpq7Q%3D%3D&amp;trackingId=X77AZi%2F71kDxTv2eYWgRVQ%3D%3D&amp;trk=flagship3_search_srp_jobs" id="ember555" tabindex="0">
+                  Business Analyst Intern - Summer 2024
+                </a>
+</div>
+<div class="artdeco-entity-lockup__subtitle ember-view" id="ember556">
+<span class="job-card-container__primary-description">
+                Wayfair
+              </span>
+</div>
+<div class="artdeco-entity-lockup__caption ember-view" id="ember557">
+<ul class="job-card-container__metadata-wrapper">
+<li class="job-card-container__metadata-item">
+<!-- -->Boston, MA (Presencial)<!-- -->
+</li>
+<!-- --> </ul>
+</div>
+<!-- --> </div>
+<div class="job-card-container__action-container flex-shrink-zero display-flex">
+<div class="job-card-list__dismiss">
+<button aria-label="Descartar empleo «Business Analyst Intern - Summer 2024»" class="job-card-container__action artdeco-button artdeco-button--circle artdeco-button--muted artdeco-button--2 artdeco-button--tertiary ember-view" id="ember558" type="button"> <li-icon aria-hidden="true" class="artdeco-button__icon" size="large" type="visibility-off"><svg aria-hidden="true" class="mercado-match" data-supported-dps="32x32" fill="currentColor" focusable="false" height="32" role="none" viewbox="0 0 32 32" width="32" xmlns="http://www.w3.org/2000/svg">
+<path d="M16 11.5c2.55 0 4.5 1.95 4.5 4.5 0 .71-.16 1.36-.43 1.95l-6.01-6.01c.59-.27 1.24-.43 1.95-.43zm0-2c3.64 0 6.5 2.86 6.5 6.5 0 1.27-.35 2.43-.96 3.42l3.04 3.04c2.31-1.55 4.17-3.76 5.41-6.46-2.55-5.53-7.64-9-14-9-2.09 0-4.03.38-5.8 1.08l2.38 2.38c.99-.6 2.16-.96 3.42-.96zM3.71 3L29 28.29l-.71.71-5.51-5.51c-2.02.97-4.3 1.51-6.79 1.51-6.36 0-11.45-3.47-14-9 1.4-3.04 3.57-5.44 6.29-7.01L3 3.71 3.71 3zM9.5 16c0 3.64 2.86 6.5 6.5 6.5 1.64 0 3.11-.58 4.24-1.55l-1.43-1.43c-.76.6-1.73.98-2.82.98-2.55 0-4.5-1.95-4.5-4.5 0-1.09.37-2.05.98-2.82l-1.43-1.43a6.474 6.474 0 00-1.55 4.24z"></path>
+</svg></li-icon>
+<span class="artdeco-button__text">
+</span></button>
+</div>
+<!-- -->
+</div>
+</div>
+<div class="job-card-list__insight">
+<div class="display-flex align-items-center t-black--light t-12">
+<div class="mv1">
+<div class="ivm-image-view-model">
+<div class="ivm-view-attr__img-wrapper display-flex">
+<!-- --> <img alt="" class="ivm-view-attr__img--centered EntityPhoto-square-1 job-card-container__job-insight-image evi-image lazy-image ember-view" height="32" id="ember559" loading="lazy" src="https://media.licdn.com/dms/image/D4D0BAQEyUV6w_gu7xw/company-logo_100_100/0/1694764811277/uoc_logo?e=1709164800&amp;v=beta&amp;t=YrGHT0afuCLpWxSv1S4cEYp8DRSQ1o6qDIiNavTTr4U" width="32"/>
+</div>
+</div>
+</div>
+<div class="job-card-container__job-insight-text">
+                1 antiguo alumno de la universidad trabaja aquí 
+              </div>
+</div>
+</div>
+<ul class="job-card-list__footer-wrapper job-card-container__footer-wrapper flex-shrink-zero display-flex t-sans t-12 t-black--light t-normal t-roman">
+<!-- --> <li class="job-card-container__footer-item">
+<time datetime="2023-11-16">
+                                Hace 1 semana
 <!-- --> </time>
 </li>
 </ul>
 <!-- --> <span aria-live="polite" class="visually-hidden">
 <!-- --> </span>
 </div>
-<div class="ember-view" id="ember640"><!-- --></div>
+<div class="ember-view" id="ember560"><!-- --></div>
 </div>
 </li>
-<li class="ember-view jobs-search-results__list-item occludable-update p0 relative scaffold-layout__list-item" data-occludable-job-id="3774942158" id="ember641">
-<div>
-<div aria-hidden="false" class="job-card-container relative job-card-list job-card-container--clickable job-card-list--underline-title-on-hover jobs-search-two-pane__job-card-container--viewport-tracking-4" data-job-id="3774942158" data-view-name="job-card">
-<div class="job-card-list__entity-lockup artdeco-entity-lockup artdeco-entity-lockup--size-4 ember-view" id="ember642">
-<div class="mr1 job-card-list__logo artdeco-entity-lockup__image artdeco-entity-lockup__image--type-square ember-view" id="ember643" type="square">
-<div class="ivm-image-view-model job-card-list__logo-ivm">
-<div class="ivm-view-attr__img-wrapper display-flex">
-<!-- --> <img alt="Logotipo de Cintas" class="ivm-view-attr__img--centered EntityPhoto-square-4 evi-image lazy-image ember-view" height="56" id="ember644" loading="lazy" src="https://media.licdn.com/dms/image/C510BAQGD8rObjmFNcg/company-logo_100_100/0/1631322806953?e=1709164800&amp;v=beta&amp;t=q5_ffl3oV3sw7-8ke7J6ZluuVlLI26Hg_feoLyOUhJY" width="56"/>
-</div>
-</div>
-</div>
-<div class="flex-grow-1 artdeco-entity-lockup__content ember-view" id="ember645">
-<div class="full-width artdeco-entity-lockup__title ember-view" id="ember646">
-<a aria-label="Data Analyst I" class="disabled ember-view job-card-container__link job-card-list__title" data-control-id="hKC5dXKfIUsaz2qYzf4u6g==" href="/jobs/view/3774942158/?eBP=NOT_ELIGIBLE_FOR_CHARGING&amp;refId=q4c4XQnAbPwMZq8by4lORg%3D%3D&amp;trackingId=hKC5dXKfIUsaz2qYzf4u6g%3D%3D&amp;trk=flagship3_search_srp_jobs" id="ember647" tabindex="0">
-                  Data Analyst I
-                </a>
-</div>
-<div class="artdeco-entity-lockup__subtitle ember-view" id="ember648">
-<span class="job-card-container__primary-description">
-                Cintas
-              </span>
-</div>
-<div class="artdeco-entity-lockup__caption ember-view" id="ember649">
-<ul class="job-card-container__metadata-wrapper">
-<li class="job-card-container__metadata-item">
-<!-- -->Mason, OH (Presencial)<!-- -->
-</li>
-<!-- --> </ul>
-</div>
-<!-- --> </div>
-<div class="job-card-container__action-container flex-shrink-zero display-flex">
-<div class="job-card-list__dismiss">
-<button aria-label="Descartar empleo «Data Analyst I»" class="job-card-container__action artdeco-button artdeco-button--circle artdeco-button--muted artdeco-button--2 artdeco-button--tertiary ember-view" id="ember650" type="button"> <li-icon aria-hidden="true" class="artdeco-button__icon" size="large" type="visibility-off"><svg aria-hidden="true" class="mercado-match" data-supported-dps="32x32" fill="currentColor" focusable="false" height="32" role="none" viewbox="0 0 32 32" width="32" xmlns="http://www.w3.org/2000/svg">
-<path d="M16 11.5c2.55 0 4.5 1.95 4.5 4.5 0 .71-.16 1.36-.43 1.95l-6.01-6.01c.59-.27 1.24-.43 1.95-.43zm0-2c3.64 0 6.5 2.86 6.5 6.5 0 1.27-.35 2.43-.96 3.42l3.04 3.04c2.31-1.55 4.17-3.76 5.41-6.46-2.55-5.53-7.64-9-14-9-2.09 0-4.03.38-5.8 1.08l2.38 2.38c.99-.6 2.16-.96 3.42-.96zM3.71 3L29 28.29l-.71.71-5.51-5.51c-2.02.97-4.3 1.51-6.79 1.51-6.36 0-11.45-3.47-14-9 1.4-3.04 3.57-5.44 6.29-7.01L3 3.71 3.71 3zM9.5 16c0 3.64 2.86 6.5 6.5 6.5 1.64 0 3.11-.58 4.24-1.55l-1.43-1.43c-.76.6-1.73.98-2.82.98-2.55 0-4.5-1.95-4.5-4.5 0-1.09.37-2.05.98-2.82l-1.43-1.43a6.474 6.474 0 00-1.55 4.24z"></path>
-</svg></li-icon>
-<span class="artdeco-button__text">
-</span></button>
-</div>
-<!-- -->
-</div>
-</div>
-<div class="job-card-list__insight">
-<div class="display-flex align-items-center t-black--light t-12">
-<div class="mv1">
-<div class="ivm-image-view-model">
-<div class="ivm-view-attr__img-wrapper display-flex">
-<!-- --> <img alt="" class="ivm-view-attr__img--centered EntityPhoto-square-1 job-card-container__job-insight-image evi-image lazy-image ember-view" height="32" id="ember651" loading="lazy" src="https://media.licdn.com/dms/image/D560BAQF3yEz9odOtlw/company-logo_100_100/0/1688376092638/nttdata_logo?e=1709164800&amp;v=beta&amp;t=xbClL-7uhULwUIcFtIeGvWYs_ov1osvy81e7ZLIIYxE" width="32"/>
-</div>
-</div>
-</div>
-<div class="job-card-container__job-insight-text">
-                1 antiguo empleado de la empresa trabaja aquí
-              </div>
-</div>
-</div>
-<ul class="job-card-list__footer-wrapper job-card-container__footer-wrapper flex-shrink-zero display-flex t-sans t-12 t-black--light t-normal t-roman">
-<li class="job-card-container__footer-item">
-<time datetime="2023-11-28">
-                            Hace 18 horas
-                          <span class="visually-hidden">En las últimas 24 horas</span>
-</time>
-</li>
-</ul>
-<!-- --> <span aria-live="polite" class="visually-hidden">
-<!-- --> </span>
-</div>
-<div class="ember-view" id="ember652"><!-- --></div>
-</div>
-</li>
-<li class="ember-view jobs-search-results__list-item occludable-update p0 relative scaffold-layout__list-item" data-occludable-job-id="3770787374" id="ember653">
-<div>
-<div aria-hidden="false" class="job-card-container relative job-card-list job-card-container--clickable job-card-list--underline-title-on-hover jobs-search-two-pane__job-card-container--viewport-tracking-5" data-job-id="3770787374" data-view-name="job-card">
-<div class="job-card-list__entity-lockup artdeco-entity-lockup artdeco-entity-lockup--size-4 ember-view" id="ember654">
-<div class="mr1 job-card-list__logo artdeco-entity-lockup__image artdeco-entity-lockup__image--type-square ember-view" id="ember655" type="square">
-<div class="ivm-image-view-model job-card-list__logo-ivm">
-<div class="ivm-view-attr__img-wrapper display-flex">
-<!-- --> <img alt="Logotipo de QinetiQ US" class="ivm-view-attr__img--centered EntityPhoto-square-4 evi-image lazy-image ember-view" height="56" id="ember656" loading="lazy" src="https://media.licdn.com/dms/image/C560BAQGIb2XpFMEr9w/company-logo_100_100/0/1630665117410/qinetiq_north_america_logo?e=1709164800&amp;v=beta&amp;t=F6HrEKER8yVUi4jFRPuctCRcpepmXl44wbkxE_XZfHA" width="56"/>
-</div>
-</div>
-</div>
-<div class="flex-grow-1 artdeco-entity-lockup__content ember-view" id="ember657">
-<div class="full-width artdeco-entity-lockup__title ember-view" id="ember658">
-<a aria-label="Junior Data Analyst" class="disabled ember-view job-card-container__link job-card-list__title" data-control-id="58IX0mHTWBBclIj8X6W6pw==" href="/jobs/view/3770787374/?eBP=NOT_ELIGIBLE_FOR_CHARGING&amp;refId=q4c4XQnAbPwMZq8by4lORg%3D%3D&amp;trackingId=58IX0mHTWBBclIj8X6W6pw%3D%3D&amp;trk=flagship3_search_srp_jobs" id="ember659" tabindex="0">
-                  Junior Data Analyst
-                </a>
-</div>
-<div class="artdeco-entity-lockup__subtitle ember-view" id="ember660">
-<span class="job-card-container__primary-description">
-                QinetiQ US
-              </span>
-</div>
-<div class="artdeco-entity-lockup__caption ember-view" id="ember661">
-<ul class="job-card-container__metadata-wrapper">
-<li class="job-card-container__metadata-item">
-<!-- -->Washington, DC<!-- -->
-</li>
-<!-- --> </ul>
-</div>
-<!-- --> </div>
-<div class="job-card-container__action-container flex-shrink-zero display-flex">
-<div class="job-card-list__dismiss">
-<button aria-label="Descartar empleo «Junior Data Analyst»" class="job-card-container__action artdeco-button artdeco-button--circle artdeco-button--muted artdeco-button--2 artdeco-button--tertiary ember-view" id="ember662" type="button"> <li-icon aria-hidden="true" class="artdeco-button__icon" size="large" type="visibility-off"><svg aria-hidden="true" class="mercado-match" data-supported-dps="32x32" fill="currentColor" focusable="false" height="32" role="none" viewbox="0 0 32 32" width="32" xmlns="http://www.w3.org/2000/svg">
-<path d="M16 11.5c2.55 0 4.5 1.95 4.5 4.5 0 .71-.16 1.36-.43 1.95l-6.01-6.01c.59-.27 1.24-.43 1.95-.43zm0-2c3.64 0 6.5 2.86 6.5 6.5 0 1.27-.35 2.43-.96 3.42l3.04 3.04c2.31-1.55 4.17-3.76 5.41-6.46-2.55-5.53-7.64-9-14-9-2.09 0-4.03.38-5.8 1.08l2.38 2.38c.99-.6 2.16-.96 3.42-.96zM3.71 3L29 28.29l-.71.71-5.51-5.51c-2.02.97-4.3 1.51-6.79 1.51-6.36 0-11.45-3.47-14-9 1.4-3.04 3.57-5.44 6.29-7.01L3 3.71 3.71 3zM9.5 16c0 3.64 2.86 6.5 6.5 6.5 1.64 0 3.11-.58 4.24-1.55l-1.43-1.43c-.76.6-1.73.98-2.82.98-2.55 0-4.5-1.95-4.5-4.5 0-1.09.37-2.05.98-2.82l-1.43-1.43a6.474 6.474 0 00-1.55 4.24z"></path>
-</svg></li-icon>
-<span class="artdeco-button__text">
-</span></button>
-</div>
-<!-- -->
-</div>
-</div>
-<!-- -->
-<ul class="job-card-list__footer-wrapper job-card-container__footer-wrapper flex-shrink-zero display-flex t-sans t-12 t-black--light t-normal t-roman">
-<li class="job-card-container__footer-item">
-<time datetime="2023-11-21">
-                            Hace 1 semana
-<!-- --> </time>
-</li>
-</ul>
-<!-- --> <span aria-live="polite" class="visually-hidden">
-<!-- --> </span>
-</div>
-<div class="ember-view" id="ember663"><!-- --></div>
-</div>
-</li>
-<li class="ember-view jobs-search-results__list-item occludable-update p0 relative scaffold-layout__list-item" data-occludable-job-id="3772973391" id="ember664">
-<div>
-<div aria-hidden="false" class="job-card-container relative job-card-list job-card-container--clickable job-card-list--underline-title-on-hover jobs-search-two-pane__job-card-container--viewport-tracking-6" data-job-id="3772973391" data-view-name="job-card">
-<div class="job-card-list__entity-lockup artdeco-entity-lockup artdeco-entity-lockup--size-4 ember-view" id="ember665">
-<div class="mr1 job-card-list__logo artdeco-entity-lockup__image artdeco-entity-lockup__image--type-square ember-view" id="ember666" type="square">
-<div class="ivm-image-view-model job-card-list__logo-ivm">
-<div class="ivm-view-attr__img-wrapper display-flex">
-<!-- --> <img alt="Logotipo de DART (Dallas Area Rapid Transit)" class="ivm-view-attr__img--centered EntityPhoto-square-4 evi-image lazy-image ember-view" height="56" id="ember667" loading="lazy" src="https://media.licdn.com/dms/image/C560BAQGK4xJLAPGFgg/company-logo_100_100/0/1630647003192/dallas_area_rapid_transit_logo?e=1709164800&amp;v=beta&amp;t=ham_4wM1YhkjyJyggqAhAesGFQlKF2d1j4CNmWuple8" width="56"/>
-</div>
-</div>
-</div>
-<div class="flex-grow-1 artdeco-entity-lockup__content ember-view" id="ember668">
-<div class="full-width artdeco-entity-lockup__title ember-view" id="ember669">
-<a aria-label="Data Analyst I" class="disabled ember-view job-card-container__link job-card-list__title" data-control-id="mHkZefgjrDexRo8vF7UcFw==" href="/jobs/view/3772973391/?eBP=NOT_ELIGIBLE_FOR_CHARGING&amp;refId=q4c4XQnAbPwMZq8by4lORg%3D%3D&amp;trackingId=mHkZefgjrDexRo8vF7UcFw%3D%3D&amp;trk=flagship3_search_srp_jobs" id="ember670" tabindex="0">
-                  Data Analyst I
-                </a>
-</div>
-<div class="artdeco-entity-lockup__subtitle ember-view" id="ember671">
-<span class="job-card-container__primary-description">
-                DART (Dallas Area Rapid Transit)
-              </span>
-</div>
-<div class="artdeco-entity-lockup__caption ember-view" id="ember672">
-<ul class="job-card-container__metadata-wrapper">
-<li class="job-card-container__metadata-item">
-<!-- -->Headquarters, KY (Presencial)<!-- -->
-</li>
-<!-- --> </ul>
-</div>
-<!-- --> </div>
-<div class="job-card-container__action-container flex-shrink-zero display-flex">
-<div class="job-card-list__dismiss">
-<button aria-label="Descartar empleo «Data Analyst I»" class="job-card-container__action artdeco-button artdeco-button--circle artdeco-button--muted artdeco-button--2 artdeco-button--tertiary ember-view" id="ember673" type="button"> <li-icon aria-hidden="true" class="artdeco-button__icon" size="large" type="visibility-off"><svg aria-hidden="true" class="mercado-match" data-supported-dps="32x32" fill="currentColor" focusable="false" height="32" role="none" viewbox="0 0 32 32" width="32" xmlns="http://www.w3.org/2000/svg">
-<path d="M16 11.5c2.55 0 4.5 1.95 4.5 4.5 0 .71-.16 1.36-.43 1.95l-6.01-6.01c.59-.27 1.24-.43 1.95-.43zm0-2c3.64 0 6.5 2.86 6.5 6.5 0 1.27-.35 2.43-.96 3.42l3.04 3.04c2.31-1.55 4.17-3.76 5.41-6.46-2.55-5.53-7.64-9-14-9-2.09 0-4.03.38-5.8 1.08l2.38 2.38c.99-.6 2.16-.96 3.42-.96zM3.71 3L29 28.29l-.71.71-5.51-5.51c-2.02.97-4.3 1.51-6.79 1.51-6.36 0-11.45-3.47-14-9 1.4-3.04 3.57-5.44 6.29-7.01L3 3.71 3.71 3zM9.5 16c0 3.64 2.86 6.5 6.5 6.5 1.64 0 3.11-.58 4.24-1.55l-1.43-1.43c-.76.6-1.73.98-2.82.98-2.55 0-4.5-1.95-4.5-4.5 0-1.09.37-2.05.98-2.82l-1.43-1.43a6.474 6.474 0 00-1.55 4.24z"></path>
-</svg></li-icon>
-<span class="artdeco-button__text">
-</span></button>
-</div>
-<!-- -->
-</div>
-</div>
-<div class="job-card-list__insight">
-<div class="display-flex align-items-center t-black--light t-12">
-<div class="mv1">
-<div class="ivm-image-view-model">
-<div class="ivm-view-attr__img-wrapper display-flex">
-<!-- --> <img alt="" class="ivm-view-attr__img--centered EntityPhoto-square-1 job-card-container__job-insight-image evi-image lazy-image ember-view" height="32" id="ember674" loading="lazy" src="https://media.licdn.com/dms/image/D560BAQF3yEz9odOtlw/company-logo_100_100/0/1688376092638/nttdata_logo?e=1709164800&amp;v=beta&amp;t=xbClL-7uhULwUIcFtIeGvWYs_ov1osvy81e7ZLIIYxE" width="32"/>
-</div>
-</div>
-</div>
-<div class="job-card-container__job-insight-text">
-                1 antiguo empleado de la empresa trabaja aquí
-              </div>
-</div>
-</div>
-<ul class="job-card-list__footer-wrapper job-card-container__footer-wrapper flex-shrink-zero display-flex t-sans t-12 t-black--light t-normal t-roman">
-<li class="job-card-container__footer-item">
-<time datetime="2023-11-29">
-                            Hace 7 horas
-                          <span class="visually-hidden">En las últimas 24 horas</span>
-</time>
-</li>
-</ul>
-<!-- --> <span aria-live="polite" class="visually-hidden">
-<!-- --> </span>
-</div>
-<div class="ember-view" id="ember675"><!-- --></div>
-</div>
-</li>
-<li class="ember-view jobs-search-results__job-card-search--generic-occludable-area jobs-search-results__list-item occludable-update p0 relative scaffold-layout__list-item" data-occludable-job-id="3771190654" id="ember676">
+<li class="ember-view jobs-search-results__job-card-search--generic-occludable-area jobs-search-results__list-item occludable-update p0 relative scaffold-layout__list-item" data-occludable-job-id="3765833525" id="ember561">
 <!-- --> </li>
-<li class="ember-view jobs-search-results__job-card-search--generic-occludable-area jobs-search-results__list-item occludable-update p0 relative scaffold-layout__list-item" data-occludable-job-id="3772914317" id="ember677">
+<li class="ember-view jobs-search-results__job-card-search--generic-occludable-area jobs-search-results__list-item occludable-update p0 relative scaffold-layout__list-item" data-occludable-job-id="3772945821" id="ember562">
 <!-- --> </li>
-<li class="ember-view jobs-search-results__job-card-search--generic-occludable-area jobs-search-results__list-item occludable-update p0 relative scaffold-layout__list-item" data-occludable-job-id="3774934389" id="ember678">
+<li class="ember-view jobs-search-results__job-card-search--generic-occludable-area jobs-search-results__list-item occludable-update p0 relative scaffold-layout__list-item" data-occludable-job-id="3765833541" id="ember563">
 <!-- --> </li>
-<li class="ember-view jobs-search-results__job-card-search--generic-occludable-area jobs-search-results__list-item occludable-update p0 relative scaffold-layout__list-item" data-occludable-job-id="3768724032" id="ember679">
+<li class="ember-view jobs-search-results__job-card-search--generic-occludable-area jobs-search-results__list-item occludable-update p0 relative scaffold-layout__list-item" data-occludable-job-id="3775179534" id="ember564">
 <!-- --> </li>
-<li class="ember-view jobs-search-results__job-card-search--generic-occludable-area jobs-search-results__list-item occludable-update p0 relative scaffold-layout__list-item" data-occludable-job-id="3774935606" id="ember680">
+<li class="ember-view jobs-search-results__job-card-search--generic-occludable-area jobs-search-results__list-item occludable-update p0 relative scaffold-layout__list-item" data-occludable-job-id="3768799925" id="ember565">
 <!-- --> </li>
-<li class="ember-view jobs-search-results__job-card-search--generic-occludable-area jobs-search-results__list-item occludable-update p0 relative scaffold-layout__list-item" data-occludable-job-id="3766308795" id="ember681">
+<li class="ember-view jobs-search-results__job-card-search--generic-occludable-area jobs-search-results__list-item occludable-update p0 relative scaffold-layout__list-item" data-occludable-job-id="3775179555" id="ember566">
 <!-- --> </li>
-<li class="ember-view jobs-search-results__job-card-search--generic-occludable-area jobs-search-results__list-item occludable-update p0 relative scaffold-layout__list-item" data-occludable-job-id="3771500551" id="ember682">
+<li class="ember-view jobs-search-results__job-card-search--generic-occludable-area jobs-search-results__list-item occludable-update p0 relative scaffold-layout__list-item" data-occludable-job-id="3765834397" id="ember567">
 <!-- --> </li>
-<li class="ember-view jobs-search-results__job-card-search--generic-occludable-area jobs-search-results__list-item occludable-update p0 relative scaffold-layout__list-item" data-occludable-job-id="3772686017" id="ember683">
+<li class="ember-view jobs-search-results__job-card-search--generic-occludable-area jobs-search-results__list-item occludable-update p0 relative scaffold-layout__list-item" data-occludable-job-id="3775558041" id="ember568">
 <!-- --> </li>
-<li class="ember-view jobs-search-results__job-card-search--generic-occludable-area jobs-search-results__list-item occludable-update p0 relative scaffold-layout__list-item" data-occludable-job-id="3769168386" id="ember684">
+<li class="ember-view jobs-search-results__job-card-search--generic-occludable-area jobs-search-results__list-item occludable-update p0 relative scaffold-layout__list-item" data-occludable-job-id="3769049054" id="ember569">
 <!-- --> </li>
-<li class="ember-view jobs-search-results__job-card-search--generic-occludable-area jobs-search-results__list-item occludable-update p0 relative scaffold-layout__list-item" data-occludable-job-id="3774967264" id="ember685">
+<li class="ember-view jobs-search-results__job-card-search--generic-occludable-area jobs-search-results__list-item occludable-update p0 relative scaffold-layout__list-item" data-occludable-job-id="3767205939" id="ember570">
 <!-- --> </li>
-<li class="ember-view jobs-search-results__job-card-search--generic-occludable-area jobs-search-results__list-item occludable-update p0 relative scaffold-layout__list-item" data-occludable-job-id="3772676167" id="ember686">
+<li class="ember-view jobs-search-results__job-card-search--generic-occludable-area jobs-search-results__list-item occludable-update p0 relative scaffold-layout__list-item" data-occludable-job-id="3766788043" id="ember571">
 <!-- --> </li>
-<li class="ember-view jobs-search-results__job-card-search--generic-occludable-area jobs-search-results__list-item occludable-update p0 relative scaffold-layout__list-item" data-occludable-job-id="3771192712" id="ember687">
+<li class="ember-view jobs-search-results__job-card-search--generic-occludable-area jobs-search-results__list-item occludable-update p0 relative scaffold-layout__list-item" data-occludable-job-id="3772903604" id="ember572">
 <!-- --> </li>
-<li class="ember-view jobs-search-results__job-card-search--generic-occludable-area jobs-search-results__list-item occludable-update p0 relative scaffold-layout__list-item" data-occludable-job-id="3771016558" id="ember688">
+<li class="ember-view jobs-search-results__job-card-search--generic-occludable-area jobs-search-results__list-item occludable-update p0 relative scaffold-layout__list-item" data-occludable-job-id="3769025291" id="ember573">
 <!-- --> </li>
-<li class="ember-view jobs-search-results__job-card-search--generic-occludable-area jobs-search-results__list-item occludable-update p0 relative scaffold-layout__list-item" data-occludable-job-id="3767185319" id="ember689">
+<li class="ember-view jobs-search-results__job-card-search--generic-occludable-area jobs-search-results__list-item occludable-update p0 relative scaffold-layout__list-item" data-occludable-job-id="3774966764" id="ember574">
 <!-- --> </li>
-<li class="ember-view jobs-search-results__job-card-search--generic-occludable-area jobs-search-results__list-item occludable-update p0 relative scaffold-layout__list-item" data-occludable-job-id="3768678472" id="ember690">
+<li class="ember-view jobs-search-results__job-card-search--generic-occludable-area jobs-search-results__list-item occludable-update p0 relative scaffold-layout__list-item" data-occludable-job-id="3770695052" id="ember575">
 <!-- --> </li>
-<li class="ember-view jobs-search-results__job-card-search--generic-occludable-area jobs-search-results__list-item occludable-update p0 relative scaffold-layout__list-item" data-occludable-job-id="3771987472" id="ember691">
+<li class="ember-view jobs-search-results__job-card-search--generic-occludable-area jobs-search-results__list-item occludable-update p0 relative scaffold-layout__list-item" data-occludable-job-id="3772904381" id="ember576">
 <!-- --> </li>
-<li class="ember-view jobs-search-results__job-card-search--generic-occludable-area jobs-search-results__list-item occludable-update p0 relative scaffold-layout__list-item" data-occludable-job-id="3774932117" id="ember692">
+<li class="ember-view jobs-search-results__job-card-search--generic-occludable-area jobs-search-results__list-item occludable-update p0 relative scaffold-layout__list-item" data-occludable-job-id="3775126768" id="ember577">
 <!-- --> </li>
-<li class="ember-view jobs-search-results__job-card-search--generic-occludable-area jobs-search-results__list-item occludable-update p0 relative scaffold-layout__list-item" data-occludable-job-id="3767927940" id="ember693">
+<li class="ember-view jobs-search-results__job-card-search--generic-occludable-area jobs-search-results__list-item occludable-update p0 relative scaffold-layout__list-item" data-occludable-job-id="3772904457" id="ember578">
 <!-- --> </li>
 </ul>

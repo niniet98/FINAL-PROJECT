@@ -114,14 +114,15 @@ job_id,job_title,company_name,company_state,salary_range,remote_ratio,employment
 3756027924,Data Engineer with healthcare experience,innoVet Health (SDVOSB),· Estados Unidos,125.000 $/año - 160.000 $/año,En remoto,Jornada completa,Intermedio,De 11 a 50 empleados
 3756052821,Data Scientist Intern,Copart,"· Dallas, TX",,,Prácticas,Prácticas,De 5.001 a 10.000 empleados · Fabricación de vehículos de motor
 3756057160,Lead Machine Learning Engineer,Non-Disclosed,· Nueva York y alrededores,850.000 $/año - 1.100.000 $/año,Presencial,Jornada completa,Director,Ve una comparación con los otros 137 solicitantes. Probar Premium gratis
-3756135992,2024 Intern - Data Scientist,Adobe,"· San José, CA",850.000 $/año - 1.100.000 $/año,Presencial,Jornada completa,Director,Más de 10.001 empleados · Desarrollo de software
-3756138519,Machine Learning Scientist,NOMA AI,· Estados Unidos,850.000 $/año - 1.100.000 $/año,Presencial,Jornada completa,Director,Entre 1 y 10 empleados
-3756142077,2024 Intern - Data Scientist,Adobe,"· San Francisco, CA",850.000 $/año - 1.100.000 $/año,Presencial,Jornada completa,Director,Más de 10.001 empleados · Desarrollo de software
-3756235116,Junior Data Scientist- Trading & Origination,Statkraft,"· Stamford, CT",850.000 $/año - 1.100.000 $/año,Presencial,Jornada completa,Director,De 5.001 a 10.000 empleados · Generación de energía eléctrica
-3756511926,Data Engineer,Aristotle,"· Provo, UT",850.000 $/año - 1.100.000 $/año,Presencial,Jornada completa,Director,De 51 a 200 empleados · Servicios y consultoría de TI
-3756657176,Core Infrastructure Engineer - Networking,Kraken Digital Asset Exchange,· Unión Europea,850.000 $/año - 1.100.000 $/año,Presencial,Jornada completa,Director,De 1.001 a 5.000 empleados · Servicios financieros
-3756661419,Machine Learning Engineer,Rekovar Inc.,"· Lake Forest, CA",850.000 $/año - 1.100.000 $/año,Presencial,Jornada completa,Director,De 11 a 50 empleados
-3756668161,Data Scientist,Rekovar Inc.,"· Lake Forest, CA",850.000 $/año - 1.100.000 $/año,Presencial,Jornada completa,Director,De 11 a 50 empleados
+3756068298,Deep Learning Research Intern,"Futurewei Technologies, Inc.","· Condado de Santa Clara, CA",35 $/h - 55 $/h,Híbrido,Prácticas,Prácticas,De 201 a 500 empleados · Telecomunicaciones
+3756135992,2024 Intern - Data Scientist,Adobe,"· San José, CA",35 $/h - 55 $/h,Híbrido,Prácticas,Prácticas,Más de 10.001 empleados · Desarrollo de software
+3756138519,Machine Learning Scientist,NOMA AI,· Estados Unidos,35 $/h - 55 $/h,Híbrido,Prácticas,Prácticas,Entre 1 y 10 empleados
+3756142077,2024 Intern - Data Scientist,Adobe,"· San Francisco, CA",35 $/h - 55 $/h,Híbrido,Prácticas,Prácticas,Más de 10.001 empleados · Desarrollo de software
+3756235116,Junior Data Scientist- Trading & Origination,Statkraft,"· Stamford, CT",35 $/h - 55 $/h,Híbrido,Prácticas,Prácticas,De 5.001 a 10.000 empleados · Generación de energía eléctrica
+3756511926,Data Engineer,Aristotle,"· Provo, UT",35 $/h - 55 $/h,Híbrido,Prácticas,Prácticas,De 51 a 200 empleados · Servicios y consultoría de TI
+3756657176,Core Infrastructure Engineer - Networking,Kraken Digital Asset Exchange,· Unión Europea,35 $/h - 55 $/h,Híbrido,Prácticas,Prácticas,De 1.001 a 5.000 empleados · Servicios financieros
+3756661419,Machine Learning Engineer,Rekovar Inc.,"· Lake Forest, CA",35 $/h - 55 $/h,Híbrido,Prácticas,Prácticas,De 11 a 50 empleados
+3756668161,Data Scientist,Rekovar Inc.,"· Lake Forest, CA",35 $/h - 55 $/h,Híbrido,Prácticas,Prácticas,De 11 a 50 empleados
 3756690220,Machine Learning Engineer (MLE) - MLOps & Databricks,Eliassen Group,· Nueva York y alrededores,75 $/h - 85 $/h,Híbrido,Contrato por obra,Intermedio,De 1.001 a 5.000 empleados · Consultoría y servicios a empresas
 3756726422,Analytics Engineer,Inceed,"· Houston, TX",75 $/h - 85 $/h,Híbrido,Contrato por obra,Intermedio,De 51 a 200 empleados · Dotación y selección de personal
 3756813046,AI / ML Engineer,Sieve,"· San Francisco, CA",75 $/h - 85 $/h,Híbrido,Contrato por obra,Intermedio,Entre 1 y 10 empleados · Desarrollo de software
@@ -143,6 +144,7 @@ job_id,job_title,company_name,company_state,salary_range,remote_ratio,employment
 3758158575,Principal Applied Scientist/Machine Learning Engineer - Relocation to Australia,Rokt,"· Nueva York, NY",260.000 $/año - 300.000 $/año,Híbrido,Jornada completa,Director,De 201 a 500 empleados · Desarrollo de software
 3758209365,Machine Learning Engineer,Tech Mahindra (formerly Mahindra Satyam),"· Austin, TX",260.000 $/año - 300.000 $/año,Híbrido,Jornada completa,Director,Más de 10.001 empleados · Servicios y consultoría de TI
 3758907164,Staff Machine Learning Researcher,Storm3,· San Francisco y alrededores,260.000 $/año - 300.000 $/año,Híbrido,Jornada completa,Director,De 51 a 200 empleados · Dotación y selección de personal
+3758916098,Machine Learning Researcher,Skills Alliance,"· Mountain View, CA",260.000 $/año - 300.000 $/año,Híbrido,Jornada completa,Director,De 51 a 200 empleados · Servicios de recursos humanos
 3758917866,Data Analyst,DISYS,"· Tampa, FL",260.000 $/año - 300.000 $/año,Híbrido,Jornada completa,Director,De 1.001 a 5.000 empleados · Servicios y consultoría de TI
 3758948418,Fund Data Analyst,The Intersect Group,· Nashville y alrededores,260.000 $/año - 300.000 $/año,Híbrido,Jornada completa,Director,De 501 a 1.000 empleados · Dotación y selección de personal
 3758952864,Data & ML Engineer,Capgemini,"· Seattle, WA",260.000 $/año - 300.000 $/año,Híbrido,Jornada completa,Director,Más de 10.001 empleados · Servicios y consultoría de TI
@@ -157,8 +159,9 @@ job_id,job_title,company_name,company_state,salary_range,remote_ratio,employment
 3759515210,Data Engineer,People Tech Group Inc,"· Warren, MI",,Presencial,Prácticas,Prácticas,De 1.001 a 5.000 empleados · Servicios y consultoría de TI
 3759575382,Computer Vision and Optimization Engineer,BotBuilt,"· Durham, NC",90.000 $/año - 130.000 $/año,Presencial,Jornada completa,Sin experiencia,Entre 1 y 10 empleados · Construcción
 3759719867,Machine Learning Engineer,Akkodis,"· Dearborn, MI",60 $/h - 68 $/h,Presencial,Contrato por obra,Intermedio,Más de 10.001 empleados · Servicios y consultoría de TI
-3759962208,Senior Machine Learning Engineer,EVONA,"· San Diego, CA",60 $/h - 68 $/h,Presencial,Contrato por obra,Intermedio,De 51 a 200 empleados · Dotación y selección de personal
-3759969537,Data Engineer I,WinMax,"· Cupertino, CA",60 $/h - 68 $/h,Presencial,Contrato por obra,Intermedio,De 51 a 200 empleados · Dotación y selección de personal
+3759796905,Staff Software Engineer - Machine Learning,Walmart,"· Sunnyvale, CA",170.000 $/año - 190.000 $/año,Híbrido,Jornada completa,Intermedio,Más de 10.001 empleados · Comercio al por menor
+3759962208,Senior Machine Learning Engineer,EVONA,"· San Diego, CA",170.000 $/año - 190.000 $/año,Híbrido,Jornada completa,Intermedio,De 51 a 200 empleados · Dotación y selección de personal
+3759969537,Data Engineer I,WinMax,"· Cupertino, CA",170.000 $/año - 190.000 $/año,Híbrido,Jornada completa,Intermedio,De 51 a 200 empleados · Dotación y selección de personal
 3759990120,Data Scientist I,Trusaic,"· California, Estados Unidos",70.000 $/año - 85.000 $/año,En remoto,Jornada completa,Algo de responsabilidad,De 51 a 200 empleados · Desarrollo de software
 3760177911,AI/Imaging Software Engineer ( Robotics Vision),Jabil,"· Nicholasville, KY",70.000 $/año - 85.000 $/año,En remoto,Jornada completa,Algo de responsabilidad,Más de 10.001 empleados · Fabricación de electrodomésticos y productos eléctricos y electrónicos
 3760202672,Data Scientist,Osmii,"· Texas, Estados Unidos",150.000 $/año - 200.000 $/año,Híbrido,Jornada completa,Intermedio,De 51 a 200 empleados · Dotación y selección de personal
@@ -193,8 +196,8 @@ job_id,job_title,company_name,company_state,salary_range,remote_ratio,employment
 3761832322,Staff Software Engineer - Machine Learning,Walmart,"· Sunnyvale, CA",170.000 $/año - 190.000 $/año,Híbrido,Jornada completa,Intermedio,Más de 10.001 empleados · Comercio al por menor
 3761843741,AI Research Engineer,Future House,"· San Francisco, CA",170.000 $/año - 190.000 $/año,Híbrido,Jornada completa,Intermedio,Entre 1 y 10 empleados
 3761926222,Data Analyst,Hexaware Technologies,"· McLean, VA",170.000 $/año - 190.000 $/año,Híbrido,Jornada completa,Intermedio,Más de 10.001 empleados · Servicios y consultoría de TI
-3762242381,Data Scientist,Probar Premium gratis,"HCL Technologies · Peoria, IL",170.000 $/año - 190.000 $/año,Híbrido,Jornada completa,Intermedio,Ve una comparación con los otros 301 solicitantes. Probar Premium gratis
-3762242406,Data Analyst,Probar Premium gratis,"HCL Technologies · Peoria, IL",170.000 $/año - 190.000 $/año,Híbrido,Jornada completa,Intermedio,Ve una comparación con los otros 652 solicitantes. Probar Premium gratis
+3762242381,Data Scientist,Probar Premium gratis,"HCL Technologies · Peoria, IL",170.000 $/año - 190.000 $/año,Híbrido,Jornada completa,Intermedio,Ve una comparación con los otros 306 solicitantes. Probar Premium gratis
+3762242406,Data Analyst,Probar Premium gratis,"HCL Technologies · Peoria, IL",170.000 $/año - 190.000 $/año,Híbrido,Jornada completa,Intermedio,Ve una comparación con los otros 661 solicitantes. Probar Premium gratis
 3762333316,Machine Learning Engineer,"CARIAD, Inc.","· Santa Clara, CA",170.000 $/año - 190.000 $/año,Híbrido,Jornada completa,Intermedio,De 201 a 500 empleados · Desarrollo de software
 3762359632,Data Scientist II,Cencora,"· Conshohocken, PA",170.000 $/año - 190.000 $/año,Híbrido,Jornada completa,Intermedio,Más de 10.001 empleados · Hospitales y atención sanitaria
 3762499594,Machine Learning Engineer,Russell Tobin,"· Cupertino, CA",90 $/h - 100 $/h,Presencial,Contrato por obra,Intermedio,De 201 a 500 empleados · Dotación y selección de personal
@@ -223,12 +226,14 @@ job_id,job_title,company_name,company_state,salary_range,remote_ratio,employment
 3763551871,Data Engineer- (Graph Database Ontology Modeling),Mastech Digital,"· Pleasanton, CA",60 $/h - 70 $/h,En remoto,Contrato por obra,Intermedio,De 1.001 a 5.000 empleados · Servicios y consultoría de TI
 3763820730,Data Analyst,Brooksource,"· Morris Plains, NJ",60.000 $/año - 65.000 $/año,Híbrido,Jornada completa,Algo de responsabilidad,De 1.001 a 5.000 empleados · Servicios y consultoría de TI
 3763903935,Data Scientist - Western Houston TX,CyberCoders,"· Katy, TX",70.000 $/año - 85.000 $/año,Presencial,Jornada completa,Prácticas,De 201 a 500 empleados · Dotación y selección de personal
+3763906113,Data Analyst II,US Tech Solutions,"· Waukegan, IL",70.000 $/año - 85.000 $/año,Presencial,Jornada completa,Prácticas,De 1.001 a 5.000 empleados · Servicios y consultoría de TI
 3764173559,Data Engineer,Steneral Consulting,"· Cincinnati, OH",70.000 $/año - 85.000 $/año,Presencial,Jornada completa,Prácticas,De 51 a 200 empleados · Servicios y consultoría de TI
 3764175513,Azure Cloud Data Engineer,"Cape Henry Associates, Acquired by JANUS Research Group","· Newport News, VA",85.000 $/año - 125.000 $/año,Presencial,Jornada completa,Sin experiencia,De 201 a 500 empleados · Relaciones gubernamentales
 3764327708,Machine Learning Engineer,Presage Technologies,"· Reston, VA",85.000 $/año - 125.000 $/año,Presencial,Jornada completa,Sin experiencia,De 11 a 50 empleados
 3764334478,Machine Learning Engineer,Intelletec,"· Sunnyvale, CA",85.000 $/año - 125.000 $/año,Presencial,Jornada completa,Sin experiencia,De 11 a 50 empleados · Dotación y selección de personal
 3764401764,Junior Data Analyst,Femwell Group Health,"· Miami, FL",85.000 $/año - 125.000 $/año,Presencial,Jornada completa,Sin experiencia,De 51 a 200 empleados · Hospitales y atención sanitaria
 3764508755,"Data Engineer/Lead - Dallas, NY/NJ, Chicago, IL, Atlanta, GA (Onsite for now but could be hybrid too)",Spanco Solutions,"· Atlanta, GA",85.000 $/año - 125.000 $/año,Presencial,Jornada completa,Sin experiencia,De 11 a 50 empleados · Servicios y consultoría de TI
+3764559607,Data Scientist,Apexon,"· Detroit, MI",85.000 $/año - 125.000 $/año,Presencial,Jornada completa,Sin experiencia,De 5.001 a 10.000 empleados · Servicios y consultoría de TI
 3764639688,Junior Data Analyst - 22325,Wimmer Solutions,"· Redmond, WA",32 $/h - 37 $/h,Presencial,Contrato por obra,Intermedio,De 201 a 500 empleados · Servicios y consultoría de TI
 3764675617,Statistician/Data Scientist,Eli Lilly and Company,"· Indianápolis, IN",32 $/h - 37 $/h,Presencial,Contrato por obra,Intermedio,Más de 10.001 empleados · Fabricación de productos farmacéuticos
 3764678740,Data Engineer,"Hydrow, Inc.","· Boston, MA",32 $/h - 37 $/h,Presencial,Contrato por obra,Intermedio,De 51 a 200 empleados · Servicios de bienestar y mantenimiento físico
@@ -241,10 +246,13 @@ job_id,job_title,company_name,company_state,salary_range,remote_ratio,employment
 3764900960,Software Engineer Intern (Data-TnS-Eng) - 2024 Start (BS/MS),TikTok,"· Seattle, WA",26 $/h - 29 $/h,Híbrido,Jornada completa,Prácticas,Más de 10.001 empleados · Proveedores de entretenimiento
 3764903612,Machine Learning Engineer Intern (Data-TnS-Algo) - 2024 Summer (MS),TikTok,"· San José, CA",26 $/h - 29 $/h,Híbrido,Jornada completa,Prácticas,Más de 10.001 empleados · Proveedores de entretenimiento
 3764909386,Software Engineer Intern (Data-TnS-Eng) - 2024 Summer (BS/MS),TikTok,"· San José, CA",26 $/h - 29 $/h,Híbrido,Jornada completa,Prácticas,Más de 10.001 empleados · Proveedores de entretenimiento
+3765016914,Summer Intern - Data Analyst,Electrify America,"· Reston, VA",26 $/h - 29 $/h,Híbrido,Jornada completa,Prácticas,De 51 a 200 empleados · Fabricación de vehículos de motor
 3765031597,Senior Machine Learning Engineer,Quantiphi,· Estados Unidos,26 $/h - 29 $/h,Híbrido,Jornada completa,Prácticas,De 1.001 a 5.000 empleados · Servicios y tecnologías de la información
 3765083210,Python/ Data Engineer,HireKeyz Inc,"· Plano, TX",26 $/h - 29 $/h,Híbrido,Jornada completa,Prácticas,De 11 a 50 empleados · Dotación y selección de personal
 3765095791,Remote-Junior Level Data Analyst/software Programmer,SynergisticIT,"· Lexington, KY",75.000 $/año - 120.000 $/año,En remoto,Jornada completa,Sin experiencia,De 201 a 500 empleados · Servicios y consultoría de TI
+3765207014,Data Engineer,Probar Premium gratis,"Hedge Fund · Nueva York, NY",75.000 $/año - 120.000 $/año,En remoto,Jornada completa,Sin experiencia,Ve una comparación con los otros 539 solicitantes. Probar Premium gratis
 3765294448,Summer Intern - R&D/Artificial Intelligence,"Bluebeam, Inc.","· Pasadena, CA",,Presencial,Prácticas,Prácticas,De 201 a 500 empleados · Desarrollo de software
+3765320598,Summer Internship – Data and Software Engineering (2996),SMX,"· Herndon, VA",,Presencial,Prácticas,Prácticas,De 1.001 a 5.000 empleados · Servicios y consultoría de TI
 3765346803,Data Analyst (Hybrid Schedule),Conexess Group,"· Saint Louis, MO",,Presencial,Prácticas,Prácticas,De 51 a 200 empleados · Servicios y consultoría de TI
 3765377389,Claims Data Analyst Intern - Summer 2024,National Life Group,"· Montpelier, VT",,Presencial,Prácticas,Prácticas,De 1.001 a 5.000 empleados · Servicios financieros
 3765388640,Machine Learning Engineer,ASICSoft,· Nueva York y alrededores,150 $/año - 400 $/año,Híbrido,Jornada completa,Intermedio,De 11 a 50 empleados · Servicios y consultoría de TI
@@ -266,11 +274,14 @@ job_id,job_title,company_name,company_state,salary_range,remote_ratio,employment
 3765835279,Remote Tourism Advisor - Entry Level,Travel by Tilly,"· Dallas, TX",,En remoto,Media jornada,Sin experiencia,Entre 1 y 10 empleados · Organización de viajes
 3765836174,Remote Coordinator - Entry Level,Travel by Tilly,"· Saint Louis, MO",,En remoto,Media jornada,Sin experiencia,Entre 1 y 10 empleados · Organización de viajes
 3766016312,Machine Learning Researcher,Brookwood Search & Selection,"· Boston, MA",130.000 $/año - 190.000 $/año,Híbrido,Jornada completa,Intermedio,De 11 a 50 empleados · Dotación y selección de personal
+3766041063,Test Data Management Engineer,Raas Infotek,"· Illinois, Estados Unidos",130.000 $/año - 190.000 $/año,Híbrido,Jornada completa,Intermedio,De 201 a 500 empleados · Servicios y consultoría de TI
 3766051143,Remote Part-time Data/Quantitative Research Position,Cornell University,"· Ithaca, NY",40 $/h - 50 $/h,En remoto,Media jornada,Intermedio,Más de 10.001 empleados · Enseñanza superior
 3766061073,"Data Scientist - Up to $150,000 + Huge Bonus + Package",Hunter Bond,"· Houston, TX",140.000 $/yr,Híbrido,Jornada completa,Intermedio,De 11 a 50 empleados · Dotación y selección de personal
+3766084880,Machine Learning Engineer,TechOne Search,"· Nueva York, Estados Unidos",200.000 $/año - 600.000 $/año,Híbrido,Jornada completa,Intermedio,Entre 1 y 10 empleados · Dotación y selección de personal
 3766124706,Machine Learning Engineer,Apollo Solutions,"· Nueva York, Estados Unidos",190.000 $/año - 210.000 $/año,En remoto,Jornada completa,Intermedio,De 51 a 200 empleados · Dotación y selección de personal
 3766280936,Business Analyst Intern - Remote | WFH,Get It Recruit - Finance,"· Santa Clara, CA",,En remoto,Prácticas,Prácticas,Entre 1 y 10 empleados · Servicios de recursos humanos
-3766329541,Intern - Global Procurement Data Engineer,Micron Technology,"· Boise, ID",,En remoto,Prácticas,Prácticas,Entre 1 y 10 empleados · Servicios de recursos humanos
+3766307070,Data Engineer (1700566),Tier4 Group,"· Lehi, UT",,En remoto,Prácticas,Prácticas,De 51 a 200 empleados · Servicios y consultoría de TI
+3766329541,Intern - Global Procurement Data Engineer,Micron Technology,"· Boise, ID",,En remoto,Prácticas,Prácticas,De 51 a 200 empleados · Servicios y consultoría de TI
 3766365256,Data Analyst Intern - Immediate Hire,Linksys,"· Irvine, CA",26 $/hr,Híbrido,Prácticas,Prácticas,De 501 a 1.000 empleados · Productos de redes informáticas
 3766632486,Project Data Analyst (F&B),The Walt Disney Company,"· Lake Buena Vista, FL",26 $/hr,Híbrido,Prácticas,Prácticas,Más de 10.001 empleados · Proveedores de entretenimiento
 3766655529,Data Architecture Intern,International Rescue Committee,"· Nueva York, NY",,Híbrido,Media jornada,Prácticas,Más de 10.001 empleados · Organizaciones sin ánimo de lucro
@@ -291,14 +302,17 @@ job_id,job_title,company_name,company_state,salary_range,remote_ratio,employment
 3766891845,Data Analyst,Ad hoc Research,"· Aberdeen Proving Ground, MD",,,Prácticas,Prácticas,De 51 a 200 empleados · Departamento de defensa y del espacio exterior
 3766971083,Data Analyst (Project Management),Catapult Solutions Group,"· Dallas, TX",100.000 $/año - 115.000 $/año,Presencial,Jornada completa,Algo de responsabilidad,De 201 a 500 empleados · Dotación y selección de personal
 3766990842,Machine Learning Engineer ( Remote ),Talener,· Chicago y alrededores,140.000 $/año - 150.000 $/año,En remoto,Jornada completa,Algo de responsabilidad,De 11 a 50 empleados · Dotación y selección de personal
-3767061172,Data Analyst - Early Career,Lockheed Martin,"· Moorestown, NJ",140.000 $/año - 150.000 $/año,En remoto,Jornada completa,Algo de responsabilidad,Más de 10.001 empleados · Fabricación de productos de defensa y espacio
-3767122642,Data Analytics Intern,Schneider Electric,"· Boston, MA",140.000 $/año - 150.000 $/año,En remoto,Jornada completa,Algo de responsabilidad,Más de 10.001 empleados · Fabricación de maquinaria de automatización
+3767004978,Data Analyst,"IDR, Inc.","· Nashville, TN",140.000 $/año - 150.000 $/año,En remoto,Jornada completa,Algo de responsabilidad,De 501 a 1.000 empleados · Dotación y selección de personal
+3767043005,Data Analyst,Inceed,"· Kansas City, MO",50 $/h - 60 $/h,Presencial,Contrato por obra,Sin experiencia,De 51 a 200 empleados · Dotación y selección de personal
+3767061172,Data Analyst - Early Career,Lockheed Martin,"· Moorestown, NJ",50 $/h - 60 $/h,Presencial,Contrato por obra,Sin experiencia,Más de 10.001 empleados · Fabricación de productos de defensa y espacio
+3767122642,Data Analytics Intern,Schneider Electric,"· Boston, MA",50 $/h - 60 $/h,Presencial,Contrato por obra,Sin experiencia,Más de 10.001 empleados · Fabricación de maquinaria de automatización
 3767149472,ML Engineer (Entry Level),Grindr,"· Chicago, IL",130.000 $/año - 220.000 $/año,Híbrido,Jornada completa,Sin experiencia,De 51 a 200 empleados · Desarrollo de software
-3767189280,Data Engineer,"GEI Consultants, Inc.","· Ithaca, NY",130.000 $/año - 220.000 $/año,Híbrido,Jornada completa,Sin experiencia,De 1.001 a 5.000 empleados · Ingeniería civil
-3767237081,"Machine Learning Engineer, Predictive",Cordial,"· San Diego, CA",130.000 $/año - 220.000 $/año,Híbrido,Jornada completa,Sin experiencia,De 51 a 200 empleados · Servicios de marketing
-3767309281,"Summer Intern, Data Analytics",BlueCross BlueShield of South Carolina,"· Carolina del Sur, Estados Unidos",130.000 $/año - 220.000 $/año,Híbrido,Jornada completa,Sin experiencia,Más de 10.001 empleados · Seguros
-3767322672,Data Analyst,NYC Department of Finance,"· Manhattan, NY",130.000 $/año - 220.000 $/año,Híbrido,Jornada completa,Sin experiencia,De 1.001 a 5.000 empleados · Administración pública
-3767408820,SQL DATA ENGINEER,Bamboo Solutions,"· Washington, DC",130.000 $/año - 220.000 $/año,Híbrido,Jornada completa,Sin experiencia,De 11 a 50 empleados · Desarrollo de software
+3767183798,Data Collections and Reporting Analyst,City of Philadelphia,"· Filadelfia, PA",60.000 $/año - 65.000 $/año,Híbrido,Jornada completa,Intermedio,Más de 10.001 empleados · Administración pública
+3767189280,Data Engineer,"GEI Consultants, Inc.","· Ithaca, NY",60.000 $/año - 65.000 $/año,Híbrido,Jornada completa,Intermedio,De 1.001 a 5.000 empleados · Ingeniería civil
+3767237081,"Machine Learning Engineer, Predictive",Cordial,"· San Diego, CA",60.000 $/año - 65.000 $/año,Híbrido,Jornada completa,Intermedio,De 51 a 200 empleados · Servicios de marketing
+3767309281,"Summer Intern, Data Analytics",BlueCross BlueShield of South Carolina,"· Carolina del Sur, Estados Unidos",60.000 $/año - 65.000 $/año,Híbrido,Jornada completa,Intermedio,Más de 10.001 empleados · Seguros
+3767322672,Data Analyst,NYC Department of Finance,"· Manhattan, NY",60.000 $/año - 65.000 $/año,Híbrido,Jornada completa,Intermedio,De 1.001 a 5.000 empleados · Administración pública
+3767408820,SQL DATA ENGINEER,Bamboo Solutions,"· Washington, DC",60.000 $/año - 65.000 $/año,Híbrido,Jornada completa,Intermedio,De 11 a 50 empleados · Desarrollo de software
 3767466154,"Adobe, 2024 Intern - Data Analyst - Application via WayUp",WayUp,"· San José, CA",45 $/h - 55 $/h,Presencial,Prácticas,Prácticas,"De 51 a 200 empleados · Tecnología, información e internet"
 3767516429,Data Scientist Intern,iHeartMedia,"· Texas, Estados Unidos",45 $/h - 55 $/h,Presencial,Prácticas,Prácticas,De 5.001 a 10.000 empleados · Producción y distribución audiovisual
 3767591534,Junior Level / Entry Level  Data Analyst (Remote),SynergisticIT,"· Seattle, WA",45 $/h - 55 $/h,Presencial,Prácticas,Prácticas,De 201 a 500 empleados · Servicios y consultoría de TI
@@ -320,6 +334,7 @@ job_id,job_title,company_name,company_state,salary_range,remote_ratio,employment
 3768308901,Data Analyst,FundamentalVR,"· Cincinnati, OH",,Presencial,Prácticas,Prácticas,De 51 a 200 empleados · Servicios médicos
 3768325972,Content Analyst,ICONMA,"· Cupertino, CA",60 $/h - 63 $/h,Presencial,Contrato por obra,Sin experiencia,De 1.001 a 5.000 empleados · Dotación y selección de personal
 3768359563,Data Scientist #3,Inceed,"· Oklahoma City, OK",65.000 $/año - 85.000 $/año,Presencial,Jornada completa,Sin experiencia,De 51 a 200 empleados · Dotación y selección de personal
+3768429642,Data Scientist III,Selby Jennings,"· Columbus y alrededores, Ohio",65.000 $/año - 85.000 $/año,Presencial,Jornada completa,Sin experiencia,De 1.001 a 5.000 empleados · Servicios y consultoría de TI
 3768671522,Data Analytics Intern,Authentic Brands Group,"· Nueva York, NY",15 $/h - 20 $/h,Híbrido,Prácticas,Prácticas,De 201 a 500 empleados · Servicios de publicidad
 3768683365,Artificial Intelligence Engineer,KLA,"· Milpitas, CA",15 $/h - 20 $/h,Híbrido,Prácticas,Prácticas,Más de 10.001 empleados · Fabricación de semiconductores
 3768703724,Senior Data Scientist,Lumen Solutions Group Inc.,· Estados Unidos,15 $/h - 20 $/h,Híbrido,Prácticas,Prácticas,De 51 a 200 empleados · Servicios y consultoría de TI
@@ -359,49 +374,68 @@ job_id,job_title,company_name,company_state,salary_range,remote_ratio,employment
 3769582747,Data Scientist,Kelly,"· Cupertino, CA",120.000 $/año - 150.000 $/año,Híbrido,Jornada completa,Algo de responsabilidad,Más de 10.001 empleados · Dotación y selección de personal
 3769590260,Data Scientist- Security and Kusko,BrickRed Systems,· Estados Unidos,65 $/h - 70 $/h,En remoto,Contrato por obra,Intermedio,De 501 a 1.000 empleados · Servicios y consultoría de TI
 3769880107,Junior Data Engineer,"University of California, Riverside","· Riverside, CA","28,26 $/h - 49,52 $/h",En remoto,Jornada completa,Intermedio,Más de 10.001 empleados · Enseñanza superior
+3770027863,"Data Analyst, Healthcare Delivery System","Health Innovations, LLC",· Estados Unidos,"28,26 $/h - 49,52 $/h",En remoto,Jornada completa,Intermedio,Entre 1 y 10 empleados · Hospitales y atención sanitaria
 3770041073,Data Engineer II - NBC Sports Next,NBC Sports Next,"· Mineápolis, MN","28,26 $/h - 49,52 $/h",En remoto,Jornada completa,Intermedio,"De 1.001 a 5.000 empleados · Tecnología, información e internet"
-3770128705,Data Engineer,Diverse Lynx,"· Austin, TX","28,26 $/h - 49,52 $/h",En remoto,Jornada completa,Intermedio,De 1.001 a 5.000 empleados · Desarrollo de software
-3770129676,Data Analyst,TEKFORTUNE INC,"· Jersey City, NJ","28,26 $/h - 49,52 $/h",En remoto,Jornada completa,Intermedio,De 51 a 200 empleados · Dotación y selección de personal
-3770130525,Machine Learning Engineer,"BYTE Systems, LLC","· McLean, VA","28,26 $/h - 49,52 $/h",En remoto,Jornada completa,Intermedio,De 11 a 50 empleados · Servicios y tecnologías de la información
-3770133203,Associate Data Review Scientist - Biochemistry,Eurofins PSS Insourcing Solutions,"· Lancaster, PA","28,26 $/h - 49,52 $/h",En remoto,Jornada completa,Intermedio,De 1.001 a 5.000 empleados · Fabricación de productos farmacéuticos
-3770133208,Scientist I - Data Review,Eurofins PSS Insourcing Solutions,"· Lancaster, PA","28,26 $/h - 49,52 $/h",En remoto,Jornada completa,Intermedio,De 1.001 a 5.000 empleados · Fabricación de productos farmacéuticos
-3770133209,Scientist II - Data Review,Eurofins PSS Insourcing Solutions,"· Lancaster, PA","28,26 $/h - 49,52 $/h",En remoto,Jornada completa,Intermedio,De 1.001 a 5.000 empleados · Fabricación de productos farmacéuticos
-3770133232,Data Engineer,Indus Valley Consultants,"· Cincinnati, OH","28,26 $/h - 49,52 $/h",En remoto,Jornada completa,Intermedio,De 51 a 200 empleados · Servicios y consultoría de TI
-3770133308,Data Analyst,"Employnet, Inc.","· Filadelfia, PA","28,26 $/h - 49,52 $/h",En remoto,Jornada completa,Intermedio,De 1.001 a 5.000 empleados · Dotación y selección de personal
-3770133317,Data Engineer,The Fountain Group,"· Orange, CA","28,26 $/h - 49,52 $/h",En remoto,Jornada completa,Intermedio,De 501 a 1.000 empleados · Dotación y selección de personal
-3770133774,"Sr. Applied Scientist, WSAT",Amazon,"· Seattle, WA","28,26 $/h - 49,52 $/h",En remoto,Jornada completa,Intermedio,Más de 10.001 empleados · Desarrollo de software
-3770145517,Data Conversion Analyst,Infinite Computer Solutions,"· Texas, Estados Unidos","28,26 $/h - 49,52 $/h",En remoto,Jornada completa,Intermedio,Más de 10.001 empleados · Servicios y consultoría de TI
-3770145685,Azure Data Engineer,Nuvento Inc,· Estados Unidos,"28,26 $/h - 49,52 $/h",En remoto,Jornada completa,Intermedio,De 501 a 1.000 empleados
-3770145747,Data Scientist,"Surya Systems, Inc","· San Francisco, CA","28,26 $/h - 49,52 $/h",En remoto,Jornada completa,Intermedio,De 51 a 200 empleados · Servicios y consultoría de TI
+3770041129,"NBC Sports Finance, Technology & Engineering Internships",NBC Sports,"· Orlando, FL",20 $/h - 35 $/h,Presencial,Prácticas,Prácticas,Más de 10.001 empleados · Producción y distribución audiovisual
+3770128705,Data Engineer,Diverse Lynx,"· Austin, TX",20 $/h - 35 $/h,Presencial,Prácticas,Prácticas,De 1.001 a 5.000 empleados · Desarrollo de software
+3770129676,Data Analyst,TEKFORTUNE INC,"· Jersey City, NJ",20 $/h - 35 $/h,Presencial,Prácticas,Prácticas,De 51 a 200 empleados · Dotación y selección de personal
+3770130525,Machine Learning Engineer,"BYTE Systems, LLC","· McLean, VA",20 $/h - 35 $/h,Presencial,Prácticas,Prácticas,De 11 a 50 empleados · Servicios y tecnologías de la información
+3770133203,Associate Data Review Scientist - Biochemistry,Eurofins PSS Insourcing Solutions,"· Lancaster, PA",20 $/h - 35 $/h,Presencial,Prácticas,Prácticas,De 1.001 a 5.000 empleados · Fabricación de productos farmacéuticos
+3770133208,Scientist I - Data Review,Eurofins PSS Insourcing Solutions,"· Lancaster, PA",20 $/h - 35 $/h,Presencial,Prácticas,Prácticas,De 1.001 a 5.000 empleados · Fabricación de productos farmacéuticos
+3770133209,Scientist II - Data Review,Eurofins PSS Insourcing Solutions,"· Lancaster, PA",20 $/h - 35 $/h,Presencial,Prácticas,Prácticas,De 1.001 a 5.000 empleados · Fabricación de productos farmacéuticos
+3770133232,Data Engineer,Indus Valley Consultants,"· Cincinnati, OH",20 $/h - 35 $/h,Presencial,Prácticas,Prácticas,De 51 a 200 empleados · Servicios y consultoría de TI
+3770133308,Data Analyst,"Employnet, Inc.","· Filadelfia, PA",20 $/h - 35 $/h,Presencial,Prácticas,Prácticas,De 1.001 a 5.000 empleados · Dotación y selección de personal
+3770133317,Data Engineer,The Fountain Group,"· Orange, CA",20 $/h - 35 $/h,Presencial,Prácticas,Prácticas,De 501 a 1.000 empleados · Dotación y selección de personal
+3770133774,"Sr. Applied Scientist, WSAT",Amazon,"· Seattle, WA",20 $/h - 35 $/h,Presencial,Prácticas,Prácticas,Más de 10.001 empleados · Desarrollo de software
+3770145517,Data Conversion Analyst,Infinite Computer Solutions,"· Texas, Estados Unidos",20 $/h - 35 $/h,Presencial,Prácticas,Prácticas,Más de 10.001 empleados · Servicios y consultoría de TI
+3770145685,Azure Data Engineer,Nuvento Inc,· Estados Unidos,20 $/h - 35 $/h,Presencial,Prácticas,Prácticas,De 501 a 1.000 empleados
+3770145747,Data Scientist,"Surya Systems, Inc","· San Francisco, CA",20 $/h - 35 $/h,Presencial,Prácticas,Prácticas,De 51 a 200 empleados · Servicios y consultoría de TI
 3770146709,Operations Data Analyst (Power BI),Visionaire Partners,· Estados Unidos,90.000 $/año - 110.000 $/año,En remoto,Jornada completa,Intermedio,De 11 a 50 empleados · Servicios y tecnologías de la información
-3770147539,AWS Bigdata Developer,Avance Consulting,"· Denver, CO",90.000 $/año - 110.000 $/año,En remoto,Jornada completa,Intermedio,De 501 a 1.000 empleados · Dotación y selección de personal
-3770148939,Machine Learning Engineer,Smart IT Frame LLC,"· Austin, TX",90.000 $/año - 110.000 $/año,En remoto,Jornada completa,Intermedio,De 501 a 1.000 empleados · Desarrollo de software
-3770150734,Data Engineer Only W2 (Informatica PowerCenter & BI & Azure),"Spruce InfoTech, Inc",· Estados Unidos,90.000 $/año - 110.000 $/año,En remoto,Jornada completa,Intermedio,De 501 a 1.000 empleados
-3770152899,Data Engineer,SAGE IT,"· Newport Beach, CA",90.000 $/año - 110.000 $/año,En remoto,Jornada completa,Intermedio,De 501 a 1.000 empleados
-3770165247,Data Analyst,TEKGENCE INC,"· Columbus y alrededores, Ohio",90.000 $/año - 110.000 $/año,En remoto,Jornada completa,Intermedio,De 501 a 1.000 empleados
+3770146987,Senior Data Engineer,FinThrive,· Estados Unidos,150.000 $/yr,En remoto,Jornada completa,Intermedio,De 1.001 a 5.000 empleados · Hospitales y atención sanitaria
+3770147539,AWS Bigdata Developer,Avance Consulting,"· Denver, CO",150.000 $/yr,En remoto,Jornada completa,Intermedio,De 501 a 1.000 empleados · Dotación y selección de personal
+3770147561,Data Analyst,Acro Service Corp,"· Dubuque, IA",20 $/h - 23 $/h,Presencial,Contrato por obra,Sin experiencia,De 1.001 a 5.000 empleados · Dotación y selección de personal
+3770148939,Machine Learning Engineer,Smart IT Frame LLC,"· Austin, TX",20 $/h - 23 $/h,Presencial,Contrato por obra,Sin experiencia,De 501 a 1.000 empleados · Desarrollo de software
+3770150734,Data Engineer Only W2 (Informatica PowerCenter & BI & Azure),"Spruce InfoTech, Inc",· Estados Unidos,20 $/h - 23 $/h,Presencial,Contrato por obra,Sin experiencia,De 501 a 1.000 empleados
+3770152899,Data Engineer,SAGE IT,"· Newport Beach, CA",20 $/h - 23 $/h,Presencial,Contrato por obra,Sin experiencia,De 501 a 1.000 empleados
+3770165247,Data Analyst,TEKGENCE INC,"· Columbus y alrededores, Ohio",20 $/h - 23 $/h,Presencial,Contrato por obra,Sin experiencia,De 501 a 1.000 empleados
 3770166345,Machine Learning Engineer,ATR International,"· Cupertino, CA",53 $/h - 58 $/h,Híbrido,Contrato por obra,Algo de responsabilidad,De 501 a 1.000 empleados · Dotación y selección de personal
+3770174091,Data Analyst,Acro Service Corp,"· Quincy, MA",5 $/h - 58 $/h,Híbrido,Jornada completa,Intermedio,De 1.001 a 5.000 empleados · Dotación y selección de personal
+3770178750,Data Scientist,Aditi Consulting,"· Redmond, WA",60 $/h - 65 $/h,En remoto,Jornada completa,Intermedio,De 501 a 1.000 empleados · Servicios y consultoría de TI
+3770180082,Data Analyst,Insight Global,"· Clearwater, FL",20 $/h - 28 $/h,Presencial,Contrato por obra,Sin experiencia,De 1.001 a 5.000 empleados · Dotación y selección de personal
+3770183427,Supply Chain Analyst,GroupA,"· Dallas, TX",18 $/hr,Híbrido,Contrato por obra,Sin experiencia,De 51 a 200 empleados · Servicios y consultoría de TI
+3770183600,Data Engineer (Python//AWS),Maxonic,"· Pleasanton, CA",18 $/hr,Híbrido,Contrato por obra,Sin experiencia,De 201 a 500 empleados · Servicios y tecnologías de la información
+3770187124,Data Analyst with Pharma/ Life science,Venusgeo Solutions,· San Francisco y alrededores,18 $/hr,Híbrido,Contrato por obra,Sin experiencia,De 51 a 200 empleados · Servicios y tecnologías de la información
+3770192444,Snowflake Data Engineer,Smart IT Frame LLC,· Estados Unidos,18 $/hr,Híbrido,Contrato por obra,Sin experiencia,De 501 a 1.000 empleados · Desarrollo de software
+3770194325,Junior Analyst,Calculated Hire,"· Atlanta, GA",29 $/h - 34 $/h,Híbrido,Contrato por obra,Sin experiencia,De 51 a 200 empleados · Dotación y selección de personal
+3770196730,Senior P&C Analytics Actuary - PR12617,Pryor Associates Executive Search,· Nueva York y alrededores,29 $/h - 34 $/h,Híbrido,Contrato por obra,Sin experiencia,Entre 1 y 10 empleados · Seguros
+3770198438,Data Engineer,Eliassen Group,"· Cincinnati, OH",70 $/h - 75 $/h,Híbrido,Contrato por obra,Intermedio,De 1.001 a 5.000 empleados · Consultoría y servicios a empresas
 3770443557,Machine Learning Engineer,TDA,· Nueva York y alrededores,100.000 $/año - 170.000 $/año,Híbrido,Jornada completa,Intermedio,De 11 a 50 empleados · Dotación y selección de personal
+3770505264,Data Analyst,SBS Creatix,· St. Louis y alrededores,100.000 $/año - 170.000 $/año,Híbrido,Jornada completa,Intermedio,De 51 a 200 empleados · Servicios y consultoría de TI
 3770506790,"Data Analytics Manager_______________MASSACHUSETTS,MANSFIELD",Steneral Consulting,"· Mansfield, MA",110.000 $/año - 125.000 $/año,Híbrido,Jornada completa,Intermedio,De 51 a 200 empleados · Servicios y consultoría de TI
 3770507930,Machine Learning Engineer,O Group,"· Nueva York, NY",200.000 $/año - 250.000 $/año,Híbrido,Jornada completa,Intermedio,Entre 1 y 10 empleados · Dotación y selección de personal
-3770674376,Machine Learning Engineer,Selby Jennings,"· Austin y alrededores, Texas",200.000 $/año - 250.000 $/año,Híbrido,Jornada completa,Intermedio,De 1.001 a 5.000 empleados · Servicios y consultoría de TI
-3770678485,Data Bricks developer - ONSITE,Pulivarthi Group (PG),"· West Springfield, MA",200.000 $/año - 250.000 $/año,Híbrido,Jornada completa,Intermedio,De 51 a 200 empleados · Dotación y selección de personal
-3770685212,Data Engineer  - Need candidates from Texas ( REMOTE ),Pulivarthi Group (PG),· Estados Unidos,200.000 $/año - 250.000 $/año,Híbrido,Jornada completa,Intermedio,De 51 a 200 empleados · Dotación y selección de personal
-3770714218,Data Scientist Intern,ascena,"· Pataskala, OH",200.000 $/año - 250.000 $/año,Híbrido,Jornada completa,Intermedio,Más de 10.001 empleados · Comercio al por menor
-3770728439,Data Scientist,American Credit Acceptance,"· Spartanburg, SC",200.000 $/año - 250.000 $/año,Híbrido,Jornada completa,Intermedio,De 1.001 a 5.000 empleados · Servicios financieros
-3770760490,Senior Data Engineer,Nike,"· Beaverton, OR",200.000 $/año - 250.000 $/año,Híbrido,Jornada completa,Intermedio,Más de 10.001 empleados · Comercio al por menor
-3770783880,"Staff Credit Strategy Analyst, Data Scientist",SoFi,"· Jacksonville, FL",200.000 $/año - 250.000 $/año,Híbrido,Jornada completa,Intermedio,De 1.001 a 5.000 empleados · Servicios financieros
-3770783936,"Staff Credit Strategy Analyst, Data Scientist",SoFi,"· Cottonwood Heights, UT",200.000 $/año - 250.000 $/año,Híbrido,Jornada completa,Intermedio,De 1.001 a 5.000 empleados · Servicios financieros
-3770785618,"Staff Credit Strategy Analyst, Data Scientist",SoFi,"· San Francisco, CA",200.000 $/año - 250.000 $/año,Híbrido,Jornada completa,Intermedio,De 1.001 a 5.000 empleados · Servicios financieros
-3770786405,"Staff Credit Strategy Analyst, Data Scientist",SoFi,"· Claymont, DE",200.000 $/año - 250.000 $/año,Híbrido,Jornada completa,Intermedio,De 1.001 a 5.000 empleados · Servicios financieros
-3770787374,Junior Data Analyst,QinetiQ US,"· Washington, DC",200.000 $/año - 250.000 $/año,Híbrido,Jornada completa,Intermedio,De 1.001 a 5.000 empleados · Fabricación de productos de defensa y espacio
-3770799777,Data Engineer (Hybrid) - Python/Java/Kibana/ElasticSearch/JSON/Kafka,Captivation,"· Columbia, MD",200.000 $/año - 250.000 $/año,Híbrido,Jornada completa,Intermedio,De 11 a 50 empleados · Desarrollo de software
-3770800728,Data Analyst,Parallax,"· Mineápolis, MN",200.000 $/año - 250.000 $/año,Híbrido,Jornada completa,Intermedio,De 11 a 50 empleados · Desarrollo de software
+3770618229,Data Science Intern (Summer 2024),DriveTime,"· Dallas, TX",,,Media jornada,Algo de responsabilidad,De 1.001 a 5.000 empleados · Comercio al por menor
+3770674376,Machine Learning Engineer,Selby Jennings,"· Austin y alrededores, Texas",,,Media jornada,Algo de responsabilidad,De 1.001 a 5.000 empleados · Servicios y consultoría de TI
+3770678485,Data Bricks developer - ONSITE,Pulivarthi Group (PG),"· West Springfield, MA",,,Media jornada,Algo de responsabilidad,De 51 a 200 empleados · Dotación y selección de personal
+3770685212,Data Engineer  - Need candidates from Texas ( REMOTE ),Pulivarthi Group (PG),· Estados Unidos,,,Media jornada,Algo de responsabilidad,De 51 a 200 empleados · Dotación y selección de personal
+3770714218,Data Scientist Intern,ascena,"· Pataskala, OH",,,Media jornada,Algo de responsabilidad,Más de 10.001 empleados · Comercio al por menor
+3770728439,Data Scientist,American Credit Acceptance,"· Spartanburg, SC",,,Media jornada,Algo de responsabilidad,De 1.001 a 5.000 empleados · Servicios financieros
+3770760490,Senior Data Engineer,Nike,"· Beaverton, OR",,,Media jornada,Algo de responsabilidad,Más de 10.001 empleados · Comercio al por menor
+3770783880,"Staff Credit Strategy Analyst, Data Scientist",SoFi,"· Jacksonville, FL",,,Media jornada,Algo de responsabilidad,De 1.001 a 5.000 empleados · Servicios financieros
+3770783936,"Staff Credit Strategy Analyst, Data Scientist",SoFi,"· Cottonwood Heights, UT",,,Media jornada,Algo de responsabilidad,De 1.001 a 5.000 empleados · Servicios financieros
+3770785618,"Staff Credit Strategy Analyst, Data Scientist",SoFi,"· San Francisco, CA",,,Media jornada,Algo de responsabilidad,De 1.001 a 5.000 empleados · Servicios financieros
+3770786405,"Staff Credit Strategy Analyst, Data Scientist",SoFi,"· Claymont, DE",,,Media jornada,Algo de responsabilidad,De 1.001 a 5.000 empleados · Servicios financieros
+3770787374,Junior Data Analyst,QinetiQ US,"· Washington, DC",,,Media jornada,Algo de responsabilidad,De 1.001 a 5.000 empleados · Fabricación de productos de defensa y espacio
+3770799777,Data Engineer (Hybrid) - Python/Java/Kibana/ElasticSearch/JSON/Kafka,Captivation,"· Columbia, MD",,,Media jornada,Algo de responsabilidad,De 11 a 50 empleados · Desarrollo de software
+3770800728,Data Analyst,Parallax,"· Mineápolis, MN",,,Media jornada,Algo de responsabilidad,De 11 a 50 empleados · Desarrollo de software
 3770812581,Applied Machine Learning Engineer,Harnham,"· Houston, TX",180.000 $/año - 195.000 $/año,Híbrido,Jornada completa,Intermedio,De 201 a 500 empleados · Dotación y selección de personal
-3770870077,Deep Learning Engineer,Stealth Startup,· Estados Unidos,180.000 $/año - 195.000 $/año,Híbrido,Jornada completa,Intermedio,"De 11 a 50 empleados · Tecnología, información e internet"
-3771070496,Junior Data Analyst,Addiox Technologies LLC,· Washington DC-Baltimore y alrededores,180.000 $/año - 195.000 $/año,Híbrido,Jornada completa,Intermedio,De 501 a 1.000 empleados · Servicios y consultoría de TI
+3770812658,REMOTE - Summer Internship 2024 - Data Analytics - R6846,CareSource,· Estados Unidos,33.200 $/año - 53.000 $/año,En remoto,Jornada completa,Prácticas,De 1.001 a 5.000 empleados · Seguros
+3770870077,Deep Learning Engineer,Stealth Startup,· Estados Unidos,33.200 $/año - 53.000 $/año,En remoto,Jornada completa,Prácticas,"De 11 a 50 empleados · Tecnología, información e internet"
+3771014837,Intern - Data & Analytics,ICE,· Jacksonville y alrededores,33.200 $/año - 53.000 $/año,En remoto,Jornada completa,Prácticas,De 5.001 a 10.000 empleados · Servicios financieros
+3771070496,Junior Data Analyst,Addiox Technologies LLC,· Washington DC-Baltimore y alrededores,33.200 $/año - 53.000 $/año,En remoto,Jornada completa,Prácticas,De 501 a 1.000 empleados · Servicios y consultoría de TI
 3771194111,Product Analyst,Warner Bros. Discovery,"· Nueva York, Estados Unidos",70.000 $/año - 130.000 $/año,En remotoCoincide con tus preferencias de empleo. La modalidad laboral es En remoto.,Jornada completaCoincide con tus preferencias de empleo. El tipo de empleo es Jornada completa.,Intermedio,Más de 10.001 empleados · Proveedores de entretenimiento
 3771200452,Data Scientist,Engage Partners Inc.,· Estados Unidos,70.000 $/año - 130.000 $/año,En remotoCoincide con tus preferencias de empleo. La modalidad laboral es En remoto.,Jornada completaCoincide con tus preferencias de empleo. El tipo de empleo es Jornada completa.,Intermedio,De 51 a 200 empleados · Dotación y selección de personal
-3771328759,Data Engineer,REALLY,"· Austin, TX",70.000 $/año - 130.000 $/año,En remotoCoincide con tus preferencias de empleo. La modalidad laboral es En remoto.,Jornada completaCoincide con tus preferencias de empleo. El tipo de empleo es Jornada completa.,Intermedio,De 11 a 50 empleados · Telecomunicaciones
+3771207957,"IT Intern, Summer 2024 - Data Scientist Job",PACCAR,"· Renton, WA",25 $/h - 30 $/h,Presencial,Jornada completa,Prácticas,Más de 10.001 empleados · Fabricación de vehículos de motor
+3771328759,Data Engineer,REALLY,"· Austin, TX",25 $/h - 30 $/h,Presencial,Jornada completa,Prácticas,De 11 a 50 empleados · Telecomunicaciones
 3771376569,Data Engineer,Jenni Kayne,"· Los Ángeles, CA",120.000 $/año - 165.000 $/año,Híbrido,Jornada completa,Sin experiencia,De 11 a 50 empleados · Comercio al por menor
 3771399424,Junior Software Engineer - Top 25 Computer Science Degree,Simplex,"· Austin, TX",120.000 $/año - 165.000 $/año,Híbrido,Jornada completa,Sin experiencia,De 51 a 200 empleados · Construcción
 3771446248,Junior Data Analyst,Robert Half,"· Área metropolitana de Minneapolis-Saint Paul, WI",65.000 $/año - 72.000 $/año,Presencial,Jornada completa,Sin experiencia,Más de 10.001 empleados · Dotación y selección de personal
@@ -409,14 +443,25 @@ job_id,job_title,company_name,company_state,salary_range,remote_ratio,employment
 3771478005,"Staff Data Scientist, Strategy & Insights",LinkedIn,"· Sunnyvale, CA",65.000 $/año - 72.000 $/año,Presencial,Jornada completa,Sin experiencia,Más de 10.001 empleados · Desarrollo de software
 3771503379,Data Analyst,"Business Plan Solutions, LLC","· San Antonio, TX",65.000 $/año - 72.000 $/año,Presencial,Jornada completa,Sin experiencia,De 11 a 50 empleados · Servicios y consultoría de TI
 3771514066,Quality Control Analyst,"Carolina Poly, Inc.","· Chester, SC",65.000 $/año - 72.000 $/año,Presencial,Jornada completa,Sin experiencia,Fabricación de productos de plástico
+3771518470,Data Analysis Intern,Sunbird Software,"· Sioux Falls, SD",,,Prácticas,Prácticas,De 51 a 200 empleados · Servicios y consultoría de TI
+3771558712,Data Analyst,Ascendo Resources,"· Fort Lauderdale, FL","113.006,40 $/año - 141.793,59 $/año",Presencial,Jornada completa,Intermedio,De 201 a 500 empleados · Dotación y selección de personal
 3771636398,Junior Data Scientist,Concero,· St. Louis y alrededores,90.000 $/yr,Presencial,Jornada completa,Intermedio,De 51 a 200 empleados · Dotación y selección de personal
 3771757883,Volunteer: Data Visualization,The 1947 Partition Archive,"· Berkeley, CA",90.000 $/yr,Presencial,Jornada completa,Intermedio,"De 51 a 200 empleados · Museos, sitios históricos y zoológicos"
 3771782000,Senior Growth Product Manager,Wild Alaskan Company,· Estados Unidos,130.000 $/año - 180.000 $/año,En remoto,Jornada completa,Intermedio,De 51 a 200 empleados · Servicios de alimentos y bebidas
 3771831960,RESEARCH ANALYST,Duke University,"· Durham, NC",130.000 $/año - 180.000 $/año,En remoto,Jornada completa,Intermedio,Más de 10.001 empleados · Enseñanza superior
 3771908283,Head of Data (remote),Verve Group,"· Nueva York, Estados Unidos",275.000 $/año - 425.000 $/año,En remoto,Jornada completa,Director,De 201 a 500 empleados · Servicios de publicidad
 3772071354,Machine Learning Engineer,Presage Technologies,"· San Francisco, CA",275.000 $/año - 425.000 $/año,En remoto,Jornada completa,Director,De 11 a 50 empleados · Desarrollo de software
-3772218297,Machine Learning Engineer,AllSTEM Connections,"· San Diego, CA",275.000 $/año - 425.000 $/año,En remoto,Jornada completa,Director,De 501 a 1.000 empleados · Dotación y selección de personal
-3772460738,Data Scientist,E-Frontiers,"· Nueva York, NY",275.000 $/año - 425.000 $/año,En remoto,Jornada completa,Director,De 11 a 50 empleados · Dotación y selección de personal
+3772200443,Senior Data Analyst,MATRIX Resources,"· Nueva York, NY",76 $/h - 82 $/h,Híbrido,Contrato por obra,Intermedio,Entre 1 y 10 empleados · Servicios y consultoría de TI
+3772207662,Data Scientist,Russell Tobin,"· Cupertino, CA",55 $/h - 58 $/h,Presencial,Contrato por obra,Sin experiencia,De 201 a 500 empleados · Dotación y selección de personal
+3772209089,Staff Data Scientist,Walmart,"· Dallas, TX",55 $/h - 58 $/h,Presencial,Contrato por obra,Sin experiencia,Más de 10.001 empleados · Comercio al por menor
+3772209411,Data Engineer with Power BI,InvestM Technology LLC,"· Nueva York, NY",55 $/h - 58 $/h,Presencial,Contrato por obra,Sin experiencia,De 11 a 50 empleados · Servicios y consultoría de TI
+3772213041,Data Engineer - need 10 years,VHL Technologies Inc,"· Chicago, IL",55 $/h - 58 $/h,Presencial,Contrato por obra,Sin experiencia,De 51 a 200 empleados
+3772218297,Machine Learning Engineer,AllSTEM Connections,"· San Diego, CA",55 $/h - 58 $/h,Presencial,Contrato por obra,Sin experiencia,De 501 a 1.000 empleados · Dotación y selección de personal
+3772218751,Lead Data Engineer,Smart IT Frame LLC,· Estados Unidos,55 $/h - 58 $/h,Presencial,Contrato por obra,Sin experiencia,De 501 a 1.000 empleados · Desarrollo de software
+3772219203,Product Manager – Fairness Benchmarking,MacroHealth,· Estados Unidos,170.000 $/año - 199.000 $/año,En remoto,Jornada completa,Intermedio,De 51 a 200 empleados · Desarrollo de software
+3772219353,SnowFlake Data Engineer / Architect @ Remote (All Over USA),Smart IT Frame LLC,· Estados Unidos,170.000 $/año - 199.000 $/año,En remoto,Jornada completa,Intermedio,De 501 a 1.000 empleados · Desarrollo de software
+3772235483,"AI Research Engineer, Multiple Levels",Lawrence Harvey,"· Nueva York, Estados Unidos",170.000 $/año - 199.000 $/año,En remoto,Jornada completa,Intermedio,De 51 a 200 empleados · Dotación y selección de personal
+3772460738,Data Scientist,E-Frontiers,"· Nueva York, NY",170.000 $/año - 199.000 $/año,En remoto,Jornada completa,Intermedio,De 11 a 50 empleados · Dotación y selección de personal
 3772495547,Senior Deep Learning Engineer,Metric Search,· San Francisco y alrededores,170.000 $/año - 200.000 $/año,Presencial,Jornada completa,Algo de responsabilidad,De 51 a 200 empleados · Dotación y selección de personal
 3772653655,Growth Hacking Consultant - Instagram/Tiktok,Synapse,· Estados Unidos,170.000 $/año - 200.000 $/año,Presencial,Jornada completa,Algo de responsabilidad,De 11 a 50 empleados · Dotación y selección de personal
 3772664388,Data Engineer,Crew,"· Mineápolis, MN",50.000 $/año - 85.000 $/año,Híbrido,Contrato por obra,Sin experiencia,De 1.001 a 5.000 empleados · Consultoría y servicios a empresas
@@ -550,7 +595,8 @@ job_id,job_title,company_name,company_state,salary_range,remote_ratio,employment
 3776106564,Machine Learning Engineer,maven,· Chicago y alrededores,198.200 $/año - 297.300 $/año,En remoto,Jornada completa,Sin experiencia,De 11 a 50 empleados · Dotación y selección de personal
 3776135093,Machine Learning Engineer,Optimal EV,"· Warren, MI",198.200 $/año - 297.300 $/año,En remoto,Jornada completa,Sin experiencia,De 201 a 500 empleados · Fabricación de vehículos de motor
 3776139205,Staff Machine Learning Engineer,Sourcegraph,· Estados Unidos,244.000 $/yr,En remoto,Jornada completa,Intermedio,De 51 a 200 empleados · Desarrollo de software
-3776278514,Research Engineer – AI/ML Design for Manufacturing,"UES, An Eqlipse Company","· Dayton, OH",244.000 $/yr,En remoto,Jornada completa,Intermedio,De 501 a 1.000 empleados · Servicios de investigación
+3776194615,"Elevance Health, Business Analyst Internship - Summer 2024, Undergraduate - Application via WayUp",WayUp,"· Chicago, IL",,Presencial,Prácticas,Prácticas,"De 51 a 200 empleados · Tecnología, información e internet"
+3776278514,Research Engineer – AI/ML Design for Manufacturing,"UES, An Eqlipse Company","· Dayton, OH",,Presencial,Prácticas,Prácticas,De 501 a 1.000 empleados · Servicios de investigación
 3776454433,Junior Data Analyst Apprentice,Evergreen Trading,"· Nueva York, NY",45.000 $/yr,Híbrido,Prácticas,Prácticas,De 51 a 200 empleados · Servicios financieros
 3776478425,Data Analyst,IMS Consulting & Expert Services,· Estados Unidos,45.000 $/yr,Híbrido,Prácticas,Prácticas,De 51 a 200 empleados · Servicios jurídicos
 3776483395,Artificial intelligence Architecture(Fully Remote),Dice,· Estados Unidos,45.000 $/yr,Híbrido,Prácticas,Prácticas,"De 1.001 a 5.000 empleados · Tecnología, información e internet"
@@ -589,9 +635,18 @@ job_id,job_title,company_name,company_state,salary_range,remote_ratio,employment
 3776793170,Junior Data Scientist,Dice,"· O'Fallon, MO",140.000 $/año - 180.000 $/año,En remoto,Jornada completa,Intermedio,"De 1.001 a 5.000 empleados · Tecnología, información e internet"
 3776793228,Data Engineer,Dice,"· Phoenix, AZ",140.000 $/año - 180.000 $/año,En remoto,Jornada completa,Intermedio,"De 1.001 a 5.000 empleados · Tecnología, información e internet"
 3776795942,Data Engineer,UNCOMN,"· Scott AFB, IL",140.000 $/año - 180.000 $/año,En remoto,Jornada completa,Intermedio,De 201 a 500 empleados · Consultoría y servicios a empresas
+3776903158,Data Engineer,LeadStack Inc.,"· Cincinnati, OH",60 $/h - 70 $/h,Híbrido,Contrato por obra,Intermedio,De 51 a 200 empleados · Dotación y selección de personal
 3776946154,Data Engineer,hackajob,· Estados Unidos,100.000 $/año - 140.000 $/año,En remoto,Jornada completa,Intermedio,De 51 a 200 empleados · Desarrollo de software
 3776946189,Machine Learning Engineer,Marathon TS,· Estados Unidos,100.000 $/año - 140.000 $/año,En remoto,Jornada completa,Intermedio,De 51 a 200 empleados · Servicios y tecnologías de la información
+3776946631,Data Analyst,Compunnel Inc.,"· Quincy, MA",100.000 $/año - 140.000 $/año,En remoto,Jornada completa,Intermedio,De 1.001 a 5.000 empleados · Servicios y consultoría de TI
+3776948509,Data Scientist,HustleWing - Side hustles for professionals,· Estados Unidos,,En remoto,Media jornada,Algo de responsabilidad,Entre 1 y 10 empleados · Desarrollo de software
+3776952405,Senior Data Scientist,Forsyth Barnes,· Estados Unidos,,En remoto,Media jornada,Algo de responsabilidad,De 51 a 200 empleados · Dotación y selección de personal
 3776959263,Data Science Training & Internship,OESON,· Estados Unidos,,En remoto,Prácticas,Prácticas,De 11 a 50 empleados · Servicios y consultoría de TI
+3776964034,Data Analyst,Webologix Ltd/ INC,"· San Francisco, CA",,En remoto,Prácticas,Prácticas,De 51 a 200 empleados · Dotación y selección de personal
+3776969904,Data Engineer,Webologix Ltd/ INC,"· San Francisco, CA",,En remoto,Prácticas,Prácticas,De 51 a 200 empleados · Dotación y selección de personal
 3776973020,Machine Learning Engineer,Trident Consulting,"· Austin, TX",,En remoto,Prácticas,Prácticas,De 51 a 200 empleados · Servicios y consultoría de TI
 3776998906,Artificial Intelligence Engineer,Cygnus Professionals Inc.,· Estados Unidos,,En remoto,Prácticas,Prácticas,De 501 a 1.000 empleados · Servicios y tecnologías de la información
+3777104668,AWS Data Engineer,Macrosoft,"· Parsippany, NJ",60 $/h - 75 $/h,Híbrido,Contrato por obra,Intermedio,De 201 a 500 empleados · Desarrollo de software
 3777105024,"Machine Learning Engineer, Planning",Plus,"· Santa Clara, CA",125.000 $/año - 185.000 $/año,Híbrido,Jornada completa,Sin experiencia,"De 201 a 500 empleados · Tecnología, información e internet"
+3777443375,"Product Management Intern, AV - Summer 2024",NVIDIA,"· California, Estados Unidos",125.000 $/año - 185.000 $/año,Híbrido,Jornada completa,Sin experiencia,Más de 10.001 empleados · Fabricación de equipos informáticos
+3777446754,Sr. Data Scientist,Pinterest,· Estados Unidos,125.000 $/año - 185.000 $/año,Híbrido,Jornada completa,Sin experiencia,"De 1.001 a 5.000 empleados · Tecnología, información e internet"

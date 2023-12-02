@@ -1,4 +1,4 @@
-job_id,job_title,company_name,company_state,salary_range,remote_ratio,employment_type,experience_level,company_size
+job_id,job_title,company_name,company_state,salary,remote_ratio,employment_type,experience_level,company_size
 3313895534,Machine Learning Engineer,CyberCoders,NC,175000.0,Presencial,Jornada completa,Intermedio,L
 3449519309,Machine Learning Engineer,BenchPoint,Estados Unidos,175000.0,Presencial,Jornada completa,Intermedio,S
 3518386782,Deep Learning Engineer,Skydio,CA,175000.0,Presencial,Jornada completa,Intermedio,L
@@ -34,7 +34,6 @@ job_id,job_title,company_name,company_state,salary_range,remote_ratio,employment
 3710141452,Data Analyst,RVO Health,NC,70000.0,En remoto,Jornada completa,Intermedio,L
 3711696827,Data Scientist,The Lubrizol Corporation,OH,70000.0,En remoto,Jornada completa,Intermedio,L
 3712102129,Data Scientist,The Lubrizol Corporation,OH,70000.0,En remoto,Jornada completa,Intermedio,L
-3713995239,Data Analyst,Delta Air Lines,GA,,Presencial,Prácticas,Intermedio,L
 3719230993,Machine Learning Engineer,Rokt,NY,350000.0,Híbrido,Jornada completa,Intermedio,L
 3719603725,Machine Learning Engineer,Industrial Next,CA,230000.0,Presencial,Jornada completa,Sin experiencia,M
 3726376216,Data Scientist,Kiewit,NE,230000.0,Presencial,Jornada completa,Sin experiencia,L
@@ -56,7 +55,6 @@ job_id,job_title,company_name,company_state,salary_range,remote_ratio,employment
 3739504870,Data Scientist,Alphatec Spine,CA,288612.0,Presencial,Jornada completa,Sin experiencia,L
 3740463525,Data Scientist,Centific,WA,265000.0,Presencial,Jornada completa,Intermedio,L
 3740932460,Data Analyst,Molina Healthcare,WI,38400.0,En remoto,Jornada completa,Prácticas,L
-3740964793,Data Scientist,Copart,TX,,Presencial,Prácticas,Prácticas,L
 3741372441,Machine Learning Engineer,PubMatic,CA,242500.0,Híbrido,Jornada completa,Intermedio,L
 3742232441,Data Analyst,Clindata Insight Inc,Estados Unidos,242500.0,Híbrido,Jornada completa,Intermedio,M
 3742256840,Data Analyst,Olympus Corporation of the Americas,PA,113453.0,Híbrido,Jornada completa,Intermedio,L
@@ -89,22 +87,11 @@ job_id,job_title,company_name,company_state,salary_range,remote_ratio,employment
 3752496774,Machine Learning Engineer,First Soft Solutions LLC,TX,190500.0,Híbrido,Jornada completa,Sin experiencia,M
 3752865669,Data Scientist,Cypress HCM,Estados Unidos,154560.0,En remoto,Contrato por obra,Intermedio,M
 3752871763,Machine Learning Engineer,Red Oak Technologies,TX,154560.0,En remoto,Contrato por obra,Intermedio,L
-3752872433,Data Scientist,Copart,TX,,Híbrido,Prácticas,Prácticas,L
-3753015172,Data Engineer,ARA,VA,,Híbrido,Prácticas,Prácticas,L
-3753408170,Deep Learning Engineer,NVIDIA,CA,,Híbrido,Prácticas,Prácticas,L
-3754419732,Data Scientist,AMISEQ,CA,,Híbrido,Prácticas,Prácticas,M
-3755005401,Data Engineer,Get It Recruit - Real Estate,VA,,Híbrido,Prácticas,Prácticas,S
-3755033312,Machine Learning Engineer,Tiposi,CA,,Híbrido,Prácticas,Prácticas,M
-3755047295,Data Analyst,Ledgent Technology,FL,,Híbrido,Prácticas,Prácticas,L
-3755065806,Data Engineer,Hewlett Packard Enterprise,CA,,Híbrido,Prácticas,Prácticas,L
-3755116125,Data Scientist,INSIGHT2PROFIT,IL,,Híbrido,Prácticas,Prácticas,L
 3755296290,Machine Learning Engineer,UST,Estados Unidos,205000.0,En remoto,Jornada completa,Intermedio,L
 3755427585,Machine Learning Engineer,hackajob,CA,205000.0,En remoto,Jornada completa,Intermedio,M
 3755527654,Data Engineer,Steneral Consulting,MN,205000.0,En remoto,Jornada completa,Intermedio,M
 3755579686,Machine Learning Engineer,EquipmentShare,KS,205000.0,En remoto,Jornada completa,Intermedio,L
 3756027924,Data Engineer,innoVet Health (SDVOSB),Estados Unidos,205000.0,En remoto,Jornada completa,Intermedio,M
-3756052821,Data Scientist,Copart,TX,,,Prácticas,Prácticas,L
-3756057160,Machine Learning Engineer,Non-Disclosed,NY,,Presencial,Jornada completa,Director,
 3756135992,Data Scientist,Adobe,CA,120000.0,Híbrido,Prácticas,Prácticas,L
 3756138519,Machine Learning Engineer,NOMA AI,Estados Unidos,120000.0,Híbrido,Prácticas,Prácticas,S
 3756142077,Data Scientist,Adobe,CA,120000.0,Híbrido,Prácticas,Prácticas,L
@@ -140,7 +127,6 @@ job_id,job_title,company_name,company_state,salary_range,remote_ratio,employment
 3759348748,Data Engineer,TekSalt Solutions,MN,250000.0,Híbrido,Jornada completa,Intermedio,M
 3759374206,Machine Learning Engineer,Adobe,CA,250000.0,Híbrido,Jornada completa,Intermedio,L
 3759423596,Data Scientist,SoFi,UT,250000.0,Híbrido,Jornada completa,Intermedio,L
-3759515210,Data Engineer,People Tech Group Inc,MI,,Presencial,Prácticas,Prácticas,L
 3759719867,Machine Learning Engineer,Akkodis,MI,180480.0,Presencial,Contrato por obra,Intermedio,L
 3759796905,Machine Learning Engineer,Walmart,CA,265000.0,Híbrido,Jornada completa,Intermedio,L
 3759962208,Machine Learning Engineer,EVONA,CA,265000.0,Híbrido,Jornada completa,Intermedio,M
@@ -217,11 +203,6 @@ job_id,job_title,company_name,company_state,salary_range,remote_ratio,employment
 3764639688,Data Analyst,Wimmer Solutions,WA,96960.0,Presencial,Contrato por obra,Intermedio,L
 3764675617,Data Scientist,Eli Lilly and Company,IN,96960.0,Presencial,Contrato por obra,Intermedio,L
 3764678740,Data Engineer,"Hydrow, Inc.",MA,96960.0,Presencial,Contrato por obra,Intermedio,M
-3764684840,Data Scientist,Ancestry,UT,,Presencial,Prácticas,Prácticas,L
-3764690025,Machine Learning Engineer,Ancestry,UT,,Presencial,Prácticas,Prácticas,L
-3764752491,Machine Learning Engineer,Ancestry,UT,,Presencial,Prácticas,Prácticas,L
-3764783034,Data Engineer,MindPal,UT,,Presencial,Prácticas,Prácticas,M
-3764783040,Data Engineer,MindPal,AZ,,Presencial,Prácticas,Prácticas,M
 3764827498,Data Analyst,HP,WA,77760.0,Híbrido,Jornada completa,Prácticas,L
 3764900960,Data Engineer,TikTok,WA,77760.0,Híbrido,Jornada completa,Prácticas,L
 3764903612,Data Engineer,TikTok,CA,77760.0,Híbrido,Jornada completa,Prácticas,L
@@ -231,9 +212,6 @@ job_id,job_title,company_name,company_state,salary_range,remote_ratio,employment
 3765083210,Data Engineer,HireKeyz Inc,TX,77760.0,Híbrido,Jornada completa,Prácticas,M
 3765095791,Data Analyst,SynergisticIT,KY,135000.0,En remoto,Jornada completa,Sin experiencia,L
 3765207014,Data Engineer,Probar Premium gratis,NY,135000.0,En remoto,Jornada completa,Sin experiencia,
-3765320598,Data Engineer,SMX,VA,,Presencial,Prácticas,Prácticas,L
-3765346803,Data Analyst,Conexess Group,MO,,Presencial,Prácticas,Prácticas,M
-3765377389,Data Analyst,National Life Group,VT,,Presencial,Prácticas,Prácticas,L
 3765388640,Machine Learning Engineer,ASICSoft,NY,350000.0,Híbrido,Jornada completa,Intermedio,M
 3765439827,Data Scientist,Medix Technology,Estados Unidos,220800.0,En remoto,Contrato por obra,Intermedio,L
 3765441997,Machine Learning Engineer,ASK Consulting,WA,220800.0,En remoto,Contrato por obra,Intermedio,L
@@ -249,17 +227,8 @@ job_id,job_title,company_name,company_state,salary_range,remote_ratio,employment
 3766061073,Data Scientist,Hunter Bond,TX,140000.0,Híbrido,Jornada completa,Intermedio,M
 3766084880,Machine Learning Engineer,TechOne Search,NY,500000.0,Híbrido,Jornada completa,Intermedio,S
 3766124706,Machine Learning Engineer,Apollo Solutions,NY,295000.0,En remoto,Jornada completa,Intermedio,M
-3766280936,Business Analyst,Get It Recruit - Finance,CA,,En remoto,Prácticas,Prácticas,S
-3766307070,Data Engineer,Tier4 Group,UT,,En remoto,Prácticas,Prácticas,M
-3766329541,Data Engineer,Micron Technology,ID,,En remoto,Prácticas,Prácticas,M
 3766365256,Data Analyst,Linksys,CA,49920.0,Híbrido,Prácticas,Prácticas,L
 3766632486,Data Analyst,The Walt Disney Company,FL,49920.0,Híbrido,Prácticas,Prácticas,L
-3766662568,Data Engineer,Accroid Inc,MN,,Híbrido,Media jornada,Prácticas,M
-3766669042,Data Analyst,"Astir IT Solutions, Inc.",Estados Unidos,,Híbrido,Media jornada,Prácticas,L
-3766682212,Data Engineer,DeRisk Technologies,WA,,Híbrido,Media jornada,Prácticas,L
-3766684315,Data Engineer,DeRisk Technologies,CA,,Híbrido,Media jornada,Prácticas,L
-3766684640,Data Engineer,DeRisk Technologies,MO,,Híbrido,Media jornada,Prácticas,L
-3766685481,Data Engineer,DeRisk Technologies,OR,,Híbrido,Media jornada,Prácticas,L
 3766728302,Data Engineer,Otter Products,CO,150000.0,En remoto,Jornada completa,Sin experiencia,L
 3766786357,Business Analyst,Wayfair,MA,150000.0,En remoto,Jornada completa,Sin experiencia,L
 3766802812,Data Analyst,WinMax,CA,175680.0,Presencial,Contrato por obra,Algo de responsabilidad,M
@@ -267,8 +236,6 @@ job_id,job_title,company_name,company_state,salary_range,remote_ratio,employment
 3766847287,Data Analyst,SynergisticIT,KS,138000.0,En remoto,Jornada completa,Sin experiencia,L
 3766858646,Machine Learning Engineer,Durlston Partners,NY,425000.0,Presencial,Jornada completa,Director,M
 3766873021,Machine Learning Engineer,Path Robotics,OH,425000.0,Presencial,Jornada completa,Director,L
-3766876251,Data Analyst,Spectrum,MO,,,Prácticas,Prácticas,L
-3766891845,Data Analyst,Ad hoc Research,MD,,,Prácticas,Prácticas,M
 3766971083,Data Analyst,Catapult Solutions Group,TX,157500.0,Presencial,Jornada completa,Algo de responsabilidad,L
 3766990842,Machine Learning Engineer,Talener,IL,215000.0,En remoto,Jornada completa,Algo de responsabilidad,M
 3767004978,Data Analyst,"IDR, Inc.",TN,215000.0,En remoto,Jornada completa,Algo de responsabilidad,L
@@ -286,17 +253,10 @@ job_id,job_title,company_name,company_state,salary_range,remote_ratio,employment
 3767591640,Data Analyst,SynergisticIT,NJ,139200.0,Presencial,Prácticas,Prácticas,L
 3767595033,Data Analyst,SynergisticIT,IL,139200.0,Presencial,Prácticas,Prácticas,L
 3767598563,Data Analyst,SynergisticIT,CA,139200.0,Presencial,Prácticas,Prácticas,L
-3767871219,Data Scientist,Braintrust,Estados Unidos,,En remoto,Media jornada,Sin experiencia,M
-3767904243,Data Engineer,Order.co,NY,,En remoto,Media jornada,Sin experiencia,M
-3767969813,Machine Learning Engineer,Durlston Partners,NY,,En remoto,Media jornada,Sin experiencia,M
-3767972490,Deep Learning Engineer,Stealth,Estados Unidos,,En remoto,Media jornada,Sin experiencia,S
-3768034086,Data Analyst,Skiltrek,CA,,En remoto,Media jornada,Sin experiencia,M
 3768041195,Data Engineer,eTeam,NC,148800.0,Presencial,Contrato por obra,Sin experiencia,L
 3768140145,Machine Learning Engineer,X4 Technology,TX,250000.0,Híbrido,Jornada completa,Intermedio,M
 3768173336,Data Analyst,"Digital Enterprise Solutions, Inc. (DESI)",MD,250000.0,Híbrido,Jornada completa,Intermedio,M
 3768244361,Data Engineer,XCUTIVES Inc.,FL,250000.0,Híbrido,Jornada completa,Intermedio,M
-3768300248,Data Analyst,Accroid Inc,VA,,Presencial,Prácticas,Prácticas,M
-3768308901,Data Analyst,FundamentalVR,OH,,Presencial,Prácticas,Prácticas,M
 3768359563,Data Scientist,Inceed,OK,107500.0,Presencial,Jornada completa,Sin experiencia,M
 3768429642,Data Scientist,Selby Jennings,OH,107500.0,Presencial,Jornada completa,Sin experiencia,L
 3768683365,AI Engineer,KLA,CA,48000.0,Híbrido,Prácticas,Prácticas,L
@@ -359,18 +319,6 @@ job_id,job_title,company_name,company_state,salary_range,remote_ratio,employment
 3770443557,Machine Learning Engineer,TDA,NY,185000.0,Híbrido,Jornada completa,Intermedio,M
 3770505264,Data Analyst,SBS Creatix,MO,185000.0,Híbrido,Jornada completa,Intermedio,M
 3770507930,Machine Learning Engineer,O Group,NY,325000.0,Híbrido,Jornada completa,Intermedio,S
-3770674376,Machine Learning Engineer,Selby Jennings,TX,,,Media jornada,Algo de responsabilidad,L
-3770685212,Data Engineer,Pulivarthi Group (PG),Estados Unidos,,,Media jornada,Algo de responsabilidad,M
-3770714218,Data Scientist,ascena,OH,,,Media jornada,Algo de responsabilidad,L
-3770728439,Data Scientist,American Credit Acceptance,SC,,,Media jornada,Algo de responsabilidad,L
-3770760490,Data Engineer,Nike,OR,,,Media jornada,Algo de responsabilidad,L
-3770783880,Data Scientist,SoFi,FL,,,Media jornada,Algo de responsabilidad,L
-3770783936,Data Scientist,SoFi,UT,,,Media jornada,Algo de responsabilidad,L
-3770785618,Data Scientist,SoFi,CA,,,Media jornada,Algo de responsabilidad,L
-3770786405,Data Scientist,SoFi,DE,,,Media jornada,Algo de responsabilidad,L
-3770787374,Data Analyst,QinetiQ US,WA,,,Media jornada,Algo de responsabilidad,L
-3770799777,Data Engineer,Captivation,MD,,,Media jornada,Algo de responsabilidad,M
-3770800728,Data Analyst,Parallax,MN,,,Media jornada,Algo de responsabilidad,M
 3770812581,Machine Learning Engineer,Harnham,TX,277500.0,Híbrido,Jornada completa,Intermedio,L
 3770870077,Deep Learning Engineer,Stealth Startup,Estados Unidos,59700.0,En remoto,Jornada completa,Prácticas,M
 3771070496,Data Analyst,Addiox Technologies LLC,WA,59700.0,En remoto,Jornada completa,Prácticas,L
@@ -382,7 +330,6 @@ job_id,job_title,company_name,company_state,salary_range,remote_ratio,employment
 3771454543,Machine Learning Engineer,Tiposi,CA,101000.0,Presencial,Jornada completa,Sin experiencia,M
 3771478005,Data Scientist,LinkedIn,CA,101000.0,Presencial,Jornada completa,Sin experiencia,L
 3771503379,Data Analyst,"Business Plan Solutions, LLC",TX,101000.0,Presencial,Jornada completa,Sin experiencia,M
-3771558712,Data Analyst,Ascendo Resources,FL,,Presencial,Jornada completa,Intermedio,L
 3771636398,Data Scientist,Concero,MO,90000.0,Presencial,Jornada completa,Intermedio,M
 3772071354,Machine Learning Engineer,Presage Technologies,CA,487500.0,En remoto,Jornada completa,Director,M
 3772200443,Data Analyst,MATRIX Resources,NY,224640.0,Híbrido,Contrato por obra,Intermedio,S
@@ -426,7 +373,6 @@ job_id,job_title,company_name,company_state,salary_range,remote_ratio,employment
 3773392703,Data Scientist,Charter Global,VA,235200.0,Híbrido,Contrato por obra,Intermedio,L
 3773397379,Data Scientist,Charter Global,VA,220800.0,En remoto,Contrato por obra,Intermedio,L
 3773397795,Data Analyst,Promise,VA,220800.0,En remoto,Contrato por obra,Intermedio,M
-3773408834,Data Analyst,Ecclesiastes Inc,DE,,Presencial,Media jornada,Sin experiencia,M
 3773701207,Data Engineer,New Era Technology,OH,211200.0,Presencial,Contrato por obra,Intermedio,L
 3773801014,Data Scientist,Sky Consulting Inc.,Estados Unidos,211200.0,Presencial,Contrato por obra,Intermedio,M
 3773802052,Data Analyst,Promise,CA,211200.0,Presencial,Contrato por obra,Intermedio,M
@@ -453,7 +399,6 @@ job_id,job_title,company_name,company_state,salary_range,remote_ratio,employment
 3774001137,Data Analyst,Centene Corporation,WA,207750.0,En remoto,Jornada completa,Sin experiencia,L
 3774001139,Data Analyst,Centene Corporation,TN,207750.0,En remoto,Jornada completa,Sin experiencia,L
 3774010984,Data Scientist,Brooksource,MO,147840.0,Híbrido,Contrato por obra,Algo de responsabilidad,L
-3774489128,Data Analyst,City of Corona,CA,,Presencial,Media jornada,Sin experiencia,L
 3774582167,Machine Learning Engineer,TransRe,NY,162500.0,Híbrido,Jornada completa,Algo de responsabilidad,L
 3774662625,Data Scientist,UST,WA,162500.0,Híbrido,Jornada completa,Algo de responsabilidad,L
 3774685566,Data Engineer,SnapX.ai,CA,162500.0,Híbrido,Jornada completa,Algo de responsabilidad,S
@@ -478,19 +423,11 @@ job_id,job_title,company_name,company_state,salary_range,remote_ratio,employment
 3775379184,Data Scientist,Jobot,VA,240000.0,Presencial,Jornada completa,Sin experiencia,L
 3775379314,Machine Learning Engineer,Jobot,CA,212500.0,Presencial,Jornada completa,Intermedio,L
 3775380277,Machine Learning Engineer,Jobot,IL,212500.0,Presencial,Jornada completa,Intermedio,L
-3775534052,Data Analyst,TELUS International,TN,,En remoto,Media jornada,Sin experiencia,L
-3775544447,Data Scientist,TechStar Group,WA,,En remoto,Media jornada,Sin experiencia,L
-3775558041,Data Analyst,Fountain,Estados Unidos,,En remoto,Media jornada,Sin experiencia,L
-3775569518,Data Analyst,MISUMI,IL,,En remoto,Media jornada,Sin experiencia,L
 3775571476,Data Scientist,BrickRed Systems,Estados Unidos,134400.0,En remoto,Contrato por obra,Intermedio,L
 3775580148,Data Analyst,"ISC (Integrated Specialty Coverages, LLC)",Estados Unidos,157500.0,En remoto,Jornada completa,Algo de responsabilidad,L
 3775610628,Data Engineer,Accenture,FL,157500.0,En remoto,Jornada completa,Algo de responsabilidad,L
 3775617153,Data Analyst,Facebook,NY,61440.0,En remoto,Contrato por obra,Sin experiencia,L
 3775623213,Data Analyst,Coders Data,TX,61440.0,En remoto,Contrato por obra,Sin experiencia,L
-3775633946,Data Scientist,HustleWing - Side hustles for professionals,Estados Unidos,,En remoto,Media jornada,Algo de responsabilidad,S
-3775644206,Data Analyst,Suffolk Construction,MA,,En remoto,Media jornada,Algo de responsabilidad,L
-3775646864,Data Engineer,Avenue Code,Estados Unidos,,En remoto,Media jornada,Algo de responsabilidad,L
-3775683819,Data Engineer,Ford Motor Company,Estados Unidos,,En remoto,Media jornada,Algo de responsabilidad,L
 3775694972,Data Scientist,Vertisystem,CA,230400.0,En remoto,Contrato por obra,Intermedio,L
 3775706545,Machine Learning Engineer,PRIMUS Global Technologies Pvt Ltd,Estados Unidos,230400.0,En remoto,Contrato por obra,Intermedio,L
 3775709388,Machine Learning Engineer,"Conch Technologies, Inc",AZ,230400.0,En remoto,Contrato por obra,Intermedio,M
@@ -511,8 +448,6 @@ job_id,job_title,company_name,company_state,salary_range,remote_ratio,employment
 3776106564,Machine Learning Engineer,maven,IL,346850.0,En remoto,Jornada completa,Sin experiencia,M
 3776135093,Machine Learning Engineer,Optimal EV,MI,346850.0,En remoto,Jornada completa,Sin experiencia,L
 3776139205,Machine Learning Engineer,Sourcegraph,Estados Unidos,244000.0,En remoto,Jornada completa,Intermedio,M
-3776194615,Business Analyst,WayUp,IL,,Presencial,Prácticas,Prácticas,M
-3776278514,Machine Learning Engineer,"UES, An Eqlipse Company",OH,,Presencial,Prácticas,Prácticas,L
 3776454433,Data Analyst,Evergreen Trading,NY,45000.0,Híbrido,Prácticas,Prácticas,M
 3776478425,Data Analyst,IMS Consulting & Expert Services,Estados Unidos,45000.0,Híbrido,Prácticas,Prácticas,M
 3776484333,Data Engineer,Dice,OH,45000.0,Híbrido,Prácticas,Prácticas,L
@@ -552,12 +487,6 @@ job_id,job_title,company_name,company_state,salary_range,remote_ratio,employment
 3776946154,Data Engineer,hackajob,Estados Unidos,170000.0,En remoto,Jornada completa,Intermedio,M
 3776946189,Machine Learning Engineer,Marathon TS,Estados Unidos,170000.0,En remoto,Jornada completa,Intermedio,M
 3776946631,Data Analyst,Compunnel Inc.,MA,170000.0,En remoto,Jornada completa,Intermedio,L
-3776948509,Data Scientist,HustleWing - Side hustles for professionals,Estados Unidos,,En remoto,Media jornada,Algo de responsabilidad,S
-3776952405,Data Scientist,Forsyth Barnes,Estados Unidos,,En remoto,Media jornada,Algo de responsabilidad,M
-3776964034,Data Analyst,Webologix Ltd/ INC,CA,,En remoto,Prácticas,Prácticas,M
-3776969904,Data Engineer,Webologix Ltd/ INC,CA,,En remoto,Prácticas,Prácticas,M
-3776973020,Machine Learning Engineer,Trident Consulting,TX,,En remoto,Prácticas,Prácticas,M
-3776998906,AI Engineer,Cygnus Professionals Inc.,Estados Unidos,,En remoto,Prácticas,Prácticas,L
 3777104668,Data Engineer,Macrosoft,NJ,187200.0,Híbrido,Contrato por obra,Intermedio,L
 3777105024,Machine Learning Engineer,Plus,CA,217500.0,Híbrido,Jornada completa,Sin experiencia,L
 3777446754,Data Scientist,Pinterest,Estados Unidos,217500.0,Híbrido,Jornada completa,Sin experiencia,L

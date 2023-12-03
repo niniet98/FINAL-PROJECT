@@ -1,3 +1,4 @@
 .env
 data/jobs_html
-.data/job_lists.txt
+data/tableau_csv
+figures

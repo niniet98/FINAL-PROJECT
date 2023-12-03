@@ -2,9 +2,15 @@
 
 ## Description
 
+## Workflow
+![pipeline](https://github.com/niniet98/FINAL-PROJECT/blob/main/readme/pipeline.png?raw=true)
+
 ## Data Source
 
-## Workflow
-
-
 ## Model
+
+## Organization
+
+## Next Steps
+
+## Links

@@ -1,4 +1,4 @@
-# Predictive Modeling of Salaries in Job Offers without Salary Information
+# Predictive Model of Salaries in Job Offers without Salary Information
 
 ## Description
 

@@ -1,4 +1,5 @@
 .env
 data/jobs_html
 data/tableau_csv
+notebooks/notused
 figures

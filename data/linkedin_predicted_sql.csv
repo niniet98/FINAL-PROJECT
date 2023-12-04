@@ -1,57 +1,57 @@
 job_id,job_title,company_name,company_state,remote_ratio,employment_type,experience_level,company_size,salary,Jornada completa,Contrato por obra,Prácticas,L,M,S
-3713995239,4,Delta Air Lines,GA,0,Prácticas,2,L,141799.90846029436,0.0,0.0,1.0,1.0,0.0,0.0
-3740964793,6,Copart,TX,0,Prácticas,0,L,141799.9046538906,0.0,0.0,1.0,1.0,0.0,0.0
-3752872433,6,Copart,TX,50,Prácticas,0,L,141799.90297178764,0.0,0.0,1.0,1.0,0.0,0.0
-3753015172,5,ARA,VA,50,Prácticas,0,L,141799.90295161915,0.0,0.0,1.0,1.0,0.0,0.0
-3753408170,10,NVIDIA,CA,50,Prácticas,0,L,141799.9028960895,0.0,0.0,1.0,1.0,0.0,0.0
-3754419732,6,AMISEQ,CA,50,Prácticas,0,M,141799.90275315454,0.0,0.0,1.0,0.0,1.0,0.0
-3755005401,5,Get It Recruit - Real Estate,VA,50,Prácticas,0,S,141799.90267039635,0.0,0.0,1.0,0.0,0.0,1.0
-3755033312,9,Tiposi,CA,50,Prácticas,0,M,141799.90266645234,0.0,0.0,1.0,0.0,1.0,0.0
-3755047295,4,Ledgent Technology,FL,50,Prácticas,0,L,141799.90266447642,0.0,0.0,1.0,1.0,0.0,0.0
-3755065806,5,Hewlett Packard Enterprise,CA,50,Prácticas,0,L,141799.9026618607,0.0,0.0,1.0,1.0,0.0,0.0
-3755116125,6,INSIGHT2PROFIT,IL,50,Prácticas,0,L,141799.90265475024,0.0,0.0,1.0,1.0,0.0,0.0
-3759515210,5,People Tech Group Inc,MI,0,Prácticas,0,L,141799.90203307752,0.0,0.0,1.0,1.0,0.0,0.0
-3764684840,6,Ancestry,UT,0,Prácticas,0,L,141799.90130239236,0.0,0.0,1.0,1.0,0.0,0.0
-3764690025,9,Ancestry,UT,0,Prácticas,0,L,141799.90130165944,0.0,0.0,1.0,1.0,0.0,0.0
-3764752491,9,Ancestry,UT,0,Prácticas,0,L,141799.90129282963,0.0,0.0,1.0,1.0,0.0,0.0
-3764783034,5,MindPal,UT,0,Prácticas,0,M,141799.90128851222,0.0,0.0,1.0,0.0,1.0,0.0
-3764783040,5,MindPal,AZ,0,Prácticas,0,M,141799.90128851138,0.0,0.0,1.0,0.0,1.0,0.0
-3765320598,5,SMX,VA,0,Prácticas,0,L,141799.9012125246,0.0,0.0,1.0,1.0,0.0,0.0
-3765346803,4,Conexess Group,MO,0,Prácticas,0,M,141799.90120882035,0.0,0.0,1.0,0.0,1.0,0.0
-3765377389,4,National Life Group,VT,0,Prácticas,0,L,141799.9012044968,0.0,0.0,1.0,1.0,0.0,0.0
-3766280936,3,Get It Recruit - Finance,CA,100,Prácticas,0,S,141799.9010767723,0.0,0.0,1.0,0.0,0.0,1.0
-3766307070,5,Tier4 Group,UT,100,Prácticas,0,M,141799.90107307798,0.0,0.0,1.0,0.0,1.0,0.0
-3766329541,5,Micron Technology,ID,100,Prácticas,0,M,141799.90106990145,0.0,0.0,1.0,0.0,1.0,0.0
-3766662568,5,Accroid Inc,MN,50,Media jornada,0,M,141799.9010228241,0.0,1.0,0.0,0.0,1.0,0.0
-3766669042,4,"Astir IT Solutions, Inc.",Estados Unidos,50,Media jornada,0,L,141799.90102190894,0.0,1.0,0.0,1.0,0.0,0.0
-3766682212,5,DeRisk Technologies,WA,50,Media jornada,0,L,141799.9010200472,0.0,1.0,0.0,1.0,0.0,0.0
-3766684315,5,DeRisk Technologies,CA,50,Media jornada,0,L,141799.9010197499,0.0,1.0,0.0,1.0,0.0,0.0
-3766684640,5,DeRisk Technologies,MO,50,Media jornada,0,L,141799.90101970395,0.0,1.0,0.0,1.0,0.0,0.0
-3766685481,5,DeRisk Technologies,OR,50,Media jornada,0,L,141799.9010195851,0.0,1.0,0.0,1.0,0.0,0.0
-3767871219,6,Braintrust,Estados Unidos,100,Media jornada,1,M,141799.9008519628,0.0,1.0,0.0,0.0,1.0,0.0
-3767904243,5,Order.co,NY,100,Media jornada,1,M,141799.90084729425,0.0,1.0,0.0,0.0,1.0,0.0
-3767969813,9,Durlston Partners,NY,100,Media jornada,1,M,141799.90083802474,0.0,1.0,0.0,0.0,1.0,0.0
-3767972490,10,Stealth,Estados Unidos,100,Media jornada,1,S,141799.9008376463,0.0,1.0,0.0,0.0,0.0,1.0
-3768034086,4,Skiltrek,CA,100,Media jornada,1,M,141799.90082893858,0.0,1.0,0.0,0.0,1.0,0.0
-3768300248,4,Accroid Inc,VA,0,Prácticas,0,M,141799.90079131146,0.0,0.0,1.0,0.0,1.0,0.0
-3768308901,4,FundamentalVR,OH,0,Prácticas,0,M,141799.9007900882,0.0,0.0,1.0,0.0,1.0,0.0
-3771558712,4,Ascendo Resources,FL,0,Jornada completa,2,L,141799.9003306408,1.0,0.0,0.0,1.0,0.0,0.0
-3773408834,4,Ecclesiastes Inc,DE,0,Media jornada,1,M,141799.90006905748,0.0,1.0,0.0,0.0,1.0,0.0
-3774489128,4,City of Corona,CA,0,Media jornada,1,L,141799.89991631158,0.0,1.0,0.0,1.0,0.0,0.0
-3775534052,4,TELUS International,TN,100,Media jornada,1,L,141799.8997685625,0.0,1.0,0.0,1.0,0.0,0.0
-3775544447,6,TechStar Group,WA,100,Media jornada,1,L,141799.89976709266,0.0,1.0,0.0,1.0,0.0,0.0
-3775558041,4,Fountain,Estados Unidos,100,Media jornada,1,L,141799.89976517047,0.0,1.0,0.0,1.0,0.0,0.0
-3775569518,4,MISUMI,IL,100,Media jornada,1,L,141799.89976354764,0.0,1.0,0.0,1.0,0.0,0.0
-3775633946,6,HustleWing - Side hustles for professionals,Estados Unidos,100,Media jornada,2,S,141799.89975443756,0.0,1.0,0.0,0.0,0.0,1.0
-3775644206,4,Suffolk Construction,MA,100,Media jornada,2,L,141799.8997529868,0.0,1.0,0.0,1.0,0.0,0.0
-3775646864,5,Avenue Code,Estados Unidos,100,Media jornada,2,L,141799.89975261097,0.0,1.0,0.0,1.0,0.0,0.0
-3775683541,6,goop,CA,100,Media jornada,2,L,141799.89974742485,0.0,1.0,0.0,1.0,0.0,0.0
-3775683819,5,Ford Motor Company,Estados Unidos,100,Media jornada,2,L,141799.89974738556,0.0,1.0,0.0,1.0,0.0,0.0
-3776194615,3,WayUp,IL,0,Prácticas,0,M,141799.89967515873,0.0,0.0,1.0,0.0,1.0,0.0
-3776278514,9,"UES, An Eqlipse Company",OH,0,Prácticas,0,L,141799.89966329528,0.0,0.0,1.0,1.0,0.0,0.0
-3776948509,6,HustleWing - Side hustles for professionals,Estados Unidos,100,Media jornada,2,S,141799.89956855596,0.0,1.0,0.0,0.0,0.0,1.0
-3776952405,6,Forsyth Barnes,Estados Unidos,100,Media jornada,2,M,141799.89956800506,0.0,1.0,0.0,0.0,1.0,0.0
-3776964034,4,Webologix Ltd/ INC,CA,100,Prácticas,0,M,141799.89956636066,0.0,0.0,1.0,0.0,1.0,0.0
-3776969904,5,Webologix Ltd/ INC,CA,100,Prácticas,0,M,141799.89956553062,0.0,0.0,1.0,0.0,1.0,0.0
-3776973020,9,Trident Consulting,TX,100,Prácticas,0,M,141799.89956509,0.0,0.0,1.0,0.0,1.0,0.0
-3776998906,2,Cygnus Professionals Inc.,Estados Unidos,100,Prácticas,0,L,141799.8995614296,0.0,0.0,1.0,1.0,0.0,0.0
+3713995239,4,Delta Air Lines,GA,0,Prácticas,2,L,150398.68,0.0,0.0,1.0,1.0,0.0,0.0
+3740964793,6,Copart,TX,0,Prácticas,0,L,91301.12,0.0,0.0,1.0,1.0,0.0,0.0
+3752872433,6,Copart,TX,50,Prácticas,0,L,85920.0,0.0,0.0,1.0,1.0,0.0,0.0
+3753015172,5,ARA,VA,50,Prácticas,0,L,82785.2,0.0,0.0,1.0,1.0,0.0,0.0
+3753408170,10,NVIDIA,CA,50,Prácticas,0,L,88603.8,0.0,0.0,1.0,1.0,0.0,0.0
+3754419732,6,AMISEQ,CA,50,Prácticas,0,M,86496.0,0.0,0.0,1.0,0.0,1.0,0.0
+3755005401,5,Get It Recruit - Real Estate,VA,50,Prácticas,0,S,83246.0,0.0,0.0,1.0,0.0,0.0,1.0
+3755033312,9,Tiposi,CA,50,Prácticas,0,M,88447.56,0.0,0.0,1.0,0.0,1.0,0.0
+3755047295,4,Ledgent Technology,FL,50,Prácticas,0,L,82886.4,0.0,0.0,1.0,1.0,0.0,0.0
+3755065806,5,Hewlett Packard Enterprise,CA,50,Prácticas,0,L,82785.2,0.0,0.0,1.0,1.0,0.0,0.0
+3755116125,6,INSIGHT2PROFIT,IL,50,Prácticas,0,L,86035.2,0.0,0.0,1.0,1.0,0.0,0.0
+3759515210,5,People Tech Group Inc,MI,0,Prácticas,0,L,94171.4,0.0,0.0,1.0,1.0,0.0,0.0
+3764684840,6,Ancestry,UT,0,Prácticas,0,L,85112.0,0.0,0.0,1.0,1.0,0.0,0.0
+3764690025,9,Ancestry,UT,0,Prácticas,0,L,86765.2,0.0,0.0,1.0,1.0,0.0,0.0
+3764752491,9,Ancestry,UT,0,Prácticas,0,L,86765.2,0.0,0.0,1.0,1.0,0.0,0.0
+3764783034,5,MindPal,UT,0,Prácticas,0,M,87240.6,0.0,0.0,1.0,0.0,1.0,0.0
+3764783040,5,MindPal,AZ,0,Prácticas,0,M,87240.6,0.0,0.0,1.0,0.0,1.0,0.0
+3765320598,5,SMX,VA,0,Prácticas,0,L,86420.2,0.0,0.0,1.0,1.0,0.0,0.0
+3765346803,4,Conexess Group,MO,0,Prácticas,0,M,87817.4,0.0,0.0,1.0,0.0,1.0,0.0
+3765377389,4,National Life Group,VT,0,Prácticas,0,L,87138.4,0.0,0.0,1.0,1.0,0.0,0.0
+3766280936,3,Get It Recruit - Finance,CA,100,Prácticas,0,S,66034.6,0.0,0.0,1.0,0.0,0.0,1.0
+3766307070,5,Tier4 Group,UT,100,Prácticas,0,M,62933.4,0.0,0.0,1.0,0.0,1.0,0.0
+3766329541,5,Micron Technology,ID,100,Prácticas,0,M,63797.4,0.0,0.0,1.0,0.0,1.0,0.0
+3766662568,5,Accroid Inc,MN,50,Media jornada,0,M,63124.6,0.0,1.0,0.0,0.0,1.0,0.0
+3766669042,4,"Astir IT Solutions, Inc.",USA,50,Media jornada,0,L,59564.2,0.0,1.0,0.0,1.0,0.0,0.0
+3766682212,5,DeRisk Technologies,WA,50,Media jornada,0,L,58457.0,0.0,1.0,0.0,1.0,0.0,0.0
+3766684315,5,DeRisk Technologies,CA,50,Media jornada,0,L,58457.0,0.0,1.0,0.0,1.0,0.0,0.0
+3766684640,5,DeRisk Technologies,MO,50,Media jornada,0,L,58457.0,0.0,1.0,0.0,1.0,0.0,0.0
+3766685481,5,DeRisk Technologies,OR,50,Media jornada,0,L,58457.0,0.0,1.0,0.0,1.0,0.0,0.0
+3767871219,6,Braintrust,USA,100,Media jornada,1,M,112844.6,0.0,1.0,0.0,0.0,1.0,0.0
+3767904243,5,Order.co,NY,100,Media jornada,1,M,117980.8,0.0,1.0,0.0,0.0,1.0,0.0
+3767969813,9,Durlston Partners,NY,100,Media jornada,1,M,145449.5,0.0,1.0,0.0,0.0,1.0,0.0
+3767972490,10,Stealth,USA,100,Media jornada,1,S,196660.95,0.0,1.0,0.0,0.0,0.0,1.0
+3768034086,4,Skiltrek,CA,100,Media jornada,1,M,112938.88,0.0,1.0,0.0,0.0,1.0,0.0
+3768300248,4,Accroid Inc,VA,0,Prácticas,0,M,76790.2,0.0,0.0,1.0,0.0,1.0,0.0
+3768308901,4,FundamentalVR,OH,0,Prácticas,0,M,76703.8,0.0,0.0,1.0,0.0,1.0,0.0
+3771558712,4,Ascendo Resources,FL,0,Jornada completa,2,L,104416.52,1.0,0.0,0.0,1.0,0.0,0.0
+3773408834,4,Ecclesiastes Inc,DE,0,Media jornada,1,M,130026.47,0.0,1.0,0.0,0.0,1.0,0.0
+3774489128,4,City of Corona,CA,0,Media jornada,1,L,103710.36,0.0,1.0,0.0,1.0,0.0,0.0
+3775534052,4,TELUS International,TN,100,Media jornada,1,L,118204.74,0.0,1.0,0.0,1.0,0.0,0.0
+3775544447,6,TechStar Group,WA,100,Media jornada,1,L,140891.5,0.0,1.0,0.0,1.0,0.0,0.0
+3775558041,4,Fountain,USA,100,Media jornada,1,L,118204.74,0.0,1.0,0.0,1.0,0.0,0.0
+3775569518,4,MISUMI,IL,100,Media jornada,1,L,118204.74,0.0,1.0,0.0,1.0,0.0,0.0
+3775633946,6,HustleWing - Side hustles for professionals,USA,100,Media jornada,2,S,134767.93,0.0,1.0,0.0,0.0,0.0,1.0
+3775644206,4,Suffolk Construction,MA,100,Media jornada,2,L,104010.49,0.0,1.0,0.0,1.0,0.0,0.0
+3775646864,5,Avenue Code,USA,100,Media jornada,2,L,107993.8,0.0,1.0,0.0,1.0,0.0,0.0
+3775683541,6,goop,CA,100,Media jornada,2,L,162732.75,0.0,1.0,0.0,1.0,0.0,0.0
+3775683819,5,Ford Motor Company,USA,100,Media jornada,2,L,148911.5,0.0,1.0,0.0,1.0,0.0,0.0
+3776194615,3,WayUp,IL,0,Prácticas,0,M,64936.02,0.0,0.0,1.0,0.0,1.0,0.0
+3776278514,9,"UES, An Eqlipse Company",OH,0,Prácticas,0,L,88878.7,0.0,0.0,1.0,1.0,0.0,0.0
+3776948509,6,HustleWing - Side hustles for professionals,USA,100,Media jornada,2,S,142904.5,0.0,1.0,0.0,0.0,0.0,1.0
+3776952405,6,Forsyth Barnes,USA,100,Media jornada,2,M,136998.75,0.0,1.0,0.0,0.0,1.0,0.0
+3776964034,4,Webologix Ltd/ INC,CA,100,Prácticas,0,M,55111.55,0.0,0.0,1.0,0.0,1.0,0.0
+3776969904,5,Webologix Ltd/ INC,CA,100,Prácticas,0,M,57224.6,0.0,0.0,1.0,0.0,1.0,0.0
+3776973020,9,Trident Consulting,TX,100,Prácticas,0,M,74631.65,0.0,0.0,1.0,0.0,1.0,0.0
+3776998906,2,Cygnus Professionals Inc.,USA,100,Prácticas,0,L,54680.45,0.0,0.0,1.0,1.0,0.0,0.0

@@ -3,7 +3,7 @@
 ## Description
 
 ## Workflow
-![pipeline](https://github.com/niniet98/FINAL-PROJECT/blob/main/readme/pipeline.png?raw=true)
+![pipeline](https://github.com/niniet98/FINAL-PROJECT/blob/main/readme/workflow.png?raw=true)
 
 ## Data Source
 

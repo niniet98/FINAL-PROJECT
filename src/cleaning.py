@@ -39,6 +39,24 @@ def clean_employee(row):
         return match3.group(2)
     else:
         return np.nan
+
+def filter_employee(row):
+    pattern1 = r"(Más de \d+\.?\d* empleados)"
+    pattern2 = r"(De \d+\.?\d* a \d+\.?\d* empleados)"
+    pattern3 = r"(Entre \d+\.?\d* y \d+\.?\d* empleados)"
+
+    match1 = re.search(pattern1, str(row))
+    match2 = re.search(pattern2, str(row))
+    match3 = re.search(pattern3, str(row))
+
+    if match1:
+        return match1.group(1)
+    elif match2:
+        return match2.group(1)
+    elif match3:
+        return match3.group(1)
+    else:
+        return np.nan
     
 def standarize_company_size(row):
     if pd.notnull(row):
@@ -65,27 +83,15 @@ def clean_salary(row, type=None):
     match_rm = re.match(month_range_pattern, str(row))
     if match_h:
         num_h = match_h.group(1)
-        # if type == 'max':
-        #     num_h = int(num_h) + 5
-        # elif type == 'min':
-        #     num_h = int(num_h) - 5
         num_w = int(num_h) * 40
         return int(num_w * 48)
     elif match_y:
         sal = int(match_y.group(1).replace('.', ''))
-        # if type == 'max':
-        #     sal += 2000
-        # elif type == 'min':
-        #     sal -= 2000
         return sal
     elif match_rh:
         min_ = match_rh.group(1)
         max_ = match_rh.group(2)
         num_h = (float(min_.replace(',', '.')) + float(max_.replace(',', '.'))) / 2
-        # if type == 'max':
-        #     num_h = float(max_.replace(',', '.'))
-        # elif type == 'min':
-        #     num_h = float(min_.replace(',', '.'))
         num_w = num_h * 40
         return int(num_w * 48)
     elif match_ry:
@@ -96,19 +102,11 @@ def clean_salary(row, type=None):
         if '.' not in min_:
             min_ += '000'
         num_y = (float(min_.replace('.', '')) + float(max_.replace('.', ''))) / 2
-        # if type == 'max':
-        #     num_y = float(max_.replace('.', ''))
-        # elif type == 'min':
-        #     num_y = float(min_.replace('.', ''))
         return int(num_y)
     elif match_rm:
         min_ = match_rm.group(1)
         max_ = match_rm.group(2)
         num_m = (float(min_.replace('.', '')) + float(max_.replace('.', ''))) / 2
-        # if type == 'max':
-        #     num_m = float(max_.replace('.', ''))
-        # elif type == 'min':
-        #     num_m = float(min_.replace('.', ''))
         return int(num_m * 12)
     else:
         return np.nan
@@ -226,17 +224,15 @@ def linkedin_cleaning():
     linkedin = clean_employment_type(linkedin, remote_dict)
 
     # Company size column
-    linkedin['employees'] = linkedin['company_size'].apply(lambda row: row.split('·')[0].strip())
-    linkedin['employees'] = linkedin['employees'].apply(clean_employee)
-    linkedin['company_size'] = linkedin['employees'].apply(standarize_company_size)
+    linkedin['company_size'] = linkedin['company_size'].apply(filter_employee)
+    linkedin['employees'] = linkedin['company_size'].apply(clean_employee)
+    linkedin['employees'] = linkedin['employees'].apply(standarize_company_size)
 
     # Salary column
-
-    # linkedin['min_salary'] = linkedin['salary_range'].apply(lambda row: clean_salary(row, 'min'))
     linkedin['salary'] = linkedin['salary_range'].apply(clean_salary)
-    # linkedin['max_salary'] = linkedin['salary_range'].apply(lambda row: clean_salary(row, 'max'))
 
     # Job title column
+    linkedin['original_title'] = linkedin['job_title']
     linkedin['job_title'] = linkedin['job_title'].apply(standarize_job)
     categories = [
         'Data Engineer',

@@ -1,57 +1,70 @@
-job_id,job_title,company_name,company_state,remote_ratio,employment_type,experience_level,company_size,salary,Jornada completa,Contrato por obra,Prácticas,L,M,S
-3713995239,4,Delta Air Lines,GA,0,Prácticas,2,L,127671.98,0.0,0.0,1.0,1.0,0.0,0.0
-3740964793,6,Copart,TX,0,Prácticas,0,L,95486.68,0.0,0.0,1.0,1.0,0.0,0.0
-3752872433,6,Copart,TX,50,Prácticas,0,L,85783.0,0.0,0.0,1.0,1.0,0.0,0.0
-3753015172,5,ARA,VA,50,Prácticas,0,L,86192.0,0.0,0.0,1.0,1.0,0.0,0.0
-3753408170,10,NVIDIA,CA,50,Prácticas,0,L,95910.4,0.0,0.0,1.0,1.0,0.0,0.0
-3754419732,6,AMISEQ,CA,50,Prácticas,0,M,85200.0,0.0,0.0,1.0,0.0,1.0,0.0
-3755005401,5,Get It Recruit - Real Estate,VA,50,Prácticas,0,S,89387.0,0.0,0.0,1.0,0.0,0.0,1.0
-3755033312,9,Tiposi,CA,50,Prácticas,0,M,92648.6,0.0,0.0,1.0,0.0,1.0,0.0
-3755047295,4,Ledgent Technology,FL,50,Prácticas,0,L,86473.0,0.0,0.0,1.0,1.0,0.0,0.0
-3755065806,5,Hewlett Packard Enterprise,CA,50,Prácticas,0,L,86192.0,0.0,0.0,1.0,1.0,0.0,0.0
-3755116125,6,INSIGHT2PROFIT,IL,50,Prácticas,0,L,85927.0,0.0,0.0,1.0,1.0,0.0,0.0
-3759515210,5,People Tech Group Inc,MI,0,Prácticas,0,L,94558.0,0.0,0.0,1.0,1.0,0.0,0.0
-3764684840,6,Ancestry,UT,0,Prácticas,0,L,89423.2,0.0,0.0,1.0,1.0,0.0,0.0
-3764690025,9,Ancestry,UT,0,Prácticas,0,L,96807.6,0.0,0.0,1.0,1.0,0.0,0.0
-3764752491,9,Ancestry,UT,0,Prácticas,0,L,96807.6,0.0,0.0,1.0,1.0,0.0,0.0
-3764783034,5,MindPal,UT,0,Prácticas,0,M,91159.0,0.0,0.0,1.0,0.0,1.0,0.0
-3764783040,5,MindPal,AZ,0,Prácticas,0,M,91159.0,0.0,0.0,1.0,0.0,1.0,0.0
-3765320598,5,SMX,VA,0,Prácticas,0,L,91543.0,0.0,0.0,1.0,1.0,0.0,0.0
-3765346803,4,Conexess Group,MO,0,Prácticas,0,M,93264.0,0.0,0.0,1.0,0.0,1.0,0.0
-3765377389,4,National Life Group,VT,0,Prácticas,0,L,93648.0,0.0,0.0,1.0,1.0,0.0,0.0
-3766280936,3,Get It Recruit - Finance,CA,100,Prácticas,0,S,91750.0,0.0,0.0,1.0,0.0,0.0,1.0
-3766307070,5,Tier4 Group,UT,100,Prácticas,0,M,87591.6,0.0,0.0,1.0,0.0,1.0,0.0
-3766329541,5,Micron Technology,ID,100,Prácticas,0,M,87591.6,0.0,0.0,1.0,0.0,1.0,0.0
-3766662568,5,Accroid Inc,MN,50,Media jornada,0,M,62089.0,0.0,1.0,0.0,0.0,1.0,0.0
-3766669042,4,"Astir IT Solutions, Inc.",USA,50,Media jornada,0,L,56470.5,0.0,1.0,0.0,1.0,0.0,0.0
-3766682212,5,DeRisk Technologies,WA,50,Media jornada,0,L,58356.5,0.0,1.0,0.0,1.0,0.0,0.0
-3766684315,5,DeRisk Technologies,CA,50,Media jornada,0,L,58356.5,0.0,1.0,0.0,1.0,0.0,0.0
-3766684640,5,DeRisk Technologies,MO,50,Media jornada,0,L,58356.5,0.0,1.0,0.0,1.0,0.0,0.0
-3766685481,5,DeRisk Technologies,OR,50,Media jornada,0,L,58356.5,0.0,1.0,0.0,1.0,0.0,0.0
-3767871219,6,Braintrust,USA,100,Media jornada,1,M,124318.68,0.0,1.0,0.0,0.0,1.0,0.0
-3767904243,5,Order.co,NY,100,Media jornada,1,M,122783.24,0.0,1.0,0.0,0.0,1.0,0.0
-3767969813,9,Durlston Partners,NY,100,Media jornada,1,M,142406.6,0.0,1.0,0.0,0.0,1.0,0.0
-3767972490,10,Stealth,USA,100,Media jornada,1,S,231302.6,0.0,1.0,0.0,0.0,0.0,1.0
-3768034086,4,Skiltrek,CA,100,Media jornada,1,M,118773.68,0.0,1.0,0.0,0.0,1.0,0.0
-3768300248,4,Accroid Inc,VA,0,Prácticas,0,M,63628.8,0.0,0.0,1.0,0.0,1.0,0.0
-3768308901,4,FundamentalVR,OH,0,Prácticas,0,M,63628.8,0.0,0.0,1.0,0.0,1.0,0.0
-3771558712,4,Ascendo Resources,FL,0,Jornada completa,2,L,100913.76,1.0,0.0,0.0,1.0,0.0,0.0
-3773408834,4,Ecclesiastes Inc,DE,0,Media jornada,1,M,122944.11,0.0,1.0,0.0,0.0,1.0,0.0
-3774489128,4,City of Corona,CA,0,Media jornada,1,L,115436.16,0.0,1.0,0.0,1.0,0.0,0.0
-3775534052,4,TELUS International,TN,100,Media jornada,1,L,112038.4,0.0,1.0,0.0,1.0,0.0,0.0
-3775544447,6,TechStar Group,WA,100,Media jornada,1,L,140517.8,0.0,1.0,0.0,1.0,0.0,0.0
-3775558041,4,Fountain,USA,100,Media jornada,1,L,112038.4,0.0,1.0,0.0,1.0,0.0,0.0
-3775569518,4,MISUMI,IL,100,Media jornada,1,L,112038.4,0.0,1.0,0.0,1.0,0.0,0.0
-3775633946,6,HustleWing - Side hustles for professionals,USA,100,Media jornada,2,S,139556.2,0.0,1.0,0.0,0.0,0.0,1.0
-3775644206,4,Suffolk Construction,MA,100,Media jornada,2,L,100033.66,0.0,1.0,0.0,1.0,0.0,0.0
-3775646864,5,Avenue Code,USA,100,Media jornada,2,L,102784.88,0.0,1.0,0.0,1.0,0.0,0.0
-3775683541,6,goop,CA,100,Media jornada,2,L,154071.16,0.0,1.0,0.0,1.0,0.0,0.0
-3775683819,5,Ford Motor Company,USA,100,Media jornada,2,L,138175.98,0.0,1.0,0.0,1.0,0.0,0.0
-3776194615,3,WayUp,IL,0,Prácticas,0,M,62034.8,0.0,0.0,1.0,0.0,1.0,0.0
-3776278514,9,"UES, An Eqlipse Company",OH,0,Prácticas,0,L,91565.3,0.0,0.0,1.0,1.0,0.0,0.0
-3776948509,6,HustleWing - Side hustles for professionals,USA,100,Media jornada,2,S,142912.9,0.0,1.0,0.0,0.0,0.0,1.0
-3776952405,6,Forsyth Barnes,USA,100,Media jornada,2,M,131992.5,0.0,1.0,0.0,0.0,1.0,0.0
-3776964034,4,Webologix Ltd/ INC,CA,100,Prácticas,0,M,47999.0,0.0,0.0,1.0,0.0,1.0,0.0
-3776969904,5,Webologix Ltd/ INC,CA,100,Prácticas,0,M,51645.8,0.0,0.0,1.0,0.0,1.0,0.0
-3776973020,9,Trident Consulting,TX,100,Prácticas,0,M,66331.25,0.0,0.0,1.0,0.0,1.0,0.0
-3776998906,2,Cygnus Professionals Inc.,USA,100,Prácticas,0,L,46285.4,0.0,0.0,1.0,1.0,0.0,0.0
+job_id,job_title,company_name,company_state,salary_range,remote_ratio,employment_type,experience_level,company_size,image_link,employees,salary,original_title,L,M,S
+3619562149,4,"Berry Global, Inc.",IN,,0,1,0,L,https://media.licdn.com/dms/image/D560BAQHcYU78FzvsrA/company-logo_100_100/0/1666532272703/berryglobal_logo?e=1709769600&v=beta&t=0Q7y4Jc5G-37_6Tn5R0cVSCGhw7rpq5O9DfGNvpeeL4,Más de 10.001 empleados,,"LOGISTICS DATA ANALYST INTERN, YEAR ROUND",1.0,0.0,0.0
+3620841954,6,Coinbase,WA,,0,1,0,L,https://media.licdn.com/dms/image/C560BAQHsPlWyC0Ksxg/company-logo_100_100/0/1630669856291/coinbase_logo?e=1709769600&v=beta&t=JIE5ibIVc4TfBx2KwDIdWHrY5wsBRlvvHTeOMdsAzu0,De 1.001 a 5.000 empleados,,Senior Data Scientist,1.0,0.0,0.0
+3620842820,6,Coinbase,GA,,0,1,0,L,https://media.licdn.com/dms/image/C560BAQHsPlWyC0Ksxg/company-logo_100_100/0/1630669856291/coinbase_logo?e=1709769600&v=beta&t=JIE5ibIVc4TfBx2KwDIdWHrY5wsBRlvvHTeOMdsAzu0,De 1.001 a 5.000 empleados,,Senior Data Scientist,1.0,0.0,0.0
+3620842822,6,Coinbase,AZ,,0,1,0,L,https://media.licdn.com/dms/image/C560BAQHsPlWyC0Ksxg/company-logo_100_100/0/1630669856291/coinbase_logo?e=1709769600&v=beta&t=JIE5ibIVc4TfBx2KwDIdWHrY5wsBRlvvHTeOMdsAzu0,De 1.001 a 5.000 empleados,,Senior Data Scientist,1.0,0.0,0.0
+3620844447,6,Coinbase,UT,,0,1,0,L,https://media.licdn.com/dms/image/C560BAQHsPlWyC0Ksxg/company-logo_100_100/0/1630669856291/coinbase_logo?e=1709769600&v=beta&t=JIE5ibIVc4TfBx2KwDIdWHrY5wsBRlvvHTeOMdsAzu0,De 1.001 a 5.000 empleados,,Senior Data Scientist,1.0,0.0,0.0
+3620846078,6,Coinbase,OR,,0,1,0,L,https://media.licdn.com/dms/image/C560BAQHsPlWyC0Ksxg/company-logo_100_100/0/1630669856291/coinbase_logo?e=1709769600&v=beta&t=JIE5ibIVc4TfBx2KwDIdWHrY5wsBRlvvHTeOMdsAzu0,De 1.001 a 5.000 empleados,,Senior Data Scientist,1.0,0.0,0.0
+3620848002,6,Coinbase,IL,,0,1,0,L,https://media.licdn.com/dms/image/C560BAQHsPlWyC0Ksxg/company-logo_100_100/0/1630669856291/coinbase_logo?e=1709769600&v=beta&t=JIE5ibIVc4TfBx2KwDIdWHrY5wsBRlvvHTeOMdsAzu0,De 1.001 a 5.000 empleados,,Senior Data Scientist,1.0,0.0,0.0
+3713995239,4,Delta Air Lines,GA,,0,1,3,L,https://media.licdn.com/dms/image/C4E0BAQERMNM6nOOmVQ/company-logo_100_100/0/1630612966620/delta_air_lines_logo?e=1709769600&v=beta&t=6d20k6kMkmIegK7rSuPP7p23nX3ov6E3r6s_K__9ruU,Más de 10.001 empleados,,"Co-op, Data Analyst - Crew Resources (Summer, 2024)",1.0,0.0,0.0
+3714054589,5,Netflix,CA,,0,1,3,L,https://media.licdn.com/dms/image/C4E0BAQEVb0ZISWk8vQ/company-logo_100_100/0/1631355051964?e=1709769600&v=beta&t=yZ2Xsfwblu_jwN16I8llK1M8g7Ig5LFQld11JTFgP1U,Más de 10.001 empleados,,Data Engineer (L5) - Ads,1.0,0.0,0.0
+3715326372,6,Navy Federal Credit Union,VA,,0,1,0,L,https://media.licdn.com/dms/image/D4E0BAQFiUr8PXhEX-Q/company-logo_100_100/0/1698845033204/navy_federal_credit_union_logo?e=1709769600&v=beta&t=Oj6dSCz9pkDeHBSWkhUD_HFMnK2vESfrpM9X-672RXo,Más de 10.001 empleados,,Summer Associate Internship (Data Scientist - Real Estate Lending),1.0,0.0,0.0
+3715346410,6,Navy Federal Credit Union,FL,,0,1,0,L,https://media.licdn.com/dms/image/D4E0BAQFiUr8PXhEX-Q/company-logo_100_100/0/1698845033204/navy_federal_credit_union_logo?e=1709769600&v=beta&t=Oj6dSCz9pkDeHBSWkhUD_HFMnK2vESfrpM9X-672RXo,Más de 10.001 empleados,,Summer Associate Internship (Data Scientist - Real Estate Lending),1.0,0.0,0.0
+3718278443,9,Imagry,CA,,0,1,0,M,https://media.licdn.com/dms/image/D4D0BAQFRfr6qpo2stA/company-logo_100_100/0/1701696467597/imagry_logo?e=1709769600&v=beta&t=z_89vQoQ12da9WsrE8Bp-UUlpzHAvT8ANKO_vKfpLs0,De 51 a 200 empleados,,Machine Learning Engineer,0.0,1.0,0.0
+3740964793,6,Copart,TX,,0,1,0,L,https://media.licdn.com/dms/image/C4E0BAQFf9L64EHKHGw/company-logo_100_100/0/1659536108404/copart_logo?e=1709769600&v=beta&t=FWuy9RpJDUGztr91BxCpA_ikdANMXIBtaW9guUwKwvs,De 5.001 a 10.000 empleados,,Data Scientist Intern,1.0,0.0,0.0
+3741108903,5,Own Company,NJ,,0,1,0,L,https://media.licdn.com/dms/image/D4E0BAQGVSsDRCommUg/company-logo_100_100/0/1697466930563/owndata_logo?e=1709769600&v=beta&t=iuBiMSyAlp3I2GQUu-ET7e1Uhj1uHpj7ijw0hrqvx9I,De 501 a 1.000 empleados,,Data Engineer,1.0,0.0,0.0
+3752872433,6,Copart,TX,,50,1,0,L,https://media.licdn.com/dms/image/C4E0BAQFf9L64EHKHGw/company-logo_100_100/0/1659536108404/copart_logo?e=1709769600&v=beta&t=FWuy9RpJDUGztr91BxCpA_ikdANMXIBtaW9guUwKwvs,De 5.001 a 10.000 empleados,,Data Scientist Intern (HB),1.0,0.0,0.0
+3753015172,5,ARA,VA,,50,1,0,L,https://media.licdn.com/dms/image/C4D0BAQGJaMmMeoNeEg/company-logo_100_100/0/1631356968447/ara_logo?e=1709769600&v=beta&t=gmezu0MCLjeldpFhMJ0aNNBNWNFQsp77Iwl9VMKWEHc,De 5.001 a 10.000 empleados,,Junior Data Engineer,1.0,0.0,0.0
+3753408170,10,NVIDIA,CA,,50,1,0,L,https://media.licdn.com/dms/image/C560BAQFDs6GbpvE3zA/company-logo_100_100/0/1630584931971/nvidia_logo?e=1709164800&v=beta&t=gJsBbB-gD4-nlpd8YA441l9Ob9rrLfmBPfMAdVGbKE4,Más de 10.001 empleados,,Senior Deep Learning Algorithm Engineer,1.0,0.0,0.0
+3754419732,6,AMISEQ,CA,,50,1,0,M,https://media.licdn.com/dms/image/C510BAQEEk2U6gKcnDw/company-logo_100_100/0/1631322348641?e=1709769600&v=beta&t=gIpDz6cdcSn3GgS5JSA_yshh5VvHBV94EExCcFef-Ys,De 51 a 200 empleados,,Data Scientist MMM (Marketing Mix Model),0.0,1.0,0.0
+3759515210,5,People Tech Group Inc,MI,,0,1,0,L,https://media.licdn.com/dms/image/D560BAQEPOko7pmrlpA/company-logo_100_100/0/1697543948515/people_tech_group_inc_logo?e=1709769600&v=beta&t=kJT58ybIN-Lm-KNsmdsd9Yrk8BgsF8ygEOo84nXGO3I,De 1.001 a 5.000 empleados,,Data Engineer,1.0,0.0,0.0
+3762626619,5,King County Library System,WA,"106.953,60 $/año - 130.000 $/año",0,4,3,L,https://media.licdn.com/dms/image/C4E0BAQEXO13qSg28EQ/company-logo_100_100/0/1631306948132?e=1709769600&v=beta&t=queRXZbwlsRfUNgbrjYuGJ-Dzye9BeMZAAQMR_SxlAo,De 1.001 a 5.000 empleados,,Data Engineer,1.0,0.0,0.0
+3762630876,9,TikTok,CA,"106.953,60 $/año - 130.000 $/año",0,4,3,L,https://media.licdn.com/dms/image/C510BAQGCdThXIss7UQ/company-logo_100_100/0/1630606162248/tiktok_logo?e=1709769600&v=beta&t=zFlqgVYGOAf8IAL9AMOqmhIluFrwBdNq6gNNr4tz9uQ,Más de 10.001 empleados,,Machine Learning Engineer,1.0,0.0,0.0
+3762639993,6,InvestM Technology LLC,USA,"106.953,60 $/año - 130.000 $/año",0,4,3,M,https://media.licdn.com/dms/image/D4E0BAQHkkQTrNTKbXg/company-logo_100_100/0/1686516969862/investm_technology_llc_logo?e=1709769600&v=beta&t=kDoIMRvAbVN_ofEa_FXMHF9NC6hw7vaP0EBqnH7xek4,De 11 a 50 empleados,,Data Scientist - Investment Management,0.0,1.0,0.0
+3764684840,6,Ancestry,UT,,0,1,0,L,https://media.licdn.com/dms/image/C560BAQF6eczpL7ff5A/company-logo_100_100/0/1630646295795/ancestrycom_logo?e=1709769600&v=beta&t=vVdKX3E3LTBlvJfjRApXo7TmvUc7lBhQMST5I474kAw,De 1.001 a 5.000 empleados,,"Discovery Data Scientist, Summer Intern",1.0,0.0,0.0
+3764690025,9,Ancestry,UT,,0,1,0,L,https://media.licdn.com/dms/image/C560BAQF6eczpL7ff5A/company-logo_100_100/0/1630646295795/ancestrycom_logo?e=1709769600&v=beta&t=vVdKX3E3LTBlvJfjRApXo7TmvUc7lBhQMST5I474kAw,De 1.001 a 5.000 empleados,,"Machine Learning Engineer, Summer Intern",1.0,0.0,0.0
+3764713559,6,TekSynap,VA,,0,1,0,L,https://media.licdn.com/dms/image/C4E0BAQHwMKNGGQj8Zw/company-logo_100_100/0/1631359702306/synaptek_corporation_logo?e=1709769600&v=beta&t=HHNsy6G8GrR8ykZDtjyTSJM_0k0f5G6fCy53EDdMBJE,De 1.001 a 5.000 empleados,,Sr. Data Scientist,1.0,0.0,0.0
+3764752491,9,Ancestry,UT,,0,1,0,L,https://media.licdn.com/dms/image/C560BAQF6eczpL7ff5A/company-logo_100_100/0/1630646295795/ancestrycom_logo?e=1709769600&v=beta&t=vVdKX3E3LTBlvJfjRApXo7TmvUc7lBhQMST5I474kAw,De 1.001 a 5.000 empleados,,"Machine Learning Engineer, Summer Intern (Platforms)",1.0,0.0,0.0
+3764783034,5,MindPal,UT,,0,1,0,M,https://media.licdn.com/dms/image/D560BAQFuR3TwBeOqFw/company-logo_100_100/0/1692915501515/mindpalco_logo?e=1709164800&v=beta&t=uu8ZC4k3SiY95Va657G9Y73vHTPjuvQo0vf4Fs-8jCk,De 51 a 200 empleados,,Data Engineer (Snowflake),0.0,1.0,0.0
+3764783040,5,MindPal,AZ,,0,1,0,M,https://media.licdn.com/dms/image/D560BAQFuR3TwBeOqFw/company-logo_100_100/0/1692915501515/mindpalco_logo?e=1709164800&v=beta&t=uu8ZC4k3SiY95Va657G9Y73vHTPjuvQo0vf4Fs-8jCk,De 51 a 200 empleados,,Data Engineer (Snowflake),0.0,1.0,0.0
+3765312754,5,Kimball Electronics,IN,,0,1,0,L,https://media.licdn.com/dms/image/C4D0BAQGmwtA09avfLw/company-logo_100_100/0/1630557558567/kimball_electronics_group_logo?e=1709769600&v=beta&t=TviORqCSDG1iHBtoEYq1JvWrcRpo-XHUXREOssGgJB8,De 5.001 a 10.000 empleados,,Data Engineer,1.0,0.0,0.0
+3765320598,5,SMX,VA,,0,1,0,L,https://media.licdn.com/dms/image/C4D0BAQE-0GomBd7OQA/company-logo_100_100/0/1638286761300/smartronix_logo?e=1709769600&v=beta&t=CX_xQAfiAf78JRiKkOiSy_OeRDNOz_8CXtQDp4otJ-k,De 1.001 a 5.000 empleados,,Summer Internship – Data and Software Engineering (2996),1.0,0.0,0.0
+3765346803,4,Conexess Group,MO,,0,1,0,M,https://media.licdn.com/dms/image/C560BAQHXxvxjGI1mTg/company-logo_100_100/0/1631327799094?e=1709769600&v=beta&t=pIftxDzNukUPkMIEONDw0Pf5XVZK4znS7Mn1y5o6lqA,De 51 a 200 empleados,,Data Analyst (Hybrid Schedule),0.0,1.0,0.0
+3766280936,3,Get It Recruit - Finance,CA,,100,1,0,S,https://media.licdn.com/dms/image/C560BAQGbI2x_cl5lQQ/company-logo_100_100/0/1674478086788?e=1709164800&v=beta&t=xTS9T_yVV2z-2NVyHyZSbsZM522mBYn9kWUQUDcJ84Q,Entre 1 y 10 empleados,,Business Analyst Intern - Remote | WFH,0.0,0.0,1.0
+3766307070,5,Tier4 Group,UT,,100,1,0,M,https://media.licdn.com/dms/image/D560BAQEGHYyiWOuXsw/company-logo_100_100/0/1688447026016/tier4group_logo?e=1709769600&v=beta&t=M-SyBJDAACn-18MXUn-9kTD_x2s3uKu6A39AhF6kjK4,De 51 a 200 empleados,,Data Engineer (1700566),0.0,1.0,0.0
+3766662568,5,Accroid Inc,MN,,50,3,0,M,https://media.licdn.com/dms/image/D4D0BAQGz_di1atu9CQ/company-logo_100_100/0/1683292700129/accroid_inc_logo?e=1709164800&v=beta&t=hiqcMiAorbhHKN9U-y3Pt9axt3gbt5KjNyN_hYjPr-Q,De 51 a 200 empleados,,Data Engineer,0.0,1.0,0.0
+3766669042,4,"Astir IT Solutions, Inc.",USA,,50,3,0,L,https://media.licdn.com/dms/image/C4E0BAQGlyPJVzzriUg/company-logo_100_100/0/1631346933304?e=1709769600&v=beta&t=eOLj7fUMBdz040v-SZY48AyzyusEmYBKf1himUZ37zA,De 201 a 500 empleados,,Data Analysts with a strong background in Healthcare and claims (payer claims) - W2 role,1.0,0.0,0.0
+3766682212,5,DeRisk Technologies,WA,,50,3,0,L,https://media.licdn.com/dms/image/C4D0BAQFxSXusPE6yIA/company-logo_100_100/0/1631685688754/derisktechnologies_logo?e=1709164800&v=beta&t=4lXCLlPGBrCQ_92JjPHh8a4K2lDt0o0Ql9VePA2GnU4,De 1.001 a 5.000 empleados,,Data Center Engineer - Seattle,1.0,0.0,0.0
+3766684315,5,DeRisk Technologies,CA,,50,3,0,L,https://media.licdn.com/dms/image/C4D0BAQFxSXusPE6yIA/company-logo_100_100/0/1631685688754/derisktechnologies_logo?e=1709164800&v=beta&t=4lXCLlPGBrCQ_92JjPHh8a4K2lDt0o0Ql9VePA2GnU4,De 1.001 a 5.000 empleados,,Data Center Engineer - San Diego,1.0,0.0,0.0
+3766684640,5,DeRisk Technologies,MO,,50,3,0,L,https://media.licdn.com/dms/image/C4D0BAQFxSXusPE6yIA/company-logo_100_100/0/1631685688754/derisktechnologies_logo?e=1709164800&v=beta&t=4lXCLlPGBrCQ_92JjPHh8a4K2lDt0o0Ql9VePA2GnU4,De 1.001 a 5.000 empleados,,Data Center Engineer - St. Louis,1.0,0.0,0.0
+3766685481,5,DeRisk Technologies,OR,,50,3,0,L,https://media.licdn.com/dms/image/C4D0BAQFxSXusPE6yIA/company-logo_100_100/0/1631685688754/derisktechnologies_logo?e=1709164800&v=beta&t=4lXCLlPGBrCQ_92JjPHh8a4K2lDt0o0Ql9VePA2GnU4,De 1.001 a 5.000 empleados,,Data Center Engineer - Portland,1.0,0.0,0.0
+3767871219,6,Braintrust,USA,,100,3,2,M,https://media.licdn.com/dms/image/C560BAQHbQYFSQsK__A/company-logo_100_100/0/1630511738029/usebraintrust_logo?e=1709769600&v=beta&t=hAm6EhKivGvKlXs3o8QKZwvs9nZ_D9uuKdkXrj0aEdk,De 11 a 50 empleados,,Data Scientists - AI Training,0.0,1.0,0.0
+3767883199,4,Cynet Systems,FL,,100,3,2,L,https://media.licdn.com/dms/image/D4D0BAQGvDjfCtTm6sg/company-logo_100_100/0/1688389037468/cynet_systems_logo?e=1709769600&v=beta&t=_hdEPb69jaIpPHzUmadZBCtKFrO1EERED_NknV86_kc,De 1.001 a 5.000 empleados,,IT Data Analyst,1.0,0.0,0.0
+3768300248,4,Accroid Inc,VA,,0,1,0,M,https://media.licdn.com/dms/image/D4D0BAQGz_di1atu9CQ/company-logo_100_100/0/1683292700129/accroid_inc_logo?e=1709164800&v=beta&t=hiqcMiAorbhHKN9U-y3Pt9axt3gbt5KjNyN_hYjPr-Q,De 51 a 200 empleados,,Senior Data Analyst,0.0,1.0,0.0
+3768308901,4,FundamentalVR,OH,,0,1,0,M,https://media.licdn.com/dms/image/C560BAQFouH2S_eXikw/company-logo_100_100/0/1630655297813/fundamentalvr_logo?e=1709164800&v=beta&t=iVOpNsLo9REzWM0pHxcDagrZTWE578EVEd0tqTwsJxo,De 51 a 200 empleados,,Data Analyst,0.0,1.0,0.0
+3771558712,4,Ascendo Resources,FL,"113.006,40 $/año - 141.793,59 $/año",0,4,3,L,https://media.licdn.com/dms/image/D4E0BAQFRVZVAfR8pnA/company-logo_100_100/0/1698945897529?e=1709769600&v=beta&t=GhOBme6M884R2Mf8HGsGa_HSbGSsuJSM_Vd_prSTaGU,De 201 a 500 empleados,,Data Analyst,1.0,0.0,0.0
+3773408834,4,Ecclesiastes Inc,DE,,0,3,2,M,https://media.licdn.com/dms/image/C4E0BAQFwJWZdFKZyDQ/company-logo_100_100/0/1645796891873?e=1709164800&v=beta&t=LoK3I1SkFMNhhtSeTLHWDzjfSw3L0gP-CnMvCE2kZUA,De 11 a 50 empleados,,Data Analyst,0.0,1.0,0.0
+3774489128,4,City of Corona,CA,,0,3,2,L,https://media.licdn.com/dms/image/D560BAQFgrl2na_carg/company-logo_100_100/0/1692914845492/city_of_corona_logo?e=1709769600&v=beta&t=8qGP-iiyD0vbVwLZLwKXNEdGhhakHwETG_1QJLYjX8c,De 501 a 1.000 empleados,,Junior Data Analyst (Part-time),1.0,0.0,0.0
+3775534052,4,TELUS International,TN,,100,3,2,L,https://media.licdn.com/dms/image/D560BAQEY8s22W6Uvng/company-logo_100_100/0/1688530598537/telus_international_logo?e=1709164800&v=beta&t=pGk9enMI4ARakdKRAsw-rZgnW37RcuCAvjRBiSFPFqc,Más de 10.001 empleados,,Online Data Analyst,1.0,0.0,0.0
+3775544447,6,TechStar Group,WA,,100,3,2,L,https://media.licdn.com/dms/image/C4E0BAQFB2e0c3baQvQ/company-logo_100_100/0/1630631364709/techstargroup_logo?e=1709769600&v=beta&t=8M74lqT2qaNL1YPJB-hT72mCqdrpDe57Q51ECmKzJyE,De 501 a 1.000 empleados,,Senior Data Scientist,1.0,0.0,0.0
+3775558041,4,Fountain,USA,,100,3,2,L,https://media.licdn.com/dms/image/D4E0BAQHgAFV1CQZL6A/company-logo_100_100/0/1690304444541/fountaininc_logo?e=1709164800&v=beta&t=5aOm77y0rHvnXYylMEak0c55x_Dc-mHXKrZj4ZE-20k,De 201 a 500 empleados,,Data Analyst - Contract,1.0,0.0,0.0
+3775569518,4,MISUMI,IL,,100,3,2,L,https://media.licdn.com/dms/image/D560BAQEoVvdHW2XQlA/company-logo_100_100/0/1665518303438/misumi_logo?e=1709164800&v=beta&t=Iuep2q1m8F-N9_63rZ0XaDUJMFml0p4DQYznOUMGzQE,De 1.001 a 5.000 empleados,,Operations Data Analyst / Onsite,1.0,0.0,0.0
+3775633946,6,HustleWing - Side hustles for professionals,USA,,100,3,4,S,https://media.licdn.com/dms/image/D560BAQH7LlrOk8dY5g/company-logo_100_100/0/1688132776463/hustlewing_logo?e=1709164800&v=beta&t=AvKhgElfAWBtskdPoMVwZX72pJ1AsoB5ZfBGHq8pNOE,Entre 1 y 10 empleados,,Data Scientist,0.0,0.0,1.0
+3775644206,4,Suffolk Construction,MA,,100,3,4,L,https://media.licdn.com/dms/image/D4E0BAQHZIbANlnVZJw/company-logo_100_100/0/1697034811445/suffolk_construction_logo?e=1709769600&v=beta&t=XCHjQHw8ge2nYEglaZ5tYl0Dty0AUlKTbfE72BbgsTM,De 1.001 a 5.000 empleados,,Data Analyst,1.0,0.0,0.0
+3775646864,5,Avenue Code,USA,,100,3,4,L,https://media.licdn.com/dms/image/C4D0BAQEyu7Kf9t9jCg/company-logo_100_100/0/1672326321638/avenuecode_logo?e=1709164800&v=beta&t=jv5E08V4ZOuUfV2IGApMScRCzRdQW-nWJT_U3jXVFT8,De 1.001 a 5.000 empleados,,Data Engineer,1.0,0.0,0.0
+3775680912,5,goop,CA,,100,3,4,L,https://media.licdn.com/dms/image/D560BAQEuXX5sW7EgDA/company-logo_100_100/0/1667506305560/goop__logo?e=1709769600&v=beta&t=Oux-O8qu5Wy5Q_oxe6J1y_1g5tPtqOkC8K_9Qk6uS_Q,De 201 a 500 empleados,,Junior Data Engineer,1.0,0.0,0.0
+3775683541,6,goop,CA,,100,3,4,L,https://media.licdn.com/dms/image/D560BAQEuXX5sW7EgDA/company-logo_100_100/0/1667506305560/goop__logo?e=1709769600&v=beta&t=Oux-O8qu5Wy5Q_oxe6J1y_1g5tPtqOkC8K_9Qk6uS_Q,De 201 a 500 empleados,,Data Scientist,1.0,0.0,0.0
+3775683819,5,Ford Motor Company,USA,,100,3,4,L,https://media.licdn.com/dms/image/C560BAQHZnQf3t8fKKg/company-logo_100_100/0/1630670609155/ford_motor_company_logo?e=1709164800&v=beta&t=R33YdefRyW6N9b7o2xiaodVIiUfDQd_VS4Koo8sXBJA,Más de 10.001 empleados,,Data Engineer,1.0,0.0,0.0
+3776194615,3,WayUp,IL,,0,1,0,M,https://media.licdn.com/dms/image/D560BAQEdb-SvDpZjWA/company-logo_100_100/0/1688417909568/wayup_logo?e=1709769600&v=beta&t=8GknBSK6TrkwmmSQJUJHK36S0oULFf0EFBuxC-ObFsQ,De 51 a 200 empleados,,"Elevance Health, Business Analyst Internship - Summer 2024, Undergraduate - Application via WayUp",0.0,1.0,0.0
+3776278514,9,"UES, An Eqlipse Company",OH,,0,1,0,L,https://media.licdn.com/dms/image/D560BAQG8zW1FTlCxdw/company-logo_100_100/0/1693326297689/ues_inc_dayton_logo?e=1709769600&v=beta&t=cppZBNpQ--KIl_ea3JfMyALLJ8bq6ejgstWVhm7apxk,De 501 a 1.000 empleados,,Research Engineer – AI/ML Design for Manufacturing,1.0,0.0,0.0
+3776286837,4,Ortho Molecular Products,IL,,0,1,0,L,https://media.licdn.com/dms/image/C4D0BAQFm3AundWmVFQ/company-logo_100_100/0/1630558430960/ortho_molecular_products_logo?e=1709769600&v=beta&t=Rii_cV9VygYfB7FhKA-wL3H28xrZO34-trnA0EBzYtA,De 201 a 500 empleados,,Data Analyst I,1.0,0.0,0.0
+3776354337,9,Lily AI,CA,,0,1,0,M,https://media.licdn.com/dms/image/C560BAQEsQDJj7DWW_g/company-logo_100_100/0/1648828391055/lilyai_logo?e=1709769600&v=beta&t=SgIRwnCqin1xJZ_uz32Z_GsT7NZDHoPMdcB9vJZ9r-s,De 51 a 200 empleados,,Senior Machine Learning Engineer,0.0,1.0,0.0
+3776363876,9,"Varsity Tutors, a Nerdy Company",MA,,0,1,0,L,https://media.licdn.com/dms/image/C4E0BAQGv6PHLXLhQiA/company-logo_100_100/0/1630580521873/varsity_tutors_llc_logo?e=1709769600&v=beta&t=I_jDzfN6dwHvvzswKdhEuJTK2ZbO51-gvrXUIc08g-o,De 501 a 1.000 empleados,,Springfield Machine Learning Tutor,1.0,0.0,0.0
+3776395041,4,"Stanley Black & Decker, Inc.",USA,,0,1,0,L,https://media.licdn.com/dms/image/C4D0BAQE5ahBMliaRVw/company-logo_100_100/0/1631339258852?e=1709769600&v=beta&t=q0hTchK38s7UwvOXp4NUhQv2lVxO39d8TzJ7BBirIrw,Más de 10.001 empleados,,Senior Supply Chain Analytics Data Analyst,1.0,0.0,0.0
+3776948509,6,HustleWing - Side hustles for professionals,USA,,100,3,4,S,https://media.licdn.com/dms/image/D560BAQH7LlrOk8dY5g/company-logo_100_100/0/1688132776463/hustlewing_logo?e=1709769600&v=beta&t=v5GIR-e7IxM2-83mRYLt2QirU8bmdX_5tG9BL6Z20ds,Entre 1 y 10 empleados,,Data Scientist,0.0,0.0,1.0
+3776952405,6,Forsyth Barnes,USA,,100,3,4,M,https://media.licdn.com/dms/image/C4E0BAQGj4Kta6gH-xg/company-logo_100_100/0/1657910302075/forsythbarnes_logo?e=1709769600&v=beta&t=HTdAHmTsrxCPJJv68BwnfIJz31L5V6kZ2oekhLIRABg,De 51 a 200 empleados,,Senior Data Scientist,0.0,1.0,0.0
+3776964034,4,Webologix Ltd/ INC,CA,,100,1,0,M,https://media.licdn.com/dms/image/C510BAQHq7dnji3N96A/company-logo_100_100/0/1630626269907/webologix_logo?e=1709769600&v=beta&t=EvI6qwXawSzvNJKm-D50nBtvVxzECbCqmha9F9YHyrk,De 51 a 200 empleados,,Data Analyst,0.0,1.0,0.0
+3776969904,5,Webologix Ltd/ INC,CA,,100,1,0,M,https://media.licdn.com/dms/image/C510BAQHq7dnji3N96A/company-logo_100_100/0/1630626269907/webologix_logo?e=1709769600&v=beta&t=EvI6qwXawSzvNJKm-D50nBtvVxzECbCqmha9F9YHyrk,De 51 a 200 empleados,,Data Engineer,0.0,1.0,0.0
+3776973020,9,Trident Consulting,TX,,100,1,0,M,https://media.licdn.com/dms/image/C560BAQHxvk-OnZLPhw/company-logo_100_100/0/1630648727513/tridentconsulting_logo?e=1709769600&v=beta&t=bemYnT8rXUu-3-vLnDmSdaTCKVFd5SbDPS859A9iLUc,De 51 a 200 empleados,,Machine Learning Engineer,0.0,1.0,0.0
+3776998906,2,Cygnus Professionals Inc.,USA,,100,1,0,L,https://media.licdn.com/dms/image/C4E0BAQHa-ZTS-YAUjQ/company-logo_100_100/0/1630597151627/cygnus_professionals_inc__logo?e=1709769600&v=beta&t=TiAeGTMOAY6kLmo_lqxh5cXZzgfiDOGColIhactRH5Y,De 501 a 1.000 empleados,,Artificial Intelligence Engineer,1.0,0.0,0.0
+3777101396,4,New York State Department of Health,NY,,100,1,0,L,https://media.licdn.com/dms/image/C510BAQF1ADam6-UgVw/company-logo_100_100/0/1631366965327?e=1709769600&v=beta&t=fVVrGVt0Pk7YTIv1uv7a-Owfxlr3pJ9uTZMZYg3slJ4,De 5.001 a 10.000 empleados,,"Data Analyst 2 - 07276, 07277",1.0,0.0,0.0

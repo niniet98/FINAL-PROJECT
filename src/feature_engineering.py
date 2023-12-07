@@ -30,21 +30,28 @@ def categorizing_dataset(dframe):
     df["remote_ratio"] = df.remote_ratio.replace(remote_categories)
 
     # 3. employment_type
-    oneonehotencoder = ps.OneHotEncoder()
-    df[['Jornada completa', 'Contrato por obra', 'Prácticas']] = oneonehotencoder.fit_transform(df["employment_type"].values.reshape(-1, 1)).toarray()
+    employment_type = {
+        'Jornada completa': 4,
+        'Media jornada': 3,
+        'Contrato_por_obra': 2,
+        'Prácticas': 1
+    }
+    df['employment_type'] = df.employment_type.replace(employment_type)
 
     # 4. experience_level
     experience_categories = {
-        'Director': 3,
-        'Ejecutivo': 3,
-        'Algo de responsabilidad': 2,
-        'Intermedio': 2,
-        'Sin experiencia': 1,
+        'Director': 6,
+        'Ejecutivo': 5,
+        'Algo de responsabilidad': 4,
+        'Intermedio': 3,
+        'Sin experiencia': 2,
+        'Temporal': 1,
         'Prácticas': 0
     }
     df["experience_level"] = df.experience_level.replace(experience_categories)
 
     # 5. company_size
+    oneonehotencoder = ps.OneHotEncoder()
     df[['L', 'M', 'S']] = oneonehotencoder.fit_transform(df["company_size"].values.reshape(-1, 1)).toarray()
 
     return df

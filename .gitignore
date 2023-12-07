@@ -1,5 +1,6 @@
 .env
 data/jobs_html
 data/tableau_csv
+data/Streamlit.mp4
 notebooks/notused
 figures

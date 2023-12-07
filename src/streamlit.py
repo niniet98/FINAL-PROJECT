@@ -1,8 +1,13 @@
 import streamlit as st
 import streamlit.components.v1 as components
-# from matplotlib import pyplot as plt
 import pandas as pd
 import numpy as np
+import pickle
+import feature_engineering as fe
+
+model_file = '../models/RandomForestRegressor_r2_0.6775482645582177.pkl'
+with open(model_file, 'rb') as f:
+    model = pickle.load(f)
 
 st.set_page_config(page_title="LinkedIn Salary Predictor", page_icon=":us:", layout="wide")
 
@@ -35,9 +40,12 @@ logo.image('../readme/linkedin_logo.png')
 
 head.header('Job Searcher & Salary Predictor')
 
-linkedin = pd.read_csv('../data/linkedin_standarized.csv')
+linkedin = pd.read_csv('../data/predicted.csv')
+# linkedin = pd.read_csv('../data/linkedin_standarized.csv')
+# fe_applied = fe.categorizing_dataset(linkedin)
+# pred = model.predict(fe_applied.select_dtypes(exclude='object').drop(columns=['salary']))
+# linkedin['pred'] = pred
 filtered = pd.DataFrame()
-
 
 row1_1, row1_2, row1_3 = st.columns(3)
 
@@ -72,13 +80,13 @@ st.markdown(
         }
         .stButton button:active {
             background-color: #0077B5;
-                color: white;
+            color: white;
             border-color: #0077B5;
         }
         .stButton button:focus,
         .stButton button:visited {
             background-color: #0077B5;
-                color: white;
+            color: white;
             border-color: #0077B5;
         }
     </style>
@@ -96,15 +104,15 @@ if search:
         for _, job in filtered.iterrows():
 
             st.markdown(
-                    """
-                    <style>
-                    .stHorizontalBlock .e1f1d6gn2 {
-                            padding: 0rem 2rem !important;
-                        }
-                    </style>
-                    """
-                    , unsafe_allow_html=True
-                )
+                """
+                <style>
+                .stHorizontalBlock .e1f1d6gn2 {
+                    padding: 0rem 2rem !important;
+                }
+                </style>
+                """
+                , unsafe_allow_html=True
+            )
             img, info = st.columns([1, 11])
 
             with img:
@@ -113,9 +121,9 @@ if search:
                 st.markdown(
                     """
                     <style>
-                        h3 {
-                            margin-top: 1.5rem;
-                        }
+                    h3 {
+                        # margin-top: 1.5rem;
+                    }
                     </style>
                     """
                     , unsafe_allow_html=True
@@ -130,9 +138,9 @@ if search:
                 st.markdown(
                     """
                     <style>
-                        .stMarkdownContainer p {
-                            margin-bottom: 0px;
-                        }
+                    .stMarkdownContainer p {
+                        margin-bottom: 0px;
+                    }
                     </style>
                     """
                     , unsafe_allow_html=True
@@ -142,14 +150,25 @@ if search:
                     line2 = ':briefcase: ' + job['salary_range'] + ' · ' + job['remote_ratio'] + ' · ' + job['employment_type'] + ' · ' + job['experience_level']
                 else:
                     line2 = ':briefcase: ' + job['remote_ratio'] + ' · ' + job['employment_type'] + ' · ' + job['experience_level']
+                    
+                    prediction = str(job['pred_salary'])
+                    prediction += ' $/yr'
                 st.write(line2)
 
-                line3 = ':office: ' + job['company_size']
+                line3 = ':office: ' + job['employees']
                 st.write(line3)
 
                 if str(job['salary_range']) == 'nan':
-                    predict = st.button(label='Predict Salary', key=job['job_id'])
-                    if predict:
-                        st.write('hola')
+                    st.markdown(
+                    """
+                    <style>
+                    #prediction {
+                        color: green
+                    }
+                    </style>
+                    """
+                    , unsafe_allow_html=True
+                    )
+                    st.subheader(prediction)
 
 

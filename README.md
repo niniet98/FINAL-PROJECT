@@ -30,9 +30,10 @@ We developed a small web demonstration to illustrate the user flow within Linked
 The dataset used for this project was curated exclusively from LinkedIn, a professional networking platform widely used for job postings and career-related information.
 
 ## Next Steps
-- Broaden data not only in data field but in other tech fields and other countries.
-- Try new models to find the best that fits de salary prediction.
-- Improve streamlit app.
+- **Expand Data**: Broaden data not only in data field but in other tech fields and countries.
+- **Optimize Salary Prediction Models**: Experiment with new models to pinpoint the most accurate for salary predictions.
+- **Refine Streamlit App**: Improve the Streamlit app for better usability and functionality.
+
 
 ## Links
 [Canva Support](https://www.canva.com/design/DAF2A4HqE8Y/VBn4UNJj9l0F8H_xmCQH8Q/edit?utm_content=DAF2A4HqE8Y&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)

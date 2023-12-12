@@ -1,6 +1,9 @@
 # Predictive Model of Salaries in Job Offers
 
 ## Description
+In today's job search landscape, one critical piece of information often missing from job postings is the salary range. Addressing this gap, this project aims to provide predictive insights into salaries within the data field. Understanding the importance of salary information for job seekers, this initiative endeavors to offer a reliable estimation of salaries for various positions within the data domain.
+
+The primary goal of this project is to use machine learning and data analytics techniques to predict salaries. By leveraging available data in linkedin related to job descriptions, qualifications, locations, and other pertinent factors, the project seeks to develop a predictive model that estimates salary ranges for different data-related job positions in the US.
 
 ## Workflow
 ![pipeline](https://github.com/niniet98/FINAL-PROJECT/blob/main/readme/workflow.png?raw=true)
@@ -24,12 +27,12 @@ At this stage, an additional transformation was required for the dataset. Follow
 We developed a small web demonstration to illustrate the user flow within LinkedIn, demonstrating the step-by-step process of how a user filters job searches to find a specific position. The demonstration showcases how the system predicts potential salaries in instances where salary information is not available, offering a comprehensive view of the user experience on the platform.
 
 ## Data Source
-
-## Model
-
-## Organization
+The dataset used for this project was curated exclusively from LinkedIn, a professional networking platform widely used for job postings and career-related information.
 
 ## Next Steps
+- Broaden data not only in data field but in other tech fields and other countries.
+- Try new models to find the best that fits de salary prediction.
+- Improve streamlit app.
 
 ## Links
 [Canva Support](https://www.canva.com/design/DAF2A4HqE8Y/VBn4UNJj9l0F8H_xmCQH8Q/edit?utm_content=DAF2A4HqE8Y&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)

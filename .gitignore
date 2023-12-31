@@ -1,6 +1,9 @@
 .env
-data/jobs_html
-data/tableau_csv
-data/Streamlit.mp4
+data
+# data/jobs_html
+# data/new_jobs
+# data/tableau_csv
+# data/Streamlit.mp4
 notebooks/notused
 figures
+src/__pycache__
